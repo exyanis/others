@@ -13,3 +13,39 @@ https://se24-ott.iptvcdn.tv/hls/p/10.100.1.130:4041/23200_0_101_eaad7d09e3/vs_1/
 https://se24-ott.iptvcdn.tv/hls/p/10.100.1.136:4041/23201_0_101_eaad7d09e3/vs_1/playlist.m3u8?h=Ls2YiVmAh2WYpORhhzga0w&e=1601907120&ident=55449baaf084e&s=23201&t=0&p=101_eaad7d09e3&strid=9ac8b71add&host=SE24-OTT.iptvcdn.tv%3A443
 #EXTINF:-1, ALMAJD DOC
 https://se24-ott.iptvcdn.tv/hls/p/10.100.1.138:4041/23204_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=yDf4e0Yu0SvlytfJoPEGTw&e=1601907517&ident=55449baaf084e&s=23204&t=0&p=101_eaad7d09e3&strid=dbfbe2c95a&host=SE24-OTT.iptvcdn.tv%3A443
+#EXTINF:-1, AD NATGEO
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+#EXTINF:-1, ALHADATH
+http://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
+#EXTINF:-1, ALARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
+#EXTINF:-1, SKYNEWS
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1, FRANCE 24
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1, BFMTV
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+#EXTINF:-1, LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
+#EXTINF:-1, TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1, RTS1
+https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
+#EXTINF:-1, GONG
+http://51.254.215.79/appflux/gong/playlist.m3u8
+#EXTINF:-1, TF1 SERIE FILM
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1, LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1, TV5MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1, TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1, CITRUSS
+https://citrusstv.akamaized.net/hls/live/687285/CTV/03.m3u8
+#EXTINF:-1, BBC ONE
+http://176.10.117.3:5000/play/a035
+#EXTINF:-1, RAI 2
+http://176.10.117.3:5000/play/a034
+#EXTINF:-1, RAI 1
+http://176.10.117.3:5000/play/a033
