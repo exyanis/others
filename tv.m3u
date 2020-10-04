@@ -15,9 +15,3 @@ https://cdn.hta.dz/live/TV_6_HD/iptvdz/TV_6_HD_720p/chunks.m3u8?nimblesessionid=
 https://cdn.hta.dz/live/TV7_ELMAARIFA/iptvdz/TV7_ELMAARIFA_720p/chunks.m3u8?nimblesessionid=8699473&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAwMTowOToxNiBQTSZoYXNoX3ZhbHVlPUVYRVNnYVBKRDdtMmFxU0VXYTBQY2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1, TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1, FRANCE 2
-http://176.10.117.3:5000/play/a02v
-#EXTINF:-1, FRANCE 3
-http://176.10.117.3:5000/play/a02w
-#EXTINF:-1, M6
-http://176.10.117.3:5000/play/a02x
