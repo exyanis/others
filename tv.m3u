@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1, PROGRAMME NATIONAL
-https://cdn.hta.dz/live/PROGRAMME_NATIONAL/iptvdz/PROGRAMME_NATIONAL_720p/chunks.m3u8?nimblesessionid=8699058&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAxMjo1MzowNyBQTSZoYXNoX3ZhbHVlPUUvbVZ2dzhNcWwzdlFpYlNzZHhZNmc9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1, CANAL ALGERIE
-https://cdn.hta.dz/live/CANAL_ALGERIE/iptvdz/CANAL_ALGERIE_240p/chunks.m3u8?nimblesessionid=8699231&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAxMjo1ODoxOSBQTSZoYXNoX3ZhbHVlPXEvWkt1alJFeStXbGlldTFRTVRyVEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1, A3
-https://cdn.hta.dz/live/A3_HD/iptvdz/A3_HD_720p/chunks.m3u8?nimblesessionid=8699293&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAxMjo1OTo0NSBQTSZoYXNoX3ZhbHVlPUVWeG1kZGJRcUtLUXpQbGx2Ni9jQ0E9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1, TV4 ALGERIE
-https://cdn.hta.dz/live/TV_4/iptvdz/TV_4_720p/chunks.m3u8?nimblesessionid=8699333&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAwMTowMToxMiBQTSZoYXNoX3ZhbHVlPWQwRkJZNlNZUC9EV0IwV2l0WWVGMmc9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1, TV5 ALGERIE
-https://cdn.hta.dz/live/TV_5/iptvdz/TV_5_720p/chunks.m3u8?nimblesessionid=8699391&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAwMTowMjo1MyBQTSZoYXNoX3ZhbHVlPW1KWDhnd2FLdXhESzUrQW9ZamdIU3c9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1, TV6 ALGERIE
-https://cdn.hta.dz/live/TV_6_HD/iptvdz/TV_6_HD_720p/chunks.m3u8?nimblesessionid=8699731&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAwMToxMDozOCBQTSZoYXNoX3ZhbHVlPWphL3o0V1BNU21uSkVCRHZRSW5RUGc9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1, TV7 ELMAARIFA
-https://cdn.hta.dz/live/TV7_ELMAARIFA/iptvdz/TV7_ELMAARIFA_720p/chunks.m3u8?nimblesessionid=8699473&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDQvMjAyMCAwMTowOToxNiBQTSZoYXNoX3ZhbHVlPUVYRVNnYVBKRDdtMmFxU0VXYTBQY2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1, TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
