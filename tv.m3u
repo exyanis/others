@@ -75,3 +75,5 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1, SAUDI 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1, LA1
+https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8
