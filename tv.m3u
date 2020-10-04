@@ -9,3 +9,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1, AD SPORTS 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1, SAUDI QURAN
+http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
+#EXTINF:-1, AYAAT
+http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
