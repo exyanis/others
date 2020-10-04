@@ -59,3 +59,7 @@ http://176.10.117.3:5000/play/a037
 http://176.10.117.3:5000/play/a037
 #EXTINF:-1, NICK SHWEIZ
 http://176.10.117.3:5000/play/a038
+#EXTINF:-1, ENNAHAR
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+#EXTINF:-1, 1 Kanal Evraziya
+https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8?checkedby:hlscat.c
