@@ -63,5 +63,6 @@ http://176.10.117.3:5000/play/a038
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
 #EXTINF:-1, 1 Kanal Evraziya
 https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
-3EESH ALAAN
+#EXTINF:-1, 3EESH ALAAN
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+
