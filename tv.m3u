@@ -67,4 +67,6 @@ https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1, CANAL ALGERIE
 http://178.132.3.162:88/canal_algerie/video.m3u8
+#EXTINF:-1, TEST
+http://37.235.141.63:81/udp/225.50.66.94:1234
 
