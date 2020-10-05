@@ -191,3 +191,5 @@ https://tv.bild-upload.com/rtl2q/tracks-v1a1/mono.m3u8
 https://tv.bild-upload.com/voxa/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SUPER RTL
 https://1.bild-upload.com/super/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SIXX
+https://1.bild-upload.com/sixx/tracks-v1a1/mono.m3u8
