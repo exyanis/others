@@ -169,3 +169,7 @@ https://11.jetlivestream.com/hls/sat1.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist_b1896000.m3u8
 #EXTINF:-1, 3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
+#EXTINF:-1, RUSSIA 1
+https://a787200063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+#EXTINF:-1, TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
