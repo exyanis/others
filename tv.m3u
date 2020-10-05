@@ -103,3 +103,21 @@ https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8
 #EXTINF:-1, MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
+#EXTINF:-1, MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
+#EXTINF:-1, MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1, MBC ACTION
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_3.m3u8
+#EXTINF:-1, MBC MAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_3.m3u8
+#EXTINF:-1, MBC MASR
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
+#EXTINF:-1, EL FAJER 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1, SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w476179191_b1296000_slAR.m3u8
+#EXTINF:-1, CNEWS
+https://stream-11.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gXal6ZEM9m77B3r5a5nAaJM)/dm/3/x3b68jn/d/live-3.m3u8
+
+
