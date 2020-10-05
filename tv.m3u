@@ -167,5 +167,6 @@ https://wer2.wertvlive.com/pro7max/tracks-v1a1/mono.m3u8
 https://11.jetlivestream.com/hls/kabel1.m3u8
 #EXTINF:-1, SAT1
 https://11.jetlivestream.com/hls/sat1.m3u8
-
+#EXTINF:-1, PROGRAMME NATIONAL
+https://cdn.hta.dz/live/PROGRAMME_NATIONAL/iptvdz/PROGRAMME_NATIONAL_720p/chunks.m3u8?nimblesessionid=8736976&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzozNToyMiBQTSZoYXNoX3ZhbHVlPTFNQmJKQjF6aEdudlBHSW0wd1IzZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
