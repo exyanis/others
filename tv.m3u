@@ -155,3 +155,5 @@ http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 #EXTINF:-1, NTV RUSSIA
 https://mhd.iptv2022.com/p/B4PD-vHDMpYJQry6aWUZQg,1601986757/streaming/ntvnn/324/vh1w/playlist.m3u8
+#EXTINF:-1, PRO7
+https://tv.bild-upload.com/pro7q/tracks-v1a1/mono.m3u8
