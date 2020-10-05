@@ -245,3 +245,5 @@ https://cdn.hta.dz/live/SamiraTV/iptvdz/SamiraTV_360p/chunks.m3u8?nimblesessioni
 https://cdn.hta.dz/live/EL_FADJR_TV_DZ/iptvdz/EL_FADJR_TV_DZ_360p/chunks.m3u8?nimblesessionid=8737890&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMDowMSBQTSZoYXNoX3ZhbHVlPWJTSUZtWis5QmNIdlFLZkdHbmtOcnc9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1, ALANIS
 https://cdn.hta.dz/live/El_Fhama_TV/iptvdz/El_Fhama_TV_240p/chunks.m3u8?nimblesessionid=8737921&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMDo1NSBQTSZoYXNoX3ZhbHVlPVJJSC9PazdjMlVISHdhNUc4dEJ6SlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV3 CATALUNYA
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist_b1896000.m3u8
