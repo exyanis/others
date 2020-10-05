@@ -101,3 +101,5 @@ https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/me
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1, MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8
+#EXTINF:-1, MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
