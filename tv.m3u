@@ -174,4 +174,12 @@ https://stream-05.dc3.dailymotion.com/sec(0WaCJhrovgRg8yiOV8Daz2gr7geUSowAMnH6qD
 #EXTINF:-1, CBC NEWS
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #EXTINF:-1, A2
-https://sc.id-tv.kz/A2.m3u8?checkedby:hlscat.com
+https://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1, AD SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1, AD SPORTS 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, AD SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, AD SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
