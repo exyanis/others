@@ -98,4 +98,6 @@ https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1, TELE MAROC
 https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media/27130247_8196478_lsikcbo846un6h5ozg4_1@2756000p.m3u8?dw=14400&ts=1601877600&hdnts=exp=1602052174~acl=/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media*~hmac=8da1152e5ad704c01d424a2f9a7b5de8a82e90398c49be1654b6656c0da12102
 #EXTINF:-1, MBC 1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
+#EXTINF:-1, MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8
