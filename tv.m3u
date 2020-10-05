@@ -177,3 +177,5 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8
 #EXTINF:-1, ECHOROUK NEWS
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8
+#EXTINF:-1, DAS ERST
+https://mcdn.daserste.de/daserste/int/master_3744.m3u8
