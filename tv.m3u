@@ -119,5 +119,10 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w476179191_b1296000_slAR.m3u8
 #EXTINF:-1, CNEWS
 https://stream-11.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gXal6ZEM9m77B3r5a5nAaJM)/dm/3/x3b68jn/d/live-3.m3u8
-
+#EXTINF:-1, A3
+https://stream-08.ix7.dailymotion.com/sec(zsJvUO364Q-dgxMxWVypVc7GkCzYhNAXjwOe5N-5VxI)/dm/3/x7mpe4j/s/live-0.m3u8
+#EXTINF:-1, FRANCE 2
+http://176.10.117.3:5000/play/a02v
+#EXTINF:-1, FRANCE 3
+http://176.10.117.3:5000/play/a02w
 
