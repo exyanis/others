@@ -169,3 +169,7 @@ https://mcdn.daserste.de/daserste/int/master_3744.m3u8
 https://edge7.vedge.infomaniak.com/livecast/ik:dciwebcam/chunklist_w45920326.m3u8?spark=46e39b4f-46ce-4e1c-a595-4b560d1b9ddd&token=
 #EXTINF:-1, LCP
 https://stream-03.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbB6KP01OInUOaYf0y6ig7xM)/dm/3/xji3qy/d/live-2.m3u8
+#EXTINF:-1, MB LIVE
+https://stream-05.dc3.dailymotion.com/sec(0WaCJhrovgRg8yiOV8Daz2gr7geUSowAMnH6qDMwIic)/dm/3/x52iluh/d/live-3.m3u8
+#EXTINF:-1, CBC NEWS
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8?checkedby:hlscat.com
