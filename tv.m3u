@@ -167,3 +167,5 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 https://mcdn.daserste.de/daserste/int/master_3744.m3u8
 #EXTINF:-1, D!CI TV
 https://edge7.vedge.infomaniak.com/livecast/ik:dciwebcam/chunklist_w45920326.m3u8?spark=46e39b4f-46ce-4e1c-a595-4b560d1b9ddd&token=
+#EXTINF:-1, LCP
+https://stream-03.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbB6KP01OInUOaYf0y6ig7xM)/dm/3/xji3qy/d/live-2.m3u8
