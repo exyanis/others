@@ -127,4 +127,8 @@ http://176.10.117.3:5000/play/a02v
 http://176.10.117.3:5000/play/a02w
 #EXTINF:-1, TRT 1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT 2
+https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
+#EXTINF:-1, TRT COKUK
+https://tv-trtcocuk.live.trt.com.tr/master_360.m3u8
 
