@@ -173,9 +173,5 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
 https://a787200063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
 #EXTINF:-1, TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-1, ECHOROUKTV
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8
-#EXTINF:-1, ECHOROUK NEWS
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8
 #EXTINF:-1, DAS ERST
 https://mcdn.daserste.de/daserste/int/master_3744.m3u8
