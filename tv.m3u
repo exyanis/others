@@ -193,3 +193,7 @@ https://tv.bild-upload.com/voxa/tracks-v1a1/mono.m3u8
 https://1.bild-upload.com/super/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SIXX
 https://1.bild-upload.com/sixx/tracks-v1a1/mono.m3u8
+#EXTINF:-1, DISNEY
+https://wer22.wertvlive.com/hls/disney.m3u8
+#EXTINF:-1, 3SAT
+https://tv.bild-upload.com/3sat/tracks-v1a1/mono.m3u8
