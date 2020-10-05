@@ -8,11 +8,7 @@ http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
 #EXTINF:-1, QOTAMI
 http://ayat.live.net.sa:1935/live/qotami/playlist.m3u8
 #EXTINF:-1, ALMAJD QURAN
-https://se24-ott.iptvcdn.tv/hls/p/10.100.1.130:4041/23200_0_101_eaad7d09e3/vs_1/playlist.m3u8?h=K5eiP4nlezo0alxLJOnIyA&e=1601906755&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=ec073c8d60&host=SE24-OTT.iptvcdn.tv%3A443
-#EXTINF:-1, ALMAJD HADITH
-https://se24-ott.iptvcdn.tv/hls/p/10.100.1.136:4041/23201_0_101_eaad7d09e3/vs_1/playlist.m3u8?h=Ls2YiVmAh2WYpORhhzga0w&e=1601907120&ident=55449baaf084e&s=23201&t=0&p=101_eaad7d09e3&strid=9ac8b71add&host=SE24-OTT.iptvcdn.tv%3A443
-#EXTINF:-1, ALMAJD DOC
-https://se24-ott.iptvcdn.tv/hls/p/10.100.1.138:4041/23204_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=yDf4e0Yu0SvlytfJoPEGTw&e=1601907517&ident=55449baaf084e&s=23204&t=0&p=101_eaad7d09e3&strid=dbfbe2c95a&host=SE24-OTT.iptvcdn.tv%3A443
+https://se24-ott.iptvcdn.tv/hls/p/10.100.1.122:4041/23200_0_101_eaad7d09e3/vs_1/playlist.m3u8?h=uWRwOTOmaGDNBS8QmQNWZw&e=1602002641&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=f44dd93747&host=SE24-OTT.iptvcdn.tv%3A443
 #EXTINF:-1, AD NATGEO
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
 #EXTINF:-1, ALHADATH
