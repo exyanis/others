@@ -169,4 +169,15 @@ https://11.jetlivestream.com/hls/kabel1.m3u8
 https://11.jetlivestream.com/hls/sat1.m3u8
 #EXTINF:-1, PROGRAMME NATIONAL
 https://cdn.hta.dz/live/PROGRAMME_NATIONAL/iptvdz/PROGRAMME_NATIONAL_720p/chunks.m3u8?nimblesessionid=8736976&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzozNToyMiBQTSZoYXNoX3ZhbHVlPTFNQmJKQjF6aEdudlBHSW0wd1IzZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
-
+#EXTINF:-1, CANAL ALGERIE
+https://cdn.hta.dz/live/CANAL_ALGERIE/iptvdz/CANAL_ALGERIE_720p/chunks.m3u8?nimblesessionid=8737024&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzozOTowNyBQTSZoYXNoX3ZhbHVlPS8wekFrMTZuZ3JQMTBUMXBBQ3VFSlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, A3
+https://cdn.hta.dz/live/A3_HD/iptvdz/A3_HD_720p/l_9598459_12927251_36564.ts?nimblesessionid=8737037&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0MDowMiBQTSZoYXNoX3ZhbHVlPURhMGF6RG95VE8vVVFnYS92OWRIM1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV4
+https://cdn.hta.dz/live/TV_4/iptvdz/TV_4_240p/chunks.m3u8?nimblesessionid=8737069&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0MTowOCBQTSZoYXNoX3ZhbHVlPTc5bHlyVnkvWnVBMnRrNTVQQ2FRWmc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV5
+https://cdn.hta.dz/live/TV_5/iptvdz/TV_5_240p/chunks.m3u8?nimblesessionid=8737105&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0NDozNiBQTSZoYXNoX3ZhbHVlPXBMeTVEWDNVWWlhVEo3QTNFMmdwREE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV6
+https://cdn.hta.dz/live/TV_6_HD/iptvdz/TV_6_HD_240p/chunks.m3u8?nimblesessionid=8737119&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0NTozNiBQTSZoYXNoX3ZhbHVlPVY2WjZnQldYaEZQR2xETCtmT25mSUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV7
+https://cdn.hta.dz/live/TV7_ELMAARIFA/iptvdz/TV7_ELMAARIFA_240p/chunks.m3u8?nimblesessionid=8737173&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0Njo0MyBQTSZoYXNoX3ZhbHVlPTdLRTR3ODBOeWtBWkRJUFAzSnhlSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
