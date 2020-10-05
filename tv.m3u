@@ -172,7 +172,7 @@ https://cdn.hta.dz/live/PROGRAMME_NATIONAL/iptvdz/PROGRAMME_NATIONAL_720p/chunks
 #EXTINF:-1, CANAL ALGERIE
 https://cdn.hta.dz/live/CANAL_ALGERIE/iptvdz/CANAL_ALGERIE_720p/chunks.m3u8?nimblesessionid=8737024&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzozOTowNyBQTSZoYXNoX3ZhbHVlPS8wekFrMTZuZ3JQMTBUMXBBQ3VFSlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1, A3
-https://cdn.hta.dz/live/A3_HD/iptvdz/A3_HD_720p/l_9598459_12927251_36564.ts?nimblesessionid=8737037&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0MDowMiBQTSZoYXNoX3ZhbHVlPURhMGF6RG95VE8vVVFnYS92OWRIM1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn.hta.dz/live/A3_HD/iptvdz/A3_HD_720p/chunks.m3u8?nimblesessionid=8737657&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNDoyNSBQTSZoYXNoX3ZhbHVlPTE0LzZKWmF2RldXTjlDWEJnMXl6bUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1, TV4
 https://cdn.hta.dz/live/TV_4/iptvdz/TV_4_720p/chunks.m3u8?nimblesessionid=8737069&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0MTowOCBQTSZoYXNoX3ZhbHVlPTc5bHlyVnkvWnVBMnRrNTVQQ2FRWmc9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1, TV5
@@ -181,3 +181,69 @@ https://cdn.hta.dz/live/TV_5/iptvdz/TV_5_720p/chunks.m3u8?nimblesessionid=873710
 https://cdn.hta.dz/live/TV_6_HD/iptvdz/TV_6_HD_720p/chunks.m3u8?nimblesessionid=8737119&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0NTozNiBQTSZoYXNoX3ZhbHVlPVY2WjZnQldYaEZQR2xETCtmT25mSUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1, TV7
 https://cdn.hta.dz/live/TV7_ELMAARIFA/iptvdz/TV7_ELMAARIFA_720p/chunks.m3u8?nimblesessionid=8737173&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0Njo0MyBQTSZoYXNoX3ZhbHVlPTdLRTR3ODBOeWtBWkRJUFAzSnhlSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELBILAD
+https://cdn.hta.dz/live/EL_BILAD/iptvdz/EL_BILAD_720p/chunks.m3u8?nimblesessionid=8737393&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1MzozMyBQTSZoYXNoX3ZhbHVlPWE3ZFh2L3N2UDhQVjRETHVxZGpaVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, BEURTV
+https://cdn.hta.dz/live/Beur_TV/iptvdz/Beur_TV_720p/chunks.m3u8?nimblesessionid=8737427&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1NDo0NyBQTSZoYXNoX3ZhbHVlPTEwQ1pNSlFWMzVONENKMnFmMVdoK2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ECHOROUKTV
+https://cdn.hta.dz/live/Echorouk_TV_HD/iptvdz/Echorouk_TV_HD_720p/chunks.m3u8?nimblesessionid=8737452&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1NjozOCBQTSZoYXNoX3ZhbHVlPWo3dHV6Vm92MFNTSVQyYVpFeC9lcUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELDJAZAIRIA ONE
+https://cdn.hta.dz/live/EL_DJAZAIRIA_TV/iptvdz/EL_DJAZAIRIA_TV_720p/chunks.m3u8?nimblesessionid=8737476&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1Nzo0MyBQTSZoYXNoX3ZhbHVlPWtmbCtMczhyY1c1SFliSC80aU1xaFE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ENNAHAR TV
+https://cdn.hta.dz/live/ENNAHAR_TV/iptvdz/ENNAHAR_TV_720p/chunks.m3u8?nimblesessionid=8737955&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMjozNiBQTSZoYXNoX3ZhbHVlPVVLRjFFckhSTUJTU3FyQVBvNnVpSEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ECHOROUK TV NEWS
+https://cdn.hta.dz/live/ECHOROUK_NEWS/iptvdz/ECHOROUK_NEWS_720p/chunks.m3u8?nimblesessionid=8737564&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowMTozNiBQTSZoYXNoX3ZhbHVlPS9UclVYZFJzRVFGTTliYWZHeWlwWXc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELHAYAT TV
+https://cdn.hta.dz/live/EL_HAYAT_TV_ALGERIE/iptvdz/EL_HAYAT_TV_ALGERIE_7240p/chunks.m3u8?nimblesessionid=8737686&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNToxMiBQTSZoYXNoX3ZhbHVlPTdQaGszd2pINlgzV1BmTTM4WkZ6Znc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELHEDDAF TV
+https://cdn.hta.dz/live/EL_HEDDAF_TV/iptvdz/EL_HEDDAF_TV_720p/chunks.m3u8?nimblesessionid=8737597&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowMjo1MCBQTSZoYXNoX3ZhbHVlPU1ReVBFSEtFM1ZYRmlmRWxuNFJoS1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, NUMEDIA TV
+https://cdn.hta.dz/live/NUMIDIA_TV/iptvdz/NUMIDIA_TV_720p/chunks.m3u8?nimblesessionid=8737731&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNjozMSBQTSZoYXNoX3ZhbHVlPVVDWFpCWGQwTkVFdSs0L1IwMjBpUHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, BAHIA TV
+https://cdn.hta.dz/live/Bahia_TV/iptvdz/Bahia_TV_720p/chunks.m3u8?nimblesessionid=8737778&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNzo1MyBQTSZoYXNoX3ZhbHVlPVIxWERGSGNVYy9lUFE2ZkowZUV1M0E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, SAMIRA TV
+https://cdn.hta.dz/live/SamiraTV/iptvdz/SamiraTV_720p/chunks.m3u8?nimblesessionid=8737828&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowODo1NyBQTSZoYXNoX3ZhbHVlPTBLdkkwOUlPTmJhdjF0TGNTWkZxZWc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELFAJR TV
+https://cdn.hta.dz/live/EL_FADJR_TV_DZ/iptvdz/EL_FADJR_TV_DZ_720p/chunks.m3u8?nimblesessionid=8737890&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMDowMSBQTSZoYXNoX3ZhbHVlPWJTSUZtWis5QmNIdlFLZkdHbmtOcnc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ALANIS
+https://cdn.hta.dz/live/El_Fhama_TV/iptvdz/El_Fhama_TV_240p/chunks.m3u8?nimblesessionid=8737921&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMDo1NSBQTSZoYXNoX3ZhbHVlPVJJSC9PazdjMlVISHdhNUc4dEJ6SlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, PROGRAMME NATIONAL
+https://cdn.hta.dz/live/PROGRAMME_NATIONAL/iptvdz/PROGRAMME_NATIONAL_360p/chunks.m3u8?nimblesessionid=8736976&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzozNToyMiBQTSZoYXNoX3ZhbHVlPTFNQmJKQjF6aEdudlBHSW0wd1IzZ1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, CANAL ALGERIE
+https://cdn.hta.dz/live/CANAL_ALGERIE/iptvdz/CANAL_ALGERIE_360p/chunks.m3u8?nimblesessionid=8737024&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzozOTowNyBQTSZoYXNoX3ZhbHVlPS8wekFrMTZuZ3JQMTBUMXBBQ3VFSlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, A3
+https://cdn.hta.dz/live/A3_HD/iptvdz/A3_HD_360p/chunks.m3u8?nimblesessionid=8737657&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNDoyNSBQTSZoYXNoX3ZhbHVlPTE0LzZKWmF2RldXTjlDWEJnMXl6bUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV4
+https://cdn.hta.dz/live/TV_4/iptvdz/TV_4_360p/chunks.m3u8?nimblesessionid=8737069&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0MTowOCBQTSZoYXNoX3ZhbHVlPTc5bHlyVnkvWnVBMnRrNTVQQ2FRWmc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV5
+https://cdn.hta.dz/live/TV_5/iptvdz/TV_5_360p/chunks.m3u8?nimblesessionid=8737105&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0NDozNiBQTSZoYXNoX3ZhbHVlPXBMeTVEWDNVWWlhVEo3QTNFMmdwREE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV6
+https://cdn.hta.dz/live/TV_6_HD/iptvdz/TV_6_HD_360p/chunks.m3u8?nimblesessionid=8737119&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0NTozNiBQTSZoYXNoX3ZhbHVlPVY2WjZnQldYaEZQR2xETCtmT25mSUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, TV7
+https://cdn.hta.dz/live/TV7_ELMAARIFA/iptvdz/TV7_ELMAARIFA_360p/chunks.m3u8?nimblesessionid=8737173&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo0Njo0MyBQTSZoYXNoX3ZhbHVlPTdLRTR3ODBOeWtBWkRJUFAzSnhlSHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELBILAD
+https://cdn.hta.dz/live/EL_BILAD/iptvdz/EL_BILAD_360p/chunks.m3u8?nimblesessionid=8737393&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1MzozMyBQTSZoYXNoX3ZhbHVlPWE3ZFh2L3N2UDhQVjRETHVxZGpaVVE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, BEURTV
+https://cdn.hta.dz/live/Beur_TV/iptvdz/Beur_TV_360p/chunks.m3u8?nimblesessionid=8737427&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1NDo0NyBQTSZoYXNoX3ZhbHVlPTEwQ1pNSlFWMzVONENKMnFmMVdoK2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ECHOROUKTV
+https://cdn.hta.dz/live/Echorouk_TV_HD/iptvdz/Echorouk_TV_HD_360p/chunks.m3u8?nimblesessionid=8737452&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1NjozOCBQTSZoYXNoX3ZhbHVlPWo3dHV6Vm92MFNTSVQyYVpFeC9lcUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELDJAZAIRIA ONE
+https://cdn.hta.dz/live/EL_DJAZAIRIA_TV/iptvdz/EL_DJAZAIRIA_TV_360p/chunks.m3u8?nimblesessionid=8737476&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwMzo1Nzo0MyBQTSZoYXNoX3ZhbHVlPWtmbCtMczhyY1c1SFliSC80aU1xaFE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ENNAHAR TV
+https://cdn.hta.dz/live/ENNAHAR_TV/iptvdz/ENNAHAR_TV_360p/chunks.m3u8?nimblesessionid=8737955&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMjozNiBQTSZoYXNoX3ZhbHVlPVVLRjFFckhSTUJTU3FyQVBvNnVpSEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ECHOROUK TV NEWS
+https://cdn.hta.dz/live/ECHOROUK_NEWS/iptvdz/ECHOROUK_NEWS_360p/chunks.m3u8?nimblesessionid=8737564&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowMTozNiBQTSZoYXNoX3ZhbHVlPS9UclVYZFJzRVFGTTliYWZHeWlwWXc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELHAYAT TV
+https://cdn.hta.dz/live/EL_HAYAT_TV_ALGERIE/iptvdz/EL_HAYAT_TV_ALGERIE_360p/chunks.m3u8?nimblesessionid=8737686&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNToxMiBQTSZoYXNoX3ZhbHVlPTdQaGszd2pINlgzV1BmTTM4WkZ6Znc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELHEDDAF TV
+https://cdn.hta.dz/live/EL_HEDDAF_TV/iptvdz/EL_HEDDAF_TV_360p/chunks.m3u8?nimblesessionid=8737597&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowMjo1MCBQTSZoYXNoX3ZhbHVlPU1ReVBFSEtFM1ZYRmlmRWxuNFJoS1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, NUMEDIA TV
+https://cdn.hta.dz/live/NUMIDIA_TV/iptvdz/NUMIDIA_TV_360p/chunks.m3u8?nimblesessionid=8737731&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNjozMSBQTSZoYXNoX3ZhbHVlPVVDWFpCWGQwTkVFdSs0L1IwMjBpUHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, BAHIA TV
+https://cdn.hta.dz/live/Bahia_TV/iptvdz/Bahia_TV_360p/chunks.m3u8?nimblesessionid=8737778&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowNzo1MyBQTSZoYXNoX3ZhbHVlPVIxWERGSGNVYy9lUFE2ZkowZUV1M0E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, SAMIRA TV
+https://cdn.hta.dz/live/SamiraTV/iptvdz/SamiraTV_360p/chunks.m3u8?nimblesessionid=8737828&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDowODo1NyBQTSZoYXNoX3ZhbHVlPTBLdkkwOUlPTmJhdjF0TGNTWkZxZWc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ELFAJR TV
+https://cdn.hta.dz/live/EL_FADJR_TV_DZ/iptvdz/EL_FADJR_TV_DZ_360p/chunks.m3u8?nimblesessionid=8737890&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMDowMSBQTSZoYXNoX3ZhbHVlPWJTSUZtWis5QmNIdlFLZkdHbmtOcnc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1, ALANIS
+https://cdn.hta.dz/live/El_Fhama_TV/iptvdz/El_Fhama_TV_240p/chunks.m3u8?nimblesessionid=8737921&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMDUvMjAyMCAwNDoxMDo1NSBQTSZoYXNoX3ZhbHVlPVJJSC9PazdjMlVISHdhNUc4dEJ6SlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
