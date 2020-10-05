@@ -139,3 +139,5 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-1, LA UNE
 https://rtbf-live.fl.freecaster.net/live/rtbf/geo/open/4d383ab4d4e68d5c8f4ec893ceb554c52c303497/laune-audio_1=128000-video=2000000-200236069.ts
+#EXTINF:-1, M6
+http://176.10.117.3:5000/play/a02x?checkedby:hlscat.com
