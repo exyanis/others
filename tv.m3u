@@ -25,8 +25,6 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:-1, BFMTV
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-#EXTINF:-1, LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1, TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1, RTS1
@@ -93,12 +91,11 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, DUBAI ZAMAN
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, CNBC ARABIA
-https://live.hibridcdn.net/cnbc/liveabr/cnbc/cnbc_720p/chunks.m3u8?nimblesessionid=21772174
 #EXTINF:-1, MEDI1
 https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1442872969.m3u8
 #EXTINF:-1, M24
 https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1, TELE MAROC
 https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media/27130247_8196478_lsikcbo846un6h5ozg4_1@2756000p.m3u8?dw=14400&ts=1601877600&hdnts=exp=1602052174~acl=/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media*~hmac=8da1152e5ad704c01d424a2f9a7b5de8a82e90398c49be1654b6656c0da12102
-
+#EXTINF:-1, MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
