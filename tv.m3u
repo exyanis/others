@@ -172,4 +172,6 @@ https://stream-03.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbB6KP01OInUOaYf0y6
 #EXTINF:-1, MB LIVE
 https://stream-05.dc3.dailymotion.com/sec(0WaCJhrovgRg8yiOV8Daz2gr7geUSowAMnH6qDMwIic)/dm/3/x52iluh/d/live-3.m3u8
 #EXTINF:-1, CBC NEWS
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8?checkedby:hlscat.com
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1, 24 KITCHEN
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/902.m3u8
