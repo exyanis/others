@@ -95,4 +95,10 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, CNBC ARABIA
 https://live.hibridcdn.net/cnbc/liveabr/cnbc/cnbc_720p/chunks.m3u8?nimblesessionid=21772174
+#EXTINF:-1, MEDI1
+https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1442872969.m3u8
+#EXTINF:-1, M24
+https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1, TELE MAROC
+https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media/27130247_8196478_lsikcbo846un6h5ozg4_1@2756000p.m3u8?dw=14400&ts=1601877600&hdnts=exp=1602052174~acl=/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media*~hmac=8da1152e5ad704c01d424a2f9a7b5de8a82e90398c49be1654b6656c0da12102
 
