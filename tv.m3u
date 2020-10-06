@@ -297,5 +297,9 @@ http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
 #EXTINF:-1, KKR TV
 http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
-#EXTINF:-1, KURDMAX
-http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
+#EXTINF:-1, MEDIA HABER
+http://137.74.205.201/live1/mh-3mbps.m3u8
+#EXTINF:-1, STERK
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:-1, CANAL ALGERIE
+http://178.132.3.162:88/canal_algerie/video.m3u8
