@@ -197,3 +197,11 @@ https://1.bild-upload.com/sixx/tracks-v1a1/mono.m3u8
 https://wer22.wertvlive.com/hls/disney.m3u8
 #EXTINF:-1, 3SAT
 https://tv.bild-upload.com/3sat/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 7STARS
+http://82.212.74.3:8000/live/hls/7506.m3u8
+#EXTINF:-1, HAWAS
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
+#EXTINF:-1, MAJID
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1, SHARQIYA
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
