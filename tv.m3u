@@ -323,5 +323,5 @@ http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
 https://videos.rtva.ad/live/web/chunklist_w1342231881.m3u8
 #EXTINF:-1, TPA1
 https://api.new.livestream.com/accounts/1181452/events/8865379/live.m3u8
-#EXTINF:-1, COVID 19
-https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:-1, ALPHA TV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
