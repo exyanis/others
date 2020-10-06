@@ -273,3 +273,29 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/c
 https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
 #EXTINF:-1, KUWAIT TV KIDS
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+#EXTINF:-1, MAKKAH
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?v=
+ #EXTINF:-1, OMAN TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1, OMAN TV CULTURE
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1, OMAN TV MUBASHER
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1, REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1, SHARIQA SPORTS 
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1, SHARIQA
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1, STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
+#EXTINF:-1, TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
+#EXTINF:-1, TUNISIE IMMOBILIER
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
+#EXTINF:-1, KANAL 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
+#EXTINF:-1, KKR TV
+http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
+#EXTINF:-1, KURDMAX
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
