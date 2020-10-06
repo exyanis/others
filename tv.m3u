@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U
+#PLAYLIST:github.com
 #EXTINF: -1 tvg-name="SAUDI QURAN" tvg-chno="1" group-title="Islamic", SAUDI QURAN
 http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
 #EXTINF: -1 tvg-name="SAUDI SUNNAH" tvg-chno="2" group-title="Islamic", SAUDI SUNNAH
