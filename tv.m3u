@@ -1,325 +1,629 @@
+#EXTINF:-1,Al-Nahar Drama
+http://196.203.223.114:10006/stream/channelid/1266555988
+#EXTINF:-1,Al-Nahar One
+http://196.203.223.114:10006/stream/channelid/231061725
+#EXTINF:-1,ALhayah ALaan
+http://196.203.223.114:10006/stream/channelid/1476169009
+#EXTINF:-1,Althanya
+http://196.203.223.114:10006/stream/channelid/1338987438
+#EXTINF:-1,CBC
+http://196.203.223.114:10006/stream/channelid/801796832
+#EXTINF:-1,CBC Drama
+http://196.203.223.114:10006/stream/channelid/752505201
+#EXTINF:-1,CBC Sofra
+http://196.203.223.114:10006/stream/channelid/741403469
+#EXTINF:-1,Extra News
+http://196.203.223.114:10006/stream/channelid/175316704
+#EXTINF:-1,Maspero Zaman
+http://196.203.223.114:10006/stream/channelid/1305478547
+#EXTINF:-1,MDEEH
+http://196.203.223.114:10006/stream/channelid/2070097500
+#EXTINF:-1,Misr Quran Kareem
+http://196.203.223.114:10006/stream/channelid/835034649
+#EXTINF:-1,Mix
+http://196.203.223.114:10006/stream/channelid/2076458327
+#EXTINF:-1,Nile Cinema
+http://196.203.223.114:10006/stream/channelid/474315501
+#EXTINF:-1,Nile Comedy
+http://196.203.223.114:10006/stream/channelid/1682588038
+#EXTINF:-1,Nile Culture
+http://196.203.223.114:10006/stream/channelid/1281743869
+#EXTINF:-1,Nile Drama
+http://196.203.223.114:10006/stream/channelid/492397695
+#EXTINF:-1,Nile Life
+http://196.203.223.114:10006/stream/channelid/1269972584
+#EXTINF:-1,Nile News
+http://196.203.223.114:10006/stream/channelid/1838864371
+#EXTINF:-1,Nile Sport
+http://196.203.223.114:10006/stream/channelid/1666566806
+#EXTINF:-1,ON E
+http://196.203.223.114:10006/stream/channelid/607415972
+#EXTINF:-1,ON E HD
+http://196.203.223.114:10006/stream/channelid/60347026
+#EXTINF:-1,ON Plus HD
+http://196.203.223.114:10006/stream/channelid/823648967
+#EXTINF:-1,ON Drama
+http://196.203.223.114:10006/stream/channelid/2033885473
+#EXTINF:-1,ONTIME SPORTS
+http://196.203.223.114:10006/stream/channelid/1751341195
+#EXTINF:-1,ONTIME SPORTS HD
+http://196.203.223.114:10006/stream/channelid/731596481
+#EXTINF:-1,ONTIME SPORTS2
+http://196.203.223.114:10006/stream/channelid/469782925
+#EXTINF:-1,ONTIME SPORTS2 HD
+http://196.203.223.114:10006/stream/channelid/1437579583
+#EXTINF:-1,Oscar TV
+http://196.203.223.114:10006/stream/channelid/322850426
+#EXTINF:-1,13th Street HD
+http://196.203.223.114:10003/stream/channelid/1167527665
+#EXTINF:-1,NatGeo HD
+http://196.203.223.114:10003/stream/channelid/1312084222
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10003/stream/channelid/1637085081
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10003/stream/channelid/1673410511
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10003/stream/channelid/435745616
+#EXTINF:-1,Spiegel TV Wissen
+http://196.203.223.114:10003/stream/channelid/1955254127
+#EXTINF:-1,CNBC HD
+http://196.203.223.114:10001/stream/channelid/796168180
+#EXTINF:-1,DAZN 1 Bar HD
+http://196.203.223.114:10001/stream/channelid/2024271032
+#EXTINF:-1,Jukebox
+http://196.203.223.114:10001/stream/channelid/534535716
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10001/stream/channelid/1092222762
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10001/stream/channelid/617293106
+#EXTINF:-1,TNT Serie HD
+http://196.203.223.114:10001/stream/channelid/527313890
+#EXTINF:-1,Universal TV HD
+http://196.203.223.114:10001/stream/channelid/1284278211
 #EXTM3U
-#EXTINF: -1 tvg-name="SAUDI QURAN" tvg-chno="1" group-title="Islamic", SAUDI QURAN
-http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
-#EXTINF: -1 tvg-name="SAUDI SUNNAH" tvg-chno="2" group-title="Islamic", SAUDI SUNNAH
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF: -1 tvg-name="AYAAT" tvg-chno="3" group-title="Islamic", AYAAT
-http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
-#EXTINF: -1 tvg-name="QOTAMI" tvg-chno="4" group-title="Islamic", QOTAMI
-http://ayat.live.net.sa:1935/live/qotami/playlist.m3u8
-#EXTINF: -1 tvg-name="ALMAJD QURAN" tvg-chno="5" group-title="Islamic", ALMAJD QURAN
-https://se24-ott.iptvcdn.tv/hls/p/10.100.1.122:4041/23200_0_101_eaad7d09e3/vs_1/playlist.m3u8?h=uWRwOTOmaGDNBS8QmQNWZw&e=1602002641&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=f44dd93747&host=SE24-OTT.iptvcdn.tv%3A443
-#EXTINF: -1 tvg-name="ALMAJD HADITH" tvg-chno="6" group-title="Islamic", ALMAJD HADITH
-https://se24-ott.iptvcdn.tv/hls/p/10.100.1.136:4041/23201_0_101_eaad7d09e3/vs_2/playlist.m3u8?h=jVDxmOhtas6cqx0m28ESBw&e=1602002977&ident=55449baaf084e&s=23201&t=0&p=101_eaad7d09e3&strid=d57eea7898&host=SE24-OTT.iptvcdn.tv%3A443
-#EXTINF: -1 tvg-name="AD NATGEO" tvg-chno="7" group-title="Documentary", AD NATGEO
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
-#EXTINF: -1 tvg-name="ALHADATH" tvg-chno="8" group-title="News", ALHADATH
-http://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
-#EXTINF: -1 tvg-name="ALARABIYA" tvg-chno="9" group-title="News", ALARABIYA
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
-#EXTINF: -1 tvg-name="SKYNEWS" tvg-chno="10" group-title="News", SKYNEWS
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF: -1 tvg-name="FRANCE 24" tvg-chno="11" group-title="News", FRANCE 24
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF: -1 tvg-name="BFMTV" tvg-chno="12" group-title="News", BFMTV
-https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-#EXTINF: -1 tvg-name="LCI" tvg-chno="13" group-title="News", LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF: -1 tvg-name="TV5MONDE" tvg-chno="14" group-title="News", TV5MONDE
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF: -1 tvg-name="CNEWS" tvg-chno="15" group-title="News", CNEWS
-https://stream-11.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gXal6ZEM9m77B3r5a5nAaJM)/dm/3/x3b68jn/d/live-3.m3u8
-#EXTINF: -1 tvg-name="TF1" tvg-chno="16" group-title="France", TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF: -1 tvg-name="FRANCE 2" tvg-chno="17" group-title="France", FRANCE 2
-http://176.10.117.3:5000/play/a02v
-#EXTINF: -1 tvg-name="FRANCE 3" tvg-chno="18" group-title="France", FRANCE 3
-http://176.10.117.3:5000/play/a02w
-#EXTINF: -1 tvg-name="M6" tvg-chno="19" group-title="France", M6
-http://176.10.117.3:5000/play/a02x
-#EXTINF: -1 tvg-name="TMC" tvg-chno="20" group-title="France", TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF: -1 tvg-name="TFX" tvg-chno="21" group-title="France", TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF: -1 tvg-name="TF1 SERIE FILM" tvg-chno="22" group-title="France", TF1 SERIE FILM
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF: -1 tvg-name="LCP" tvg-chno="23" group-title="France", LCP
-https://stream-03.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbB6KP01OInUOaYf0y6ig7xM)/dm/3/xji3qy/d/live-2.m3u8
-#EXTINF: -1 tvg-name="GONG" tvg-chno="24" group-title="France", GONG
-http://51.254.215.79/appflux/gong/playlist.m3u8
-#EXTINF: -1 tvg-name="MB LIVE" tvg-chno="25" group-title="France", MB LIVE
-https://stream-05.dc3.dailymotion.com/sec(0WaCJhrovgRg8yiOV8Daz2gr7geUSowAMnH6qDMwIic)/dm/3/x52iluh/d/live-3.m3u8
-#EXTINF: -1 tvg-name="D!CI TV" tvg-chno="26" group-title="France", D!CI TV
-https://edge7.vedge.infomaniak.com/livecast/ik:dciwebcam/chunklist_w45920326.m3u8?spark=46e39b4f-46ce-4e1c-a595-4b560d1b9ddd&token=
-#EXTINF: -1 tvg-name="BIPTV" tvg-chno="27" group-title="France", BIPTV
-http://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF: -1 tvg-name="TVPI" tvg-chno="28" group-title="France", TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
-#EXTINF: -1 tvg-name="RTS1" tvg-chno="29" group-title="AFRICA", RTS1
-https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
-#EXTINF: -1 tvg-name="RTGA" tvg-chno="30" group-title="AFRICA", RTGA
-http://cms-streamaniak.top:80/RTGA/index.m3u8
-#EXTINF: -1 tvg-name="RTNC" tvg-chno="31" group-title="AFRICA", RTNC
-http://163.172.213.41:8081/play/Rtnc1/playlist.m3u8
-#EXTINF: -1 tvg-name="RTVA" tvg-chno="32" group-title="AFRICA", RTVA
-https://videos.rtva.ad/live/web/chunklist_w1342231881.m3u8
-#EXTINF: -1 tvg-name="TPA1" tvg-chno="33" group-title="AFRICA", TPA1
-https://api.new.livestream.com/accounts/1181452/events/8865379/live.m3u8
-#EXTINF: -1 tvg-name="3EESH ALAAN" tvg-chno="34" group-title="Arabic", 3EESH ALAAN
-https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-#EXTINF: -1 tvg-name="2M MAROC" tvg-chno="35" group-title="Arabic", 2M MAROC
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF: -1 tvg-name="SAUDI 1" tvg-chno="36" group-title="Arabic", SAUDI 1
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF: -1 tvg-name="DUBAI TV" tvg-chno="37" group-title="Arabic", DUBAI TV
-https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
-#EXTINF: -1 tvg-name="SAMA DUBAI" tvg-chno="38" group-title="Arabic", SAMA DUBAI
-https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF: -1 tvg-name="DUBAI ONE" tvg-chno="39" group-title="Arabic", DUBAI ONE
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF: -1 tvg-name="DUBAI SPORTS 1" tvg-chno="40" group-title="Arabic", DUBAI SPORTS 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF: -1 tvg-name="CITRUSS" tvg-chno="41" group-title="Arabic", CITRUSS
-https://citrusstv.akamaized.net/hls/live/687285/CTV/03.m3u8
-#EXTINF: -1 tvg-name="DUBAI RACING 1" tvg-chno="42" group-title="Arabic", DUBAI RACING 1
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF: -1 tvg-name="NOOR DUBAI" tvg-chno="43" group-title="Arabic", NOOR DUBAI
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
-#EXTINF: -1 tvg-name="DUBAI ZAMAN" tvg-chno="44" group-title="Arabic", DUBAI ZAMAN
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF: -1 tvg-name="MEDI1" tvg-chno="45" group-title="Arabic", MEDI1
-https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1442872969.m3u8
-#EXTINF: -1 tvg-name="M24" tvg-chno="46" group-title="Arabic", M24
-https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="TELE MAROC" tvg-chno="47" group-title="Arabic", TELE MAROC
-https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media/27130247_8196478_lsikcbo846un6h5ozg4_1@2756000p.m3u8?dw=14400&ts=1601877600&hdnts=exp=1602052174~acl=/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media*~hmac=8da1152e5ad704c01d424a2f9a7b5de8a82e90398c49be1654b6656
-#EXTINF: -1 tvg-name="MBC 1" tvg-chno="48" group-title="Arabic", MBC 1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
-#EXTINF: -1 tvg-name="MBC 2" tvg-chno="49" group-title="Arabic", MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8
-#EXTINF: -1 tvg-name="MBC 3" tvg-chno="50" group-title="Arabic", MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
-#EXTINF: -1 tvg-name="ENNAHAR" tvg-chno="51" group-title="Arabic", ENNAHAR
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
-#EXTINF: -1 tvg-name="MBC 4" tvg-chno="52" group-title="Arabic", MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
-#EXTINF: -1 tvg-name="MBC 5" tvg-chno="53" group-title="Arabic", MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF: -1 tvg-name="MBC ACTION" tvg-chno="54" group-title="Arabic", MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_3.m3u8
-#EXTINF: -1 tvg-chno="55" group-title="Arabic", [untitled]
-https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
-#EXTINF: -1 tvg-name="MBC MAX" tvg-chno="56" group-title="Arabic", MBC MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_3.m3u8
-#EXTINF: -1 tvg-chno="57" group-title="Arabic", [untitled]
-https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
-#EXTINF: -1 tvg-name="MBC MASR" tvg-chno="58" group-title="Arabic", MBC MASR
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
-#EXTINF: -1 tvg-name="EL FAJER 2" tvg-chno="59" group-title="Arabic", EL FAJER 2
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF: -1 tvg-name="SPACETOON" tvg-chno="60" group-title="Arabic", SPACETOON
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w476179191_b1296000_slAR.m3u8
-#EXTINF: -1 tvg-name="TUNISIE IMMOBILIER" tvg-chno="61" group-title="Arabic", TUNISIE IMMOBILIER
-http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
-#EXTINF: -1 tvg-name="A3" tvg-chno="62" group-title="Arabic", A3
-https://stream-08.ix7.dailymotion.com/sec(zsJvUO364Q-dgxMxWVypVc7GkCzYhNAXjwOe5N-5VxI)/dm/3/x7mpe4j/s/live-0.m3u8
-#EXTINF: -1 tvg-name="AD SPORTS 1" tvg-chno="63" group-title="Arabic", AD SPORTS 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF: -1 tvg-name="AD SPORTS 2" tvg-chno="64" group-title="Arabic", AD SPORTS 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-name="AD SPORTS 3" tvg-chno="65" group-title="Arabic", AD SPORTS 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-name="AD SPORTS 4" tvg-chno="66" group-title="Arabic", AD SPORTS 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-name="AD DRAMA" tvg-chno="67" group-title="Arabic", AD DRAMA
-http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-name="7STARS" tvg-chno="68" group-title="Arabic", 7STARS
-http://82.212.74.3:8000/live/hls/7506.m3u8
-#EXTINF: -1 tvg-name="HAWAS" tvg-chno="69" group-title="Arabic", HAWAS
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
-#EXTINF: -1 tvg-name="MAJID" tvg-chno="70" group-title="Arabic", MAJID
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="SHARQIYA" tvg-chno="71" group-title="Arabic", SHARQIYA
-http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="AJYAL" tvg-chno="72" group-title="Arabic", AJYAL
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="ALKASS ONE" tvg-chno="73" group-title="Arabic", ALKASS ONE
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF: -1 tvg-name="ALKASS TWO" tvg-chno="74" group-title="Arabic", ALKASS TWO
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF: -1 tvg-name="ALKASS THREE" tvg-chno="75" group-title="Arabic", ALKASS THREE
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF: -1 tvg-name="ALKASS FOUR" tvg-chno="76" group-title="Arabic", ALKASS FOUR
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF: -1 tvg-name="ALKASS FIVE" tvg-chno="77" group-title="Arabic", ALKASS FIVE
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF: -1 tvg-name="ALMAMLAKA" tvg-chno="78" group-title="Arabic", ALMAMLAKA
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF: -1 tvg-name="ARAI" tvg-chno="79" group-title="Arabic", ARAI
-https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
-#EXTINF: -1 tvg-name="ALSHARQIYA FROM KALBA" tvg-chno="80" group-title="Arabic", ALSHARQIYA FROM KALBA
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="DW ARABIC" tvg-chno="81" group-title="Arabic", DW ARABIC
-http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
-#EXTINF: -1 tvg-name="FRANCE 24 ARABIC" tvg-chno="82" group-title="Arabic", FRANCE 24 ARABIC
-http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF: -1 tvg-name="ADEN" tvg-chno="83" group-title="Arabic", ADEN
-https://master.starmena-cloud.com/hls/aden.m3u8
-#EXTINF: -1 tvg-name="ALKHALIJ" tvg-chno="84" group-title="Arabic", ALKHALIJ
-http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF: -1 tvg-name="BAHRAIN TV" tvg-chno="85" group-title="Arabic", BAHRAIN TV
-http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
-#EXTINF: -1 tvg-name="BAHRAIN QURAN" tvg-chno="86" group-title="Arabic", BAHRAIN QURAN
-http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
-#EXTINF: -1 tvg-name="BAHRAIN INTERNATIONAL" tvg-chno="87" group-title="Arabic", BAHRAIN INTERNATIONAL
-http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8
-#EXTINF: -1 tvg-name="DUBAI SPORTS 2" tvg-chno="88" group-title="Arabic", DUBAI SPORTS 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF: -1 tvg-name="DUBAI SPORTS 3" tvg-chno="89" group-title="Arabic", DUBAI SPORTS 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF: -1 tvg-name="KUWAIT TV 1" tvg-chno="90" group-title="Arabic", KUWAIT TV 1
-https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
-#EXTINF: -1 tvg-name="KUWAIT TV 2" tvg-chno="91" group-title="Arabic", KUWAIT TV 2
-https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
-#EXTINF: -1 tvg-name="KUWAIT TV ALARABE" tvg-chno="92" group-title="Arabic", KUWAIT TV ALARABE
-https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
-#EXTINF: -1 tvg-name="KUWAIT TV ETHRAA" tvg-chno="93" group-title="Arabic", KUWAIT TV ETHRAA
-https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
-#EXTINF: -1 tvg-name="KUWAIT TV KIDS" tvg-chno="94" group-title="Arabic", KUWAIT TV KIDS
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
-#EXTINF: -1 tvg-name="MAKKAH" tvg-chno="95" group-title="Arabic", MAKKAH
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?v=
-#EXTINF: -1 tvg-name="OMAN TV" tvg-chno="96" group-title="Arabic", OMAN TV
-http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="OMAN TV CULTURE" tvg-chno="97" group-title="Arabic", OMAN TV CULTURE
-http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="OMAN TV MUBASHER" tvg-chno="98" group-title="Arabic", OMAN TV MUBASHER
-http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="SHARIQA SPORTS" tvg-chno="99" group-title="Arabic", SHARIQA SPORTS
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF: -1 tvg-name="SHARIQA" tvg-chno="100" group-title="Arabic", SHARIQA
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF: -1 tvg-name="TELE MAROC" tvg-chno="162" group-title="Arabic", TELE MAROC
-https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media/27130247_8196478_lsikcbo846un6h5ozg4_1@2756000p.m3u8?dw=14400&ts=1601877600&hdnts=exp=1602052174~acl=/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media*~hmac=8da1152e5ad704c01d424a2f9a7b5de8a82e90398c49be1654b6656
-#EXTINF: -1 tvg-name="BBC ONE" tvg-chno="101" group-title="UK", BBC ONE
-http://176.10.117.3:5000/play/a035
-#EXTINF: -1 tvg-name="RAI 2" tvg-chno="102" group-title="Italia", RAI 2
-http://176.10.117.3:5000/play/a034
-#EXTINF: -1 tvg-name="RAI 1" tvg-chno="103" group-title="Italia", RAI 1
-http://176.10.117.3:5000/play/a033
-#EXTINF: -1 tvg-name="RSI LA2" tvg-chno="104" group-title="Suiss", RSI LA2
-http://176.10.117.3:5000/play/a032
-#EXTINF: -1 tvg-name="RSI LA 1" tvg-chno="105" group-title="Suiss", RSI LA 1
-http://176.10.117.3:5000/play/a031
-#EXTINF: -1 tvg-name="NICK SHWEIZ" tvg-chno="106" group-title="Suiss", NICK SHWEIZ
-http://176.10.117.3:5000/play/a038
-#EXTINF: -1 tvg-name="PRO7" tvg-chno="107" group-title="Deutch", PRO7
-https://tv.bild-upload.com/pro7q/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="KIKA" tvg-chno="108" group-title="Deutch", KIKA
-http://176.10.117.3:5000/play/a037
-#EXTINF: -1 tvg-name="DMAX" tvg-chno="109" group-title="Deutch", DMAX
-https://tv.bild-upload.com/dmaxq/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="PRO7MAX" tvg-chno="110" group-title="Deutch", PRO7MAX
-https://wer2.wertvlive.com/pro7max/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="KABEL1" tvg-chno="111" group-title="Deutch", KABEL1
-https://11.jetlivestream.com/hls/kabel1.m3u8
-#EXTINF: -1 tvg-name="SAT1" tvg-chno="112" group-title="Deutch", SAT1
-https://11.jetlivestream.com/hls/sat1.m3u8
-#EXTINF: -1 tvg-name="DAS ERST" tvg-chno="113" group-title="Deutch", DAS ERST
-https://mcdn.daserste.de/daserste/int/master_3744.m3u8
-#EXTINF: -1 tvg-name="RTL" tvg-chno="114" group-title="Deutch", RTL
-https://tv.bild-upload.com/rtla/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="RTL2" tvg-chno="115" group-title="Deutch", RTL2
-https://tv.bild-upload.com/rtl2q/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="VOX" tvg-chno="116" group-title="Deutch", VOX
-https://tv.bild-upload.com/voxa/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SUPER RTL" tvg-chno="117" group-title="Deutch", SUPER RTL
-https://1.bild-upload.com/super/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SIXX" tvg-chno="118" group-title="Deutch", SIXX
-https://1.bild-upload.com/sixx/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="DISNEY" tvg-chno="119" group-title="Deutch", DISNEY
-https://wer22.wertvlive.com/hls/disney.m3u8
-#EXTINF: -1 tvg-name="3SAT" tvg-chno="120" group-title="Deutch", 3SAT
-https://tv.bild-upload.com/3sat/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="CAPMPUS TV" tvg-chno="121" group-title="Deutch", CAPMPUS TV
-http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
-#EXTINF: -1 tvg-name="BADEN TV" tvg-chno="122" group-title="Deutch", BADEN TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
-#EXTINF: -1 tvg-name="DW" tvg-chno="123" group-title="Deutch", DW
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF: -1 tvg-name="HR" tvg-chno="124" group-title="Deutch", HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF: -1 tvg-name="MDF1" tvg-chno="125" group-title="Deutch", MDF1
-http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
-#EXTINF: -1 tvg-name="OFENER KANAL" tvg-chno="126" group-title="Deutch", OFENER KANAL
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
-#EXTINF: -1 tvg-name="TAGESSCHAU 24" tvg-chno="127" group-title="Deutch", TAGESSCHAU 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF: -1 tvg-name="RUSSIA 1" tvg-chno="128" group-title="Russia", RUSSIA 1
-https://a787200063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
-#EXTINF: -1 tvg-name="1TVCRIMEA" tvg-chno="129" group-title="Russia", 1TVCRIMEA
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF: -1 tvg-name="24CRIMEA" tvg-chno="130" group-title="Russia", 24CRIMEA
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF: -1 tvg-name="NTV RUSSIA" tvg-chno="131" group-title="Russia", NTV RUSSIA
-https://mhd.iptv2022.com/p/B4PD-vHDMpYJQry6aWUZQg,1601986757/streaming/ntvnn/324/vh1w/playlist.m3u8
-#EXTINF: -1 tvg-name="1 Kanal Evraziya" tvg-chno="132" group-title="Kazakistan", 1 Kanal Evraziya
-https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
-#EXTINF: -1 tvg-name="LA1" tvg-chno="133" group-title="Spain", LA1
-https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8
-#EXTINF: -1 tvg-name="LA2" tvg-chno="134" group-title="Spain", LA2
-https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
-#EXTINF: -1 tvg-name="REAL MADRID TV" tvg-chno="135" group-title="Spain", REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF: -1 tvg-name="TV3 CATALUNYA" tvg-chno="136" group-title="Spain", TV3 CATALUNYA
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist_b1896000.m3u8
-#EXTINF: -1 tvg-name="3/24" tvg-chno="137" group-title="Spain", 3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
-#EXTINF: -1 tvg-name="TELEMADRID" tvg-chno="138" group-title="Spain", TELEMADRID
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF: -1 tvg-name="TRT 1" tvg-chno="139" group-title="Turk", TRT 1
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-name="TRT COKUK" tvg-chno="140" group-title="Turk", TRT COKUK
-https://tv-trtcocuk.live.trt.com.tr/master_360.m3u8
-#EXTINF: -1 tvg-name="MEDIA HABER" tvg-chno="141" group-title="Turk", MEDIA HABER
-http://137.74.205.201/live1/mh-3mbps.m3u8
-#EXTINF: -1 tvg-name="STERK" tvg-chno="142" group-title="Turk", STERK
-http://137.74.205.201/live2/sterk-3mbps.m3u8
-#EXTINF: -1 tvg-name="ERT 2" tvg-chno="143" group-title="Grecce", ERT 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
-#EXTINF: -1 tvg-name="ERT WORLD" tvg-chno="144" group-title="Grecce", ERT WORLD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF: -1 tvg-name="ERT 1" tvg-chno="145" group-title="Grecce", ERT 1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwlow.m3u8
-#EXTINF: -1 tvg-name="ALPHA TV" tvg-chno="146" group-title="Grecce", ALPHA TV
-https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
-#EXTINF: -1 tvg-name="92 NEWS" tvg-chno="147" group-title="Pakistan", 92 NEWS
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
-#EXTINF: -1 tvg-name="112 Україна" tvg-chno="148" group-title="Ukraine", 112 Україна
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
-#EXTINF: -1 tvg-name="CBC NEWS" tvg-chno="149" group-title="US", CBC NEWS
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF: -1 tvg-name="A2" tvg-chno="150" group-title="Albania", A2
-https://sc.id-tv.kz/A2.m3u8
-#EXTINF: -1 tvg-name="ALBUK" tvg-chno="151" group-title="Albania", ALBUK
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF: -1 tvg-name="NEWS 24" tvg-chno="152" group-title="Albania", NEWS 24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF: -1 tvg-name="RTSH 1" tvg-chno="153" group-title="Albania", RTSH 1
-http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
-#EXTINF: -1 tvg-name="RTSH 2" tvg-chno="154" group-title="Albania", RTSH 2
-http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
-#EXTINF: -1 tvg-name="RTSH 24" tvg-chno="155" group-title="Albania", RTSH 24
-http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
-#EXTINF: -1 tvg-name="RTSH SHQIP" tvg-chno="156" group-title="Albania", RTSH SHQIP
-http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
-#EXTINF: -1 tvg-name="HK13" tvg-chno="157" group-title="Scandinavia", HK13
-http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
-#EXTINF: -1 tvg-name="STORTINGET" tvg-chno="158" group-title="Scandinavia", STORTINGET
-http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
-#EXTINF: -1 tvg-name="KANAL 10" tvg-chno="159" group-title="Scandinavia", KANAL 10
-http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
-#EXTINF: -1 tvg-name="ARIANA NEWS" tvg-chno="160" group-title="Afghanistan", ARIANA NEWS
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
-#EXTINF: -1 tvg-name="ARIANA TV" tvg-chno="161" group-title="Afghanistan", ARIANA TV
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
+#EXTINF:-1,Discovery HD
+http://196.203.223.114:10002/stream/channelid/18945781
+#EXTINF:-1,Nat Geo Wild HD
+http://196.203.223.114:10002/stream/channelid/1346120676
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10002/stream/channelid/799704979
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10002/stream/channelid/465751988
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10002/stream/channelid/154226619
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:10002/stream/channelid/705388842
+#EXTINF:-1,MODERN ALYOOM
+http://196.203.223.114:50011/stream/channelid/1861386314
+#EXTINF:-1,MODERN CINEMA
+http://196.203.223.114:50011/stream/channelid/1845449148
+#EXTINF:-1,MODERN DRAMA
+http://196.203.223.114:50011/stream/channelid/1322385606
+#EXTINF:-1,MODERN HAKAYAT
+http://196.203.223.114:50011/stream/channelid/1213167291
+#EXTINF:-1,ORPIT DRAMA
+http://196.203.223.114:50011/stream/channelid/172118155
+#EXTINF:-1,ORPIT HEKAYAT
+http://196.203.223.114:50011/stream/channelid/1388868076
+#EXTINF:-1,ORPIT MOVIES
+http://196.203.223.114:50011/stream/channelid/1475790176
+#EXTINF:-1,SHABABIK AFLAM
+http://196.203.223.114:50011/stream/channelid/260334311
+#EXTINF:-1,SHABABIK CLASSIC
+http://196.203.223.114:50011/stream/channelid/489448579
+#EXTINF:-1,SHABABIK DRAMA
+http://196.203.223.114:50011/stream/channelid/985854480
+#EXTINF:-1,SHABABIK HEKAYAT
+http://196.203.223.114:50011/stream/channelid/1197527595
+#EXTINF:-1,SHABABIK MOSALSLAT
+http://196.203.223.114:50011/stream/channelid/331650107
+#EXTINF:-1,SHOW MOSALSLAT
+http://196.203.223.114:50011/stream/channelid/256736786
+#EXTINF:-1,SHOW AFLAM
+http://196.203.223.114:50011/stream/channelid/1188444634
+#EXTINF:-1,SHOW CINEMA
+http://196.203.223.114:50011/stream/channelid/137725068
+#EXTINF:-1,SHOW DRAMA
+http://196.203.223.114:50011/stream/channelid/1794706889
+#EXTINF:-1,SHOW HAKAYAT
+http://196.203.223.114:50011/stream/channelid/1107171979
+#EXTINF:-1,AL NASR 24 TV
+http://196.203.223.114:50009/stream/channelid/1342319896
+#EXTINF:-1,Al Nour Quran
+http://196.203.223.114:50009/stream/channelid/1556513284
+#EXTINF:-1,ALMADARIA
+http://196.203.223.114:50009/stream/channelid/1575503651
+#EXTINF:-1,ALMASIRAH MUBASHER
+http://196.203.223.114:50009/stream/channelid/1625389512
+#EXTINF:-1,BATOOT KIDS
+http://196.203.223.114:50009/stream/channelid/454948075
+#EXTINF:-1,DARBAKA ACTION
+http://196.203.223.114:50009/stream/channelid/1049928539
+#EXTINF:-1,DARBAKA AFLAM
+http://196.203.223.114:50009/stream/channelid/139374294
+#EXTINF:-1,DARBAKA CINEMA
+http://196.203.223.114:50009/stream/channelid/866909297
+#EXTINF:-1,DARBAKA DRAMA
+http://196.203.223.114:50009/stream/channelid/1588689874
+#EXTINF:-1,DRAMA ALWAN
+http://196.203.223.114:50009/stream/channelid/362280242
+#EXTINF:-1,HOME CINEMA
+http://196.203.223.114:50009/stream/channelid/130460586
+#EXTINF:-1,HOME DRAMA
+http://196.203.223.114:50009/stream/channelid/573560429
+#EXTINF:-1,M AFLAM
+http://196.203.223.114:50009/stream/channelid/1465455649
+#EXTINF:-1,M DRAMA
+http://196.203.223.114:50009/stream/channelid/932905540
+#EXTINF:-1,MASR OM ELDONIA
+http://196.203.223.114:50009/stream/channelid/162468268
+#EXTINF:-1,MODERN AFLAM
+http://196.203.223.114:50009/stream/channelid/553233177
+#EXTINF:-1,ORPIT AL YOUM
+http://196.203.223.114:50009/stream/channelid/1414854319
+#EXTINF:-1,ORPIT CINEMA
+http://196.203.223.114:50009/stream/channelid/1838251590
+#EXTINF:-1,Cartoon Network
+http://196.203.223.114:20004/stream/channelid/581553315
+#EXTINF:-1,Crime + Investigation
+http://196.203.223.114:20004/stream/channelid/192975605
+#EXTINF:-1,E! Entertainm. HD
+http://196.203.223.114:20004/stream/channelid/298144860
+#EXTINF:-1,Eurosport 2 HD
+http://196.203.223.114:20004/stream/channelid/992150531
+#EXTINF:-1,History HD
+http://196.203.223.114:20004/stream/channelid/1156244356
+#EXTINF:-1,Motorvision TV
+http://196.203.223.114:20004/stream/channelid/1088713502
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:20004/stream/channelid/772634910
+#EXTINF:-1,TNT Comedy HD
+http://196.203.223.114:20004/stream/channelid/576399792
+#EXTINF:-1,AUTOMOTO la chaine
+http://196.203.223.114:40001/stream/channelid/924195985
+#EXTINF:-1,BEIN SPORTS 1
+http://196.203.223.114:40001/stream/channelid/2079045939
+#EXTINF:-1,BEIN SPORTS 2
+http://196.203.223.114:40001/stream/channelid/1032946178
+#EXTINF:-1,BEIN SPORTS 3
+http://196.203.223.114:40001/stream/channelid/1484599736
+#EXTINF:-1,BEIN SPORTS MAX 4
+http://196.203.223.114:40001/stream/channelid/1627899404
+#EXTINF:-1,BEIN SPORTS MAX 5
+http://196.203.223.114:40001/stream/channelid/1639159191
+#EXTINF:-1,BEIN SPORTS MAX 6
+http://196.203.223.114:40001/stream/channelid/1790156142
+#EXTINF:-1,BEIN SPORTS MAX 7
+http://196.203.223.114:40001/stream/channelid/620582854
+#EXTINF:-1,BET
+http://196.203.223.114:40001/stream/channelid/197050922
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/704423195
+#EXTINF:-1,BOING
+http://196.203.223.114:40001/stream/channelid/2032521412
+#EXTINF:-1,BOOMERANG
+http://196.203.223.114:40001/stream/channelid/915388199
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/350393477
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/970643000
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/1370442531
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/1296938555
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/640663459
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/1703065490
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/1640305990
+#EXTINF:-1,CARTOON NETWORK
+http://196.203.223.114:40001/stream/channelid/944893556
+#EXTINF:-1,CHASSE ET PECHE
+http://196.203.223.114:40001/stream/channelid/963008827
+#EXTINF:-1,CINE+ CLASSIC
+http://196.203.223.114:40001/stream/channelid/77495963
+#EXTINF:-1,CINE+ CLUB
+http://196.203.223.114:40001/stream/channelid/1191705934
+#EXTINF:-1,CINE+ EMOTION
+http://196.203.223.114:40001/stream/channelid/12574371
+#EXTINF:-1,CINE+ FAMIZ
+http://196.203.223.114:40001/stream/channelid/1396462914
+#EXTINF:-1,CINE+ FRISSON
+http://196.203.223.114:40001/stream/channelid/1454484653
+#EXTINF:-1,CINE+ PREMIER
+http://196.203.223.114:40001/stream/channelid/1947266104
+#EXTINF:-1,CNEWS
+http://196.203.223.114:40001/stream/channelid/1906915348
+#EXTINF:-1,COMEDIE+
+http://196.203.223.114:40001/stream/channelid/115447268
+#EXTINF:-1,COMEDY CENTRAL
+http://196.203.223.114:40001/stream/channelid/989129089
+#EXTINF:-1,CSTAR HITS
+http://196.203.223.114:40001/stream/channelid/433211547
+#EXTINF:-1,DISNEY CHANNEL
+http://196.203.223.114:40001/stream/channelid/1107938552
+#EXTINF:-1,DISNEY CHANNEL+1
+http://196.203.223.114:40001/stream/channelid/1820259116
+#EXTINF:-1,DISNEY JUNIOR
+http://196.203.223.114:40001/stream/channelid/504281122
+#EXTINF:-1,DISNEY XD
+http://196.203.223.114:40001/stream/channelid/613023010
+#EXTINF:-1,DISNEY+
+http://196.203.223.114:40001/stream/channelid/1702639165
+#EXTINF:-1,DJAZZ
+http://196.203.223.114:40001/stream/channelid/611182269
+#EXTINF:-1,EQUIDIA
+http://196.203.223.114:40001/stream/channelid/2072523094
+#EXTINF:-1,EUROSPORT 1
+http://196.203.223.114:40001/stream/channelid/449223044
+#EXTINF:-1,EUROSPORT 2
+http://196.203.223.114:40001/stream/channelid/1545688654
+#EXTINF:-1,EXTREME SPORTS
+http://196.203.223.114:40001/stream/channelid/536563726
+#EXTINF:-1,GAME ONE
+http://196.203.223.114:40001/stream/channelid/1528694022
+#EXTINF:-1,GOLF+
+http://196.203.223.114:40001/stream/channelid/1202424819
+#EXTINF:-1,HISTOIRE
+http://196.203.223.114:40001/stream/channelid/1640663016
+#EXTINF:-1,INFOSPORT+
+http://196.203.223.114:40001/stream/channelid/2067140919
+#EXTINF:-1,LA CHAINE METEO
+http://196.203.223.114:40001/stream/channelid/1630193466
+#EXTINF:-1,M6 MUSIC
+http://196.203.223.114:40001/stream/channelid/1196552060
+#EXTINF:-1,MANGAS
+http://196.203.223.114:40001/stream/channelid/992585163
+#EXTINF:-1,MCM
+http://196.203.223.114:40001/stream/channelid/1307040491
+#EXTINF:-1,MEZZO LIVE
+http://196.203.223.114:40001/stream/channelid/2936988
+#EXTINF:-1,MTV
+http://196.203.223.114:40001/stream/channelid/262882816
+#EXTINF:-1,MTV HITS
+http://196.203.223.114:40001/stream/channelid/764936467
+#EXTINF:-1,MY ZEN TV
+http://196.203.223.114:40001/stream/channelid/1039228602
+#EXTINF:-1,NATIONAL GEO
+http://196.203.223.114:40001/stream/channelid/324502596
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD https://iptv.live
+http://196.203.223.114:40001/stream/channelid/177725792
+#EXTINF:-1,NICKELODEON
+http://196.203.223.114:40001/stream/channelid/1715019963
+#EXTINF:-1,NICKELODEON JUNIOR
+http://196.203.223.114:40001/stream/channelid/1754962297
+#EXTINF:-1,NICKELODEON TEEN
+http://196.203.223.114:40001/stream/channelid/838862375
+#EXTINF:-1,NICKELODEON+1
+http://196.203.223.114:40001/stream/channelid/1958900150
+#EXTINF:-1,NON STOP PEOPLE
+http://196.203.223.114:40001/stream/channelid/900195052
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/1182153183
+#EXTINF:-1,NRJ HITS
+http://196.203.223.114:40001/stream/channelid/97144831
+#EXTINF:-1,NRJ HITS
+http://196.203.223.114:40001/stream/channelid/1116966635
+#EXTINF:-1,OCS CHOC
+http://196.203.223.114:40001/stream/channelid/443412
+#EXTINF:-1,OCS CITY
+http://196.203.223.114:40001/stream/channelid/1464029194
+#EXTINF:-1,OCS GEANTS
+http://196.203.223.114:40001/stream/channelid/1338717312
+#EXTINF:-1,OCS MAX
+http://196.203.223.114:40001/stream/channelid/887856393
+#EXTINF:-1,OLYMPIA
+http://196.203.223.114:40001/stream/channelid/1164669018
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://196.203.223.114:40001/stream/channelid/397210117
+#EXTINF:-1,PARIS PREMIERE
+http://196.203.223.114:40001/stream/channelid/1631943091
+#EXTINF:-1,PLANETE+
+http://196.203.223.114:40001/stream/channelid/321660233
+#EXTINF:-1,PLANETE+ A&E
+http://196.203.223.114:40001/stream/channelid/606506126
+#EXTINF:-1,PLANETE+ CI
+http://196.203.223.114:40001/stream/channelid/2066053172
+#EXTINF:-1,POLAR+
+http://196.203.223.114:40001/stream/channelid/1894209646
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/445491610
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/471015526
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/805991478
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/777814679
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:40001/stream/channelid/1254989672
+#EXTINF:-1,RTL9
+http://196.203.223.114:40001/stream/channelid/1547301117
+#EXTINF:-1,SEASONS
+http://196.203.223.114:40001/stream/channelid/878572056
+#EXTINF:-1,SERIE CLUB
+http://196.203.223.114:40001/stream/channelid/766352293
+#EXTINF:-1,SUNDANCE TV
+http://196.203.223.114:40001/stream/channelid/108072289
+#EXTINF:-1,TCM CINEMA
+http://196.203.223.114:40001/stream/channelid/1062479006
+#EXTINF:-1,TELETOON+
+http://196.203.223.114:40001/stream/channelid/1088784738
+#EXTINF:-1,TELETOON+1
+http://196.203.223.114:40001/stream/channelid/1657356887
+#EXTINF:-1,TEVA
+http://196.203.223.114:40001/stream/channelid/981716937
+#EXTINF:-1,TIJI
+http://196.203.223.114:40001/stream/channelid/364132437
+#EXTINF:-1,TOONAMI
+http://196.203.223.114:40001/stream/channelid/26243832
+#EXTINF:-1,TV BREIZH
+http://196.203.223.114:40001/stream/channelid/1374508377
+#EXTINF:-1,USHUAIA TV
+http://196.203.223.114:40001/stream/channelid/1770046515
+#EXTINF:-1,VICELAND
+http://196.203.223.114:40001/stream/channelid/1079466563
+#EXTINF:-1,VOYAGE
+http://196.203.223.114:40001/stream/channelid/496655501
+#EXTINF:-1,WARNER TV
+http://196.203.223.114:40001/stream/channelid/1735660185
+#EXTINF:-1,RSI LA 1 HD
+http://196.203.223.114:9095/stream/channelid/642658243
+#EXTINF:-1,RSI LA 2 HD
+http://196.203.223.114:9095/stream/channelid/138814145
+#EXTINF:-1,RTS Deux HD
+http://196.203.223.114:9095/stream/channelid/166790575
+#EXTINF:-1,RTS Un HD
+http://196.203.223.114:9095/stream/channelid/1406076554
+#EXTINF:-1,SRF 1 HD
+http://196.203.223.114:9095/stream/channelid/724651651
+#EXTINF:-1,SRF info HD
+http://196.203.223.114:9095/stream/channelid/903278626
+#EXTINF:-1,SRF zwei HD
+http://196.203.223.114:9095/stream/channelid/2013001301
+#EXTINF:-1,Blue Hustler
+http://196.203.223.114:9002/stream/channelid/1130246111
+#EXTINF:-1,Hustler HD
+http://196.203.223.114:9002/stream/channelid/1622781329
+#EXTINF:-1,Private HD
+http://196.203.223.114:9002/stream/channelid/2008544578
+#EXTINF:-1,Vivid Red HD
+http://196.203.223.114:9002/stream/channelid/1683949389
+#EXTINF:-1,Hustler TV
+http://196.203.223.114:9001/stream/channelid/1811923574
+#EXTINF:-1,Vivid
+http://196.203.223.114:9001/stream/channelid/1875258225
+#EXTINF:-1,Kazakh TV HD
+http://196.203.223.114:8101/stream/channelid/1982502910
+#EXTINF:-1,La Premiere
+http://196.203.223.114:8101/stream/channelid/1055335096
+#EXTINF:-1,La Trois
+http://196.203.223.114:8101/stream/channelid/915397087
+#EXTINF:-1,La Une HD
+http://196.203.223.114:8101/stream/channelid/1031025512
+#EXTINF:-1,Plug-RTL
+http://196.203.223.114:8101/stream/channelid/411519484
+#EXTINF:-1,Private HD
+http://196.203.223.114:8101/stream/channelid/140193585
+#EXTINF:-1,Private HD POL
+http://196.203.223.114:8101/stream/channelid/134332083
+#EXTINF:-1,RTL-TVi HD
+http://196.203.223.114:8101/stream/channelid/1086996984
+#EXTINF:-1,TF1 HD
+http://196.203.223.114:8101/stream/channelid/1501330976
+#EXTINF:-1,TF1 SERIES FILMS
+http://196.203.223.114:8101/stream/channelid/1725864358
+#EXTINF:-1,Tipik
+http://196.203.223.114:8101/stream/channelid/184720736
+#EXTINF:-1,Hustler HD POL
+http://196.203.223.114:8101/stream/channelid/1390878181
+#EXTINF:-1,2M TV
+http://196.203.223.114:7001/stream/channelid/1980947235
+#EXTINF:-1,A3
+http://196.203.223.114:7001/stream/channelid/307428600
+#EXTINF:-1,A3 HD
+http://196.203.223.114:7001/stream/channelid/1086815490
+#EXTINF:-1,Al Aoula inter
+http://196.203.223.114:7001/stream/channelid/252578424
+#EXTINF:-1,Al Aoula Inter
+http://196.203.223.114:7001/stream/channelid/1563186091
+#EXTINF:-1,Al Aoula Inter HD
+http://196.203.223.114:7001/stream/channelid/1233734192
+#EXTINF:-1,Al Ghad Al Mushreq
+http://196.203.223.114:7001/stream/channelid/1551474708
+#EXTINF:-1,Al Insen TV
+http://196.203.223.114:7001/stream/channelid/260512313
+#EXTINF:-1,AL JANOUBIA TV
+http://196.203.223.114:7001/stream/channelid/515513950
+#EXTINF:-1,Al Maghribia
+http://196.203.223.114:7001/stream/channelid/630466248
+#EXTINF:-1,AL RASHEED TV
+http://196.203.223.114:7001/stream/channelid/630917335
+#EXTINF:-1,Al Sumaria TV
+http://196.203.223.114:7001/stream/channelid/391870851
+#EXTINF:-1,AL-MUSTAKILA
+http://196.203.223.114:7001/stream/channelid/1691992866
+#EXTINF:-1,AL-WAHA
+http://196.203.223.114:7001/stream/channelid/1875858338
+#EXTINF:-1,ALhayat
+http://196.203.223.114:7001/stream/channelid/807001389
+#EXTINF:-1,AlHayat HD
+http://196.203.223.114:7001/stream/channelid/1955405040
+#EXTINF:-1,Alhayat We Alnas
+http://196.203.223.114:7001/stream/channelid/2124873907
+#EXTINF:-1,Alhilal tv
+http://196.203.223.114:7001/stream/channelid/1470175939
+#EXTINF:-1,ALSahraa https://iptv.live
+http://196.203.223.114:7001/stream/channelid/695468782
+#EXTINF:-1,Arryadia
+http://196.203.223.114:7001/stream/channelid/1723721933
+#EXTINF:-1,Assadissa
+http://196.203.223.114:7001/stream/channelid/1883734443
+#EXTINF:-1,Athaqafia
+http://196.203.223.114:7001/stream/channelid/1402682958
+#EXTINF:-1,Attessia TV
+http://196.203.223.114:7001/stream/channelid/1688792656
+#EXTINF:-1,Bahia TV
+http://196.203.223.114:7001/stream/channelid/761389286
+#EXTINF:-1,BBC Arabic
+http://196.203.223.114:7001/stream/channelid/1956002052
+#EXTINF:-1,Beur TV
+http://196.203.223.114:7001/stream/channelid/1287226013
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:7001/stream/channelid/901918420
+#EXTINF:-1,Carthage+
+http://196.203.223.114:7001/stream/channelid/1957375125
+#EXTINF:-1,Echorouk NEWS
+http://196.203.223.114:7001/stream/channelid/354467470
+#EXTINF:-1,Echorouk TV
+http://196.203.223.114:7001/stream/channelid/1607837536
+#EXTINF:-1,EL BILAD
+http://196.203.223.114:7001/stream/channelid/1750823238
+#EXTINF:-1,EL DJAZAIRIA TV
+http://196.203.223.114:7001/stream/channelid/178697411
+#EXTINF:-1,EL FADJR TV DZ
+http://196.203.223.114:7001/stream/channelid/2139771658
+#EXTINF:-1,EL HAYAT TV ALGERIE
+http://196.203.223.114:7001/stream/channelid/2045404059
+#EXTINF:-1,EL HEDDAF TV
+http://196.203.223.114:7001/stream/channelid/2073901579
+#EXTINF:-1,Elhiwar Ettounsi
+http://196.203.223.114:7001/stream/channelid/1115516510
+#EXTINF:-1,ENNAHAR TV
+http://196.203.223.114:7001/stream/channelid/853141277
+#EXTINF:-1,France 24
+http://196.203.223.114:7001/stream/channelid/363265071
+#EXTINF:-1,HANNIBAL TV
+http://196.203.223.114:7001/stream/channelid/1977190592
+#EXTINF:-1,Laayoune TV
+http://196.203.223.114:7001/stream/channelid/245793516
+#EXTINF:-1,Lina TV
+http://196.203.223.114:7001/stream/channelid/1935817366
+#EXTINF:-1,M TUNISIA
+http://196.203.223.114:7001/stream/channelid/852152472
+#EXTINF:-1,M24 MAROC
+http://196.203.223.114:7001/stream/channelid/1470450918
+#EXTINF:-1,Medi1 TV Arabic SD
+http://196.203.223.114:7001/stream/channelid/513475413
+#EXTINF:-1,Nessma
+http://196.203.223.114:7001/stream/channelid/1203037516
+#EXTINF:-1,NUMIDIA TV
+http://196.203.223.114:7001/stream/channelid/292190459
+#EXTINF:-1,SamiraTV
+http://196.203.223.114:7001/stream/channelid/245876963
+#EXTINF:-1,Saudi Al Haj
+http://196.203.223.114:7001/stream/channelid/1028676451
+#EXTINF:-1,SAUDI FAMILY
+http://196.203.223.114:7001/stream/channelid/1736057633
+#EXTINF:-1,Tamazight
+http://196.203.223.114:7001/stream/channelid/403822467
+#EXTINF:-1,TANASUH TV
+http://196.203.223.114:7001/stream/channelid/233391273
+#EXTINF:-1,Telvza TV
+http://196.203.223.114:7001/stream/channelid/611488268
+#EXTINF:-1,Tunisia NAT 1
+http://196.203.223.114:7001/stream/channelid/1052245809
+#EXTINF:-1,Tunisia NAT 2
+http://196.203.223.114:7001/stream/channelid/1362342837
+#EXTINF:-1,TUNISNA https://iptv.live
+http://196.203.223.114:7001/stream/channelid/1159887564
+#EXTINF:-1,TV 4
+http://196.203.223.114:7001/stream/channelid/82460350
+#EXTINF:-1,TV 5
+http://196.203.223.114:7001/stream/channelid/484718019
+#EXTINF:-1,TV 6 HD
+http://196.203.223.114:7001/stream/channelid/44225558
+#EXTINF:-1,CRIME DISTRICT
+http://196.203.223.114:4029/udp/239.0.0.1:3146
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:4026/udp/239.0.0.1:3125
+#EXTINF:-1,Action
+http://196.203.223.114:9992/stream/channelid/1627899934
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:9992/stream/channelid/1169800647
+#EXTINF:-1,COMEDY CENTRAL
+http://196.203.223.114:9992/stream/channelid/582248643
+#EXTINF:-1,Equidia
+http://196.203.223.114:9992/stream/channelid/21433880
+#EXTINF:-1,Game One
+http://196.203.223.114:9992/stream/channelid/716986034
+#EXTINF:-1,M6 Music
+http://196.203.223.114:9992/stream/channelid/1284235808
+#EXTINF:-1,MCM
+http://196.203.223.114:9992/stream/channelid/1759170285
+#EXTINF:-1,Toute l'histoire
+http://196.203.223.114:9992/stream/channelid/1415611539
+#EXTINF:-1,{name-not-set}
+http://196.203.223.114:9992/stream/channelid/528457362
+#EXTINF:-1,Qatar TV HD
+http://196.203.223.114:9992/stream/channelid/578475709
+#EXTINF:-1,ALKASS TWO HD
+http://196.203.223.114:9992/stream/channelid/752452332
+#EXTINF:-1,Satellite TV
+http://196.203.223.114:9992/stream/channelid/1531831616
+#EXTINF:-1,ALKASS ONE HD
+http://196.203.223.114:9992/stream/channelid/1596517161
+#EXTINF:-1,ALKASS FOUR HD
+http://196.203.223.114:9992/stream/channelid/1712266773
+#EXTINF:-1,Planète+
+http://196.203.223.114:9992/stream/channelid/618350355
+#EXTINF:-1,Paramount Channel
+http://196.203.223.114:9992/stream/channelid/1363811911
+#EXTINF:-1,Seasons
+http://196.203.223.114:9992/stream/channelid/1456459825
+#EXTINF:-1,Voyage
+http://196.203.223.114:9992/stream/channelid/1964051601
+#EXTINF:-1,Eurosport 2 https://iptv.live
+http://196.203.223.114:9992/stream/channelid/676648852
+#EXTINF:-1,Ushuaïa TV
+http://196.203.223.114:9992/stream/channelid/697613864
+#EXTINF:-1,serieclub
+http://196.203.223.114:9992/stream/channelid/919360993
+#EXTINF:-1,Comédie+
+http://196.203.223.114:9992/stream/channelid/771691118
+#EXTINF:-1,Planète+ Crime Investigation
+http://196.203.223.114:9992/stream/channelid/1331303041
+#EXTINF:-1,National Geographic Wild
+http://196.203.223.114:9992/stream/channelid/1593244251
+#EXTINF:-1,Eurosport 1
+http://196.203.223.114:9992/stream/channelid/1302213140
+#EXTINF:-1,Disney XD
+http://196.203.223.114:9992/stream/channelid/274105195
+#EXTINF:-1,France 3
+http://196.203.223.114:9992/stream/channelid/662781794
+#EXTINF:-1,Abu Dhabi TV HD
+http://196.203.223.114:9990/stream/channelid/887760273
+#EXTINF:-1,AD DRAMA HD
+http://196.203.223.114:9990/stream/channelid/246658572
+#EXTINF:-1,AD Nat Geo HD
+http://196.203.223.114:9990/stream/channelid/1719732184
+#EXTINF:-1,AD Sport 1 HD
+http://196.203.223.114:9990/stream/channelid/322478062
+#EXTINF:-1,AD Sport 2 HD
+http://196.203.223.114:9990/stream/channelid/126444223
+#EXTINF:-1,Al Arabiya HD
+http://196.203.223.114:9990/stream/channelid/1138033392
+#EXTINF:-1,Al Emarat TV HD
+http://196.203.223.114:9990/stream/channelid/1661889066
+#EXTINF:-1,Majid Kids TV HD
+http://196.203.223.114:9990/stream/channelid/390373319
+#EXTINF:-1,MBC Action HD
+http://196.203.223.114:9990/stream/channelid/671083858
+#EXTINF:-1,MBC Drama HD
+http://196.203.223.114:9990/stream/channelid/1654188847
+#EXTINF:-1,MBC Max HD
+http://196.203.223.114:9990/stream/channelid/745559634
+#EXTINF:-1,MBC+ Drama HD
+http://196.203.223.114:9990/stream/channelid/1873645362
+#EXTINF:-1,MBC+ Variety HD
+http://196.203.223.114:9990/stream/channelid/1359514588
+#EXTINF:-1,MBC1 HD
+http://196.203.223.114:9990/stream/channelid/208510034
+#EXTINF:-1,MBC2 HD
+http://196.203.223.114:9990/stream/channelid/1335965506
+#EXTINF:-1,MBC3 HD
+http://196.203.223.114:9990/stream/channelid/1779722760
+#EXTINF:-1,MBC4 HD
+http://196.203.223.114:9990/stream/channelid/654692441
+#EXTINF:-1,YAS Sports HD
+http://196.203.223.114:9990/stream/channelid/460325760
