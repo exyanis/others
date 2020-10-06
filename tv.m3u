@@ -295,8 +295,6 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
 http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
 #EXTINF:-1, KANAL 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
-#EXTINF:-1, KKR TV
-http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 #EXTINF:-1, MEDIA HABER
 http://137.74.205.201/live1/mh-3mbps.m3u8
 #EXTINF:-1, STERK
@@ -311,25 +309,11 @@ http://cms-streamaniak.top:80/RTGA/index.m3u8
 http://163.172.213.41:8081/play/Rtnc1/playlist.m3u8
 #EXTINF:-1, ALBUK
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1, RTK1
-http://185.196.182.10:8000/play/a001
-#EXTINF:-1, KTV
-http://185.196.182.10:8000/play/a002
-#EXTINF:-1, TV MALISHEVA
-http://185.196.182.10:8000/play/a003
-#EXTINF:-1, ISP SHAHIRAT
-http://185.196.182.10:8000/play/a004
-#EXTINF:-1, RTV 21
-http://185.196.182.10:8000/play/a005
-#EXTINF:-1, TOP CHANNEL
-http://185.196.182.10:8000/play/a006
-#EXTINF:-1, BANG BANG
-http://185.196.182.10:8000/play/a007
-#EXTINF:-1, CUFO
-http://185.196.182.10:8000/play/a008
-#EXTINF:-1, OGOO NEWS
-http://185.196.182.10:8000/play/a009
-#EXTINF:-1 POPULORE 21
-http://185.196.182.10:8000/play/a010
-
-
+#EXTINF:-1, NEWS 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:-1, RTSH 1
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
+#EXTINF:-1, RTSH 2
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
+#EXTINF:-1, RTSH 24
+http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
