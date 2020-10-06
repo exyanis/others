@@ -205,3 +205,15 @@ https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1, SHARQIYA
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1, AJYAL
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ALKASS ONE
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1, ALKASS TWO
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1, ALKASS THREE
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1, ALKASS FOUR
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1, ALKASS FIVE
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
