@@ -582,9 +582,6 @@ http://203.162.235.41:16909
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NEWS 24"  group-title="ALBANIA",NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ASPOR"  group-title="Turkey",ASPOR
-http://123.456.789
-
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT BELGESEL"  group-title="Turkey",TRT BELGESEL
 http://ch.canlitvlive.io/trtbelgesel/live.m3u8?tkn=vtpbAL0Gq037tTkjxqHNUA&tms=1602283034
 #EXTINF:-1, National Geographic US
@@ -593,3 +590,15 @@ http://p2p.tv247.us/live/nationalgeographic/chunks.m3u8
 https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=oQUe6OHl_NXxN5SgwdcySg&e=1602304022
 #EXTINF:-1, SPORT TV 1
 https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=mFthgrHs2yCJr0DSAKHrDQ&e=1602304291
+#EXTINF:-1, SLO 1
+https://31-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/chunklist_b4128000_DVR.m3u8
+#EXTINF:-1, SLO 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/chunklist_b528000_DVR.m3u8
+#EXTINF:-1, SLO 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1, TV KOPER
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1, TV MARIBOR
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+#EXTINF:-1, MMC
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
