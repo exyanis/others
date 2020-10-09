@@ -587,5 +587,5 @@ http://123.456.789
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT BELGESEL"  group-title="Turkey",TRT BELGESEL
 http://ch.canlitvlive.io/trtbelgesel/live.m3u8?tkn=vtpbAL0Gq037tTkjxqHNUA&tms=1602283034
-#EXTINF:-1, ok
-https://concha16.pedromo.me/live/telecinco/index.m3u8?token=O20mQFw6J_ZBvse8ghR4GQ&expires=1602365564
+#EXTINF:-1, National Geographic US
+http://p2p.tv247.us/live/nationalgeographic/chunks.m3u8
