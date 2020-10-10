@@ -18,6 +18,78 @@ https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3SAT"  group-title="Deutch",3SAT
 https://tv.bild-upload.com/3sat/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="5star"  group-title="UK",5star
+https://edge-823-ch-gv.filmon.com/live/851.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3e54b3060f32089a08f4eb93020250821a796461748dd91c3063ae8397aa63458b35174ac4af452c7f7866a7c481c75d926a1726cf19d6a2b248584c84f71467d4e3842e42ddb95c61d529b8eb959509ff757068d867e7da98268bd4e7de2a4a661ddcfe2329f840d27ea575be9f64cfd2e775b8f1c54609d
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="7STARS"  group-title="Arabic",7STARS
+http://82.212.74.3:8000/live/hls/7506.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="92 NEWS"  group-title="Pakistan",92 NEWS
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="92 NEWS"  group-title="Pakistan",92 NEWS
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A2"  group-title="Albania",A2
+https://sc.id-tv.kz/A2.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A3"  group-title="Arabic",A3
+https://stream-08.ix7.dailymotion.com/sec(zsJvUO364Q-dgxMxWVypVc7GkCzYhNAXjwOe5N-5VxI)/dm/3/x7mpe4j/s/live-0.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC NEWS ALBANIA"  group-title="albania",ABC NEWS ALBANIA
+https://abcnews.al/abcnewslive/abcnews/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AD DRAMA"  group-title="Arabic",AD DRAMA
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AD NATGEO"  group-title="Arabic",AD NATGEO
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AD SPORTS 1"  group-title="Arabic",AD SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AD SPORTS 2"  group-title="Arabic",AD SPORTS 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AD SPORTS 3"  group-title="Arabic",AD SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AD SPORTS 4"  group-title="Arabic",AD SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADEN"  group-title="Arabic",ADEN
+https://master.starmena-cloud.com/hls/aden.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AJYAL"  group-title="Arabic",AJYAL
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALARABIYA"  group-title="News",ALARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALBUK"  group-title="Albania",ALBUK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ALEKHBARIA"  group-title="arabic",ALEKHBARIA
+#EXTM3U
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="112 ???????"  group-title="Ukraine",112 ???????
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="1NTVSPORT"  group-title="Turk",1NTVSPORT
+http://46.105.233.106:8484/ntvspor.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="2M MAROC"  group-title="Arabic",2M MAROC
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3/24"  group-title="Spain",3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3EESH ALAAN"  group-title="Arabic",3EESH ALAAN
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3SAT"  group-title="Deutch",3SAT
+https://tv.bild-upload.com/3sat/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="7STARS"  group-title="Arabic",7STARS
 http://82.212.74.3:8000/live/hls/7506.m3u8
 
@@ -571,6 +643,540 @@ https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist_b1896000.m3u8
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVPI"  group-title="France",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALHADATH"  group-title="News",ALHADATH
+http://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALKASS FIVE"  group-title="Arabic",ALKASS FIVE
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALKASS FOUR"  group-title="Arabic",ALKASS FOUR
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALKASS ONE"  group-title="Arabic",ALKASS ONE
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALKASS THREE"  group-title="Arabic",ALKASS THREE
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALKASS TWO"  group-title="Arabic",ALKASS TWO
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALKHALIJ"  group-title="Arabic",ALKHALIJ
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALMAJD HADITH"  group-title="Islamic",ALMAJD HADITH
+https://se24-ott.iptvcdn.tv/hls/p/10.100.1.136:4041/23201_0_101_eaad7d09e3/vs_2/playlist.m3u8?h=jVDxmOhtas6cqx0m28ESBw&e=1602002977&ident=55449baaf084e&s=23201&t=0&p=101_eaad7d09e3&strid=d57eea7898&host=SE24-OTT.iptvcdn.tv%3A443
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALMAJD QURAN"  group-title="Islamic",ALMAJD QURAN
+https://se24-ott.iptvcdn.tv/hls/p/10.100.1.122:4041/23200_0_101_eaad7d09e3/vs_1/playlist.m3u8?h=uWRwOTOmaGDNBS8QmQNWZw&e=1602002641&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=f44dd93747&host=SE24-OTT.iptvcdn.tv%3A443
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALMAJLIS"  group-title="Arabic",ALMAJLIS
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALMAMLAKA"  group-title="Arabic",ALMAMLAKA
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALPHA TV"  group-title="Grecce",ALPHA TV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALSHARQIYA FROM KALBA"  group-title="Arabic",ALSHARQIYA FROM KALBA
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARAI"  group-title="Arabic",ARAI
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARIANA NEWS"  group-title="Afghanistan",ARIANA NEWS
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARIANA TV"  group-title="Afghanistan",ARIANA TV
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ARTE"  group-title="France",ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AYAAT"  group-title="Islamic",AYAAT
+http://m.live.net.sa:1935/live/ayat/chunklist_w2078329880.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BADEN TV"  group-title="Deutch",BADEN TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BAHRAIN INTERNATIONAL"  group-title="Arabic",BAHRAIN INTERNATIONAL
+http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BAHRAIN QURAN"  group-title="Arabic",BAHRAIN QURAN
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BAHRAIN TV"  group-title="Arabic",BAHRAIN TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC ONE"  group-title="UK",BBC ONE
+http://176.10.117.3:5000/play/a035
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BBC ONE"  group-title="New Group",BBC ONE
+https://edge-1288-ch-gv.filmon.com/live/14.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3e54b3060f32089a0be1202d3b7128d3d1504df3cceea9b9643e0f9ba96e931075f39777882e860e8e00fa478ae2395d5b273bbb7d61682b7577474240b64d2ae64967cd964518513f8d8c72a651b2393862671eaadd76dcb000a57f47585aade02718de121b0068ae287082aa0f1e33a9c3f02e08e0488f8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BFMTV"  group-title="News",BFMTV
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BIPTV"  group-title="France",BIPTV
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BS"  group-title="Japan",BS
+http://203.162.235.41:16912
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CAPMPUS TV"  group-title="Deutch",CAPMPUS TV
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBC NEWS"  group-title="US",CBC NEWS
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV1"  group-title="China",CCTV1
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV10"  group-title="China",CCTV10
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV3"  group-title="China",CCTV3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV5"  group-title="China",CCTV5
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV6"  group-title="China",CCTV6
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV8"  group-title="China",CCTV8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CITRUSS"  group-title="Arabic",CITRUSS
+https://citrusstv.akamaized.net/hls/live/687285/CTV/03.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNBC"  group-title="US",CNBC
+http://203.162.235.41:16919
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNBC"  group-title="US",CNBC
+http://203.162.235.41:16919
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNBC ARABIA"  group-title="Arabic",CNBC ARABIA
+http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNEWS"  group-title="News",CNEWS
+https://stream-11.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gXal6ZEM9m77B3r5a5nAaJM)/dm/3/x3b68jn/d/live-3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="D!CI TV"  group-title="France",D!CI TV
+https://edge7.vedge.infomaniak.com/livecast/ik:dciwebcam/chunklist_w45920326.m3u8?spark=46e39b4f-46ce-4e1c-a595-4b560d1b9ddd&token=
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DAS ERST"  group-title="Deutch",DAS ERST
+https://mcdn.daserste.de/daserste/int/master_3744.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY"  group-title="Deutch",DISNEY
+https://wer22.wertvlive.com/hls/disney.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DMAX"  group-title="Deutch",DMAX
+https://tv.bild-upload.com/dmaxq/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ONE"  group-title="Arabic",DUBAI ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI RACING 1"  group-title="Arabic",DUBAI RACING 1
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI SPORTS 1"  group-title="Arabic",DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI SPORTS 2"  group-title="Arabic",DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI SPORTS 3"  group-title="Arabic",DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI TV"  group-title="Arabic",DUBAI TV
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI ZAMAN"  group-title="Arabic",DUBAI ZAMAN
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Deutch",DW
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW ARABIC"  group-title="Arabic",DW ARABIC
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EL FAJER 2"  group-title="Arabic",EL FAJER 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ENNAHAR"  group-title="Arabic",ENNAHAR
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ERT 1"  group-title="Grecce",ERT 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwlow.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ERT 2"  group-title="Grecce",ERT 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ERT WORLD"  group-title="Grecce",ERT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ETB SAT"  group-title="Spain",ETB SAT
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 2"  group-title="France",FRANCE 2
+http://176.10.117.3:5000/play/a02v
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 24"  group-title="News",FRANCE 24
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 24 ARABIC"  group-title="Arabic",FRANCE 24 ARABIC
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 3"  group-title="France",FRANCE 3
+http://176.10.117.3:5000/play/a02w
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FUJI TV"  group-title="Japan",FUJI TV
+http://203.162.235.41:16904
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GONG"  group-title="France",GONG
+http://51.254.215.79/appflux/gong/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HAWAS"  group-title="Arabic",HAWAS
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HK13"  group-title="Scandinavia",HK13
+http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HR"  group-title="Deutch",HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ"  group-title="Unsorted",JOJ
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KABEL1"  group-title="Deutch",KABEL1
+https://11.jetlivestream.com/hls/kabel1.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KANAL 10"  group-title="Scandinavia",KANAL 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KIKA"  group-title="Deutch",KIKA
+http://176.10.117.3:5000/play/a037
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KUWAIT TV 1"  group-title="Arabic",KUWAIT TV 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KUWAIT TV 2"  group-title="Arabic",KUWAIT TV 2
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KUWAIT TV ALARABE"  group-title="Arabic",KUWAIT TV ALARABE
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KUWAIT TV ETHRAA"  group-title="Arabic",KUWAIT TV ETHRAA
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KUWAIT TV KIDS"  group-title="Arabic",KUWAIT TV KIDS
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA1"  group-title="Spain",LA1
+https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA2"  group-title="Spain",LA2
+https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LCI"  group-title="News",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LCP"  group-title="France",LCP
+https://stream-03.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbB6KP01OInUOaYf0y6ig7xM)/dm/3/xji3qy/d/live-2.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M24"  group-title="Arabic",M24
+https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M6"  group-title="France",M6
+http://176.10.117.3:5000/play/a02x
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MAJID"  group-title="Arabic",MAJID
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MAKKAH"  group-title="Arabic",MAKKAH
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?v=
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MB LIVE"  group-title="France",MB LIVE
+https://stream-05.dc3.dailymotion.com/sec(0WaCJhrovgRg8yiOV8Daz2gr7geUSowAMnH6qDMwIic)/dm/3/x52iluh/d/live-3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 1"  group-title="Arabic",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 2"  group-title="Arabic",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 3"  group-title="Arabic",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 4"  group-title="Arabic",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 5"  group-title="Arabic",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC ACTION"  group-title="Arabic",MBC ACTION
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MASR"  group-title="Arabic",MBC MASR
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MAX"  group-title="Arabic",MBC MAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_3.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MDF1"  group-title="Deutch",MDF1
+http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEDI1"  group-title="Arabic",MEDI1
+https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1442872969.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEDIA HABER"  group-title="Turk",MEDIA HABER
+http://137.74.205.201/live1/mh-3mbps.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MMC"  group-title="Unsorted",MMC
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic US"  group-title="Unsorted",National Geographic US
+http://p2p.tv247.us/live/nationalgeographic/chunks.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NBC"  group-title="US",NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NEWS 24"  group-title="ALBANIA",NEWS 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NEWS 24"  group-title="Albania",NEWS 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NHK"  group-title="Japan",NHK
+http://203.162.235.41:16901
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NHK�"  group-title="Japan",NHK�
+http://203.162.235.41:16903
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NHK BSP"  group-title="Japan",NHK BSP
+http://203.162.235.41:16910
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NHK WORLD"  group-title="Japan",NHK WORLD
+http://203.162.235.41:16902
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NICK SHWEIZ"  group-title="Suiss",NICK SHWEIZ
+http://176.10.117.3:5000/play/a038
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NOOR DUBAI"  group-title="Arabic",NOOR DUBAI
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OFENER KANAL"  group-title="Deutch",OFENER KANAL
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OMAN TV"  group-title="Arabic",OMAN TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OMAN TV CULTURE"  group-title="Arabic",OMAN TV CULTURE
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OMAN TV MUBASHER"  group-title="Arabic",OMAN TV MUBASHER
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PALESTINE"  group-title="Arabic",PALESTINE
+http://123.456.789
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PRO7"  group-title="Deutch",PRO7
+https://tv.bild-upload.com/pro7q/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PRO7MAX"  group-title="Deutch",PRO7MAX
+https://wer2.wertvlive.com/pro7max/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QOTAMI"  group-title="Islamic",QOTAMI
+http://ayat.live.net.sa:1935/live/qotami/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QURAIN"  group-title="Arabic",QURAIN
+https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REAL MADRID TV"  group-title="Spain",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROUGETV"  group-title="Suiss",ROUGETV
+https://edge6.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w2092398832.m3u8?spark=a3cf1703-44d9-4988-ab97-10e77c65bb6e&token=
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RSI LA 1"  group-title="Suiss",RSI LA 1
+http://176.10.117.3:5000/play/a031
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RSI LA2"  group-title="Suiss",RSI LA2
+http://176.10.117.3:5000/play/a032
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTGA"  group-title="AFRICA",RTGA
+http://cms-streamaniak.top:80/RTGA/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK1"  group-title="Unsorted",RTK1
+http://176.31.74.161:8081/live/rtk1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTK2"  group-title="New Group",RTK2
+http://176.31.74.161:8081/live/rtk2/chunks.m3u8?nimblesessionid=52614404
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTK3"  group-title="New Group",RTK3
+http://176.31.74.161:8081/live/rtk3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTK4"  group-title="New Group",RTK4
+http://176.31.74.161:8081/live/rtk4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL"  group-title="Deutch",RTL
+https://tv.bild-upload.com/rtla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL2"  group-title="Deutch",RTL2
+https://tv.bild-upload.com/rtl2q/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTNC"  group-title="AFRICA",RTNC
+http://163.172.213.41:8081/play/Rtnc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS1"  group-title="AFRICA",RTS1
+https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTSH 1"  group-title="Albania",RTSH 1
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTSH 2"  group-title="Albania",RTSH 2
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTSH 24"  group-title="Albania",RTSH 24
+http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTSH SHQIP"  group-title="Albania",RTSH SHQIP
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTVA"  group-title="AFRICA",RTVA
+https://videos.rtva.ad/live/web/chunklist_w1342231881.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTVCE"  group-title="Spain",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAMA DUBAI"  group-title="Arabic",SAMA DUBAI
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAT1"  group-title="Deutch",SAT1
+https://11.jetlivestream.com/hls/sat1.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAUDI 1"  group-title="Arabic",SAUDI 1
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAUDI QURAN"  group-title="Islamic",SAUDI QURAN
+http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAUDI SUNNAH"  group-title="Islamic",SAUDI SUNNAH
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHARIQA"  group-title="Arabic",SHARIQA
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHARIQA SPORTS"  group-title="Arabic",SHARIQA SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHARQIYA"  group-title="Arabic",SHARQIYA
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SIXX"  group-title="Deutch",SIXX
+https://1.bild-upload.com/sixx/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKYNEWS"  group-title="News",SKYNEWS
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SLO 2"  group-title="Unsorted",SLO 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/chunklist_b528000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SLO 3"  group-title="Unsorted",SLO 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPACETOON"  group-title="Arabic",SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w476179191_b1296000_slAR.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STERK"  group-title="Turk",STERK
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STORTINGET"  group-title="Scandinavia",STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUPER RTL"  group-title="Deutch",SUPER RTL
+https://1.bild-upload.com/super/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TAGESSCHAU 24"  group-title="Deutch",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE MAROC"  group-title="Arabic",TELE MAROC
+https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media/27130247_8196478_lsikcbo846un6h5ozg4_1@2756000p.m3u8?dw=14400&ts=1601877600&hdnts=exp=1602052174~acl=/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media*~hmac=8da1152e5ad704c01d424a2f9a7b5de8a82e90398c49be1654b6656
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE MAROC"  group-title="Arabic",TELE MAROC
+https://playback.akamaized.net/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media/27130247_8196478_lsikcbo846un6h5ozg4_1@2756000p.m3u8?dw=14400&ts=1601877600&hdnts=exp=1602052174~acl=/streams/27130247_8196478_lsikcbo846un6h5ozg4_1/media*~hmac=8da1152e5ad704c01d424a2f9a7b5de8a82e90398c49be1654b6656
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELEMADRID"  group-title="Spain",TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST 4"  group-title="Japan",TEST 4
+http://203.162.235.41:16911
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST1"  group-title="Japan",TEST1
+http://203.162.235.41:16905
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST2"  group-title="Japan",TEST2
+http://203.162.235.41:16906
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TEST3"  group-title="Japan",TEST3
+http://203.162.235.41:16907
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TF1"  group-title="France",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TF1 SERIE FILM"  group-title="France",TF1 SERIE FILM
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TFX"  group-title="France",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TMC"  group-title="France",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TPA1"  group-title="AFRICA",TPA1
+https://api.new.livestream.com/accounts/1181452/events/8865379/live.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT 1"  group-title="Turk",TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT 1"  group-title="Turkey",TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8?hash=f325532b9e171d97e9c1f7fa80150f5d
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT BELGESEL"  group-title="Turkey",TRT BELGESEL
+http://ch.canlitvlive.io/trtbelgesel/live.m3u8?tkn=vtpbAL0Gq037tTkjxqHNUA&tms=1602283034
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT COCUC"  group-title="Turkey",TRT COCUC
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT COKUK"  group-title="Turk",TRT COKUK
+https://tv-trtcocuk.live.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRT HABER"  group-title="Turkey",TRT HABER
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TUNISIE IMMOBILIER"  group-title="Arabic",TUNISIE IMMOBILIER
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV KOPER"  group-title="Unsorted",TV KOPER
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV MARIBOR"  group-title="Unsorted",TV MARIBOR
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV TOKYO"  group-title="Japan",TV TOKYO
+http://203.162.235.41:16908
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV3 CATALUNYA"  group-title="Spain",TV3 CATALUNYA
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist_b1896000.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV5MONDE"  group-title="News",TV5MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVPI"  group-title="France",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VOX"  group-title="Deutch",VOX
@@ -579,28 +1185,3 @@ https://tv.bild-upload.com/voxa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="WOWOW"  group-title="Japan",WOWOW
 http://203.162.235.41:16909
 
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NEWS 24"  group-title="ALBANIA",NEWS 24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT BELGESEL"  group-title="Turkey",TRT BELGESEL
-http://ch.canlitvlive.io/trtbelgesel/live.m3u8?tkn=vtpbAL0Gq037tTkjxqHNUA&tms=1602283034
-#EXTINF:-1, National Geographic US
-http://p2p.tv247.us/live/nationalgeographic/chunks.m3u8
-#EXTINF:-1, BT SPORT 2 
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=oQUe6OHl_NXxN5SgwdcySg&e=1602304022
-#EXTINF:-1, SPORT TV 1
-https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=mFthgrHs2yCJr0DSAKHrDQ&e=1602304291
-#EXTINF:-1, SLO 1
-https://34-rtvslo-ra-ra1.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
-#EXTINF:-1, SLO 2
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/chunklist_b528000_DVR.m3u8
-#EXTINF:-1, SLO 3
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
-#EXTINF:-1, TV KOPER
-https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
-#EXTINF:-1, TV MARIBOR
-https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
-#EXTINF:-1, MMC
-https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
-#EXTINF:-1, RTK1
-http://176.31.74.161:8081/live/rtk1/chunks.m3u8
