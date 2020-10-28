@@ -2050,3 +2050,32 @@ http://84.22.43.246:8000/play/a04d
 http://84.22.43.246:8000/play/a03n
 #EXTINF:-1,Vizion Plus
 http://84.22.43.246:8000/play/a024
+
+
+#EXTINF:-1,24hors
+http://78.31.67.52:8000/play/a00d/index.m3u8
+#EXTINF:-1,2x2
+http://78.31.67.52:8000/play/a007/index.m3u8
+#EXTINF:-1,FR NRJ HITS
+http://78.31.67.52:8000/play/a005/index.m3u8
+#EXTINF:-1,FR TF1
+http://78.31.67.52:8000/play/a006/index.m3u8
+#EXTINF:-1,FR TMC
+http://78.31.67.52:8000/play/a004/index.m3u8
+#EXTINF:-1,[TN]_TUNISIA NAT 1 HD
+http://78.31.67.52:8000/play/a00e/index.m3u8
+#EXTINF:-1,la deux
+http://78.31.67.52:8000/play/a009/index.m3u8
+#EXTINF:-1,la trois
+http://78.31.67.52:8000/play/a00a/index.m3u8
+#EXTINF:-1,la une
+http://78.31.67.52:8000/play/a00b/index.m3u8
+#EXTINF:-1,luxembourg
+http://78.31.67.52:8000/play/a003/index.m3u8
+#EXTINF:-1,rotana
+http://78.31.67.52:8000/play/a002/index.m3u8
+#EXTINF:-1,syriantv
+http://78.31.67.52:8000/play/a008/index.m3u8
+#EXTINF:-1,ujhjhh
+http://78.31.67.52:8000/play/a001/index.m3u8
+
