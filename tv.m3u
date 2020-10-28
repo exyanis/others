@@ -2074,6 +2074,43 @@ http://78.31.67.52:8000/play/a00b/index.m3u8
 http://78.31.67.52:8000/play/a003/index.m3u8
 #EXTINF:-1,rotana
 http://78.31.67.52:8000/play/a002/index.m3u8
+
+
+#EXTINF:-1,ATTICA TV
+http://31.177.62.174:8000/play/s53
+#EXTINF:-1,ACTION24
+http://31.177.62.174:8000/play/s52
+#EXTINF:-1,EXTRA CHANNEL
+http://31.177.62.174:8000/play/s55
+#EXTINF:-1,BLUE SKY
+http://31.177.62.174:8000/play/s54
+#EXTINF:-1,CHANNEL 9
+http://31.177.62.174:8000/play/s56
+#EXTINF:-1,HIGH TV
+http://31.177.62.174:8001/play/s68
+#EXTINF:-1,a.Epsilon
+http://31.177.62.174:8001/play/s67
+#EXTINF:-1,ART
+http://31.177.62.174:8001/play/s66
+#EXTINF:-1,MAD TV
+http://31.177.62.174:8001/play/s65
+#EXTINF:-1,KONTRA
+http://31.177.62.174:8001/play/s64
+#EXTINF:-1,NICKELODEON
+http://31.177.62.174:8002/play/s60
+#EXTINF:-1,ALERT
+http://31.177.62.174:8002/play/s57
+#EXTINF:-1,SMILE
+http://31.177.62.174:8002/play/s58
+#EXTINF:-1,RISE TV
+http://31.177.62.174:8002/play/s59
+#EXTINF:-1,ANT1
+http://31.177.62.174:8003/play/s61
+#EXTINF:-1,OPEN BEYOND
+http://31.177.62.174:8003/play/s62
+#EXTINF:-1,ALPHA
+http://31.177.62.174:8003/play/s63
+
 #EXTINF:-1,syriantv
 http://78.31.67.52:8000/play/a008/index.m3u8
 #EXTINF:-1,ujhjhh
