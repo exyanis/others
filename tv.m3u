@@ -42,3 +42,11 @@ http://109.197.120.67:1233/20
 
 #EXTINF:-1,2 HD
 http://77.89.199.174:81/hls/live2.m3u8
+#EXTINF:0,1+1
+
+http://play.lanet.tv/live/9002.m3u8
+
+#EXTINF:0,100% News
+
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
