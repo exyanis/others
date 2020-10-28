@@ -42,11 +42,112 @@ http://109.197.120.67:1233/20
 
 #EXTINF:-1,2 HD
 http://77.89.199.174:81/hls/live2.m3u8
-#EXTINF:0,1+1
 
-http://play.lanet.tv/live/9002.m3u8
-
-#EXTINF:0,100% News
-
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTM3U
+#EXTINF:-1,Animal Plan-Rs2
+http://182.176.93.225:8000/play/a02e
+#EXTINF:-1,&flix HD-Rs19
+http://182.176.93.225:8000/play/a00d
+#EXTINF:-1,&pictures-Rs 6
+http://182.176.93.225:8000/play/a02h
+#EXTINF:-1,0-HBO3 HD
+http://182.176.93.225:8000/play/a03j
+#EXTINF:-1,AXN SPIN HD
+http://182.176.93.225:8000/play/a03g
+#EXTINF:-1,CARTOON-Rs4.25
+http://182.176.93.225:8000/play/a01k
+#EXTINF:-1,Colors HD-Rs 19
+http://182.176.93.225:8000/play/a00c
+#EXTINF:-1,DISCOVERY K-Rs3
+http://182.176.93.225:8000/play/a01r
+#EXTINF:-1,Discovery H-Rs6
+http://182.176.93.225:8000/play/a010
+#EXTINF:-1,Discovery S-Rs1
+http://182.176.93.225:8000/play/a02c
+#EXTINF:-1,Discovery T-Rs1
+http://182.176.93.225:8000/play/a02d
+#EXTINF:-1,Disney Chan-Rs8
+http://182.176.93.225:8000/play/a01m
+#EXTINF:-1,Disney Jr.-Rs 4
+http://182.176.93.225:8000/play/a01n
+#EXTINF:-1,EUROSPORT - Rs 4
+http://182.176.93.225:8000/play/a01f
+#EXTINF:-1,FOX Life HD-Rs1
+http://182.176.93.225:8000/play/a00f
+#EXTINF:-1,HBO - Rs 10
+http://182.176.93.225:8000/play/a01v
+#EXTINF:-1,History TV -Rs3
+http://182.176.93.225:8000/play/a02a
+#EXTINF:-1,LIVING FOOD-Rs1
+http://182.176.93.225:8000/play/a02i
+#EXTINF:-1,MAX HD -Rs 17
+http://182.176.93.225:8000/play/a01a
+#EXTINF:-1,MN+ HD-Rs 10
+http://182.176.93.225:8000/play/a00w
+#EXTINF:-1,MOVIES NO-Rs 10
+http://182.176.93.225:8000/play/a01x
+#EXTINF:-1,NAT Geo Wild HD-Rs 5
+http://182.176.93.225:8000/play/a01b
+#EXTINF:-1,National G-Rs10
+http://182.176.93.225:8000/play/a00z
+#EXTINF:-1,Nick Jr. - Rs1
+http://182.176.93.225:8000/play/a01q
+#EXTINF:-1,Pogo - Rs 4.25
+http://182.176.93.225:8000/play/a01p
+#EXTINF:-1,Romedy NOW-Rs 6
+http://182.176.93.225:8000/play/a01y
+#EXTINF:-1,SET HD - Rs 19
+http://182.176.93.225:8000/play/a00e
+#EXTINF:-1,SIX HD - Rs 19
+http://182.176.93.225:8000/play/a017
+#EXTINF:-1,SONIC- Rs 2
+http://182.176.93.225:8000/play/a01o
+#EXTINF:-1,SONY BBC Ea-Rs4
+http://182.176.93.225:8000/play/a02j
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://182.176.93.225:8000/play/a02r
+#EXTINF:-1,STAR MOVI-Rs 19
+http://182.176.93.225:8000/play/a00x
+#EXTINF:-1,STAR WORLD -Rs9
+http://182.176.93.225:8000/play/a013
+#EXTINF:-1,Sony Ten 1 HD- Rs 19
+http://182.176.93.225:8000/play/a016
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://182.176.93.225:8000/play/a01h
+#EXTINF:-1,Star GOLD- Rs 8
+http://182.176.93.225:8000/play/a02m
+#EXTINF:-1,Star Gold 2- Rs 1
+http://182.176.93.225:8000/play/a02p
+#EXTINF:-1,Star Movi-Rs 10
+http://182.176.93.225:8000/play/a00y
+#EXTINF:-1,Star Plus -Rs19
+http://182.176.93.225:8000/play/a00a
+#EXTINF:-1,Star Sport- Rs19
+http://182.176.93.225:8000/play/a018
+#EXTINF:-1,Star Sport- Rs19
+http://182.176.93.225:8000/play/a015
+#EXTINF:-1,Star Sport-Rs19
+http://182.176.93.225:8000/play/a014
+#EXTINF:-1,Star Sports 3 Rs 4
+http://182.176.93.225:8000/play/a01i
+#EXTINF:-1,TLC HD- Rs3
+http://182.176.93.225:8000/play/a00u
+#EXTINF:-1,UTV ACTION-Rs 2
+http://182.176.93.225:8000/play/a02o
+#EXTINF:-1,UTV MOVIES-Rs 2
+http://182.176.93.225:8000/play/a02n
+#EXTINF:-1,WB - Rs 1
+http://182.176.93.225:8000/play/a01w
+#EXTINF:-1,ZEE CINEMA-Rs15
+http://182.176.93.225:8000/play/a02l
+#EXTINF:-1,ZEE Cafe H-Rs19
+http://182.176.93.225:8000/play/a00v
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://182.176.93.225:8000/play/a00b
+#EXTINF:-1,colors Infi-Rs5
+http://182.176.93.225:8000/play/a02q
+#EXTINF:-1,hungama tv-Rs 6
+http://182.176.93.225:8000/play/a01l
+#EXTINF:-1,nick - Rs 6
+http://182.176.93.225:8000/play/a027
 
