@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, PROGRAMME NATIONAL
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/PROGRAMME_NATIONAL/iptvdz/PROGRAMME_NATIONAL_240p/chunks.m3u8
+#EXTINF:-1, CANAL ALGERIE
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/CANAL_ALGERIE/iptvdz/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:-1, A3
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/A3_HD/iptvdz/A3_HD_720p/chunks.m3u8
+#EXTINF:-1, TV4
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/TV_4/iptvdz/TV_4_720p/chunks.m3u8
+#EXTINF:-1, TV5
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/TV_5/iptvdz/TV_5_720p/chunks.m3u8
+#EXTINF:-1, TV6
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/TV_6_HD/iptvdz/TV_6_HD_720p/chunks.m3u8
+#EXTINF:-1, TV7 ELMARIFA
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/TV7_ELMAARIFA/iptvdz/TV7_ELMAARIFA_720p/chunks.m3u8
