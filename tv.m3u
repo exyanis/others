@@ -25,3 +25,18 @@ https://hta.cdn.easybroadcast.fr/HTATV_CDN/Beur_TV/iptvdz/Beur_TV_720p/chunks.m3
 https://ht#EXTINF:-1,ELa.cdn.easybroadcast.fr/HTATV_CDN/EL_DJAZAIRIA_TV/iptvdz/EL_DJAZAIRIA_TV_720p/chunks.m3u8
 #EXTINF:-1,EL HEDDAF TV
 https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_HEDDAF_TV/iptvdz/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:-1,NUMIDIA TV
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/NUMIDIA_TV/iptvdz/NUMIDIA_TV_720p/chunks.m3u8
+#EXTINF:-1, BAHIA TV
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/BAHIA_TV/iptvdz/BAHIA_TV_720p/chunks.m3u8
+#EXTINF:-1, ECHOROUK TV
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/Echorouk_TV_HD/iptvdz/Echorouk_TV_HD_720p/chunks.m3u8
+#EXTINF:-1, ECHOROUK NEWS
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/ECHOROUK_NEWS/iptvdz/ECHOROUK_NEWS_720p/chunks.m3u8
+#EXTINF:-1, EL HAYAT TV 
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_HAYAT_TV_ALGERIE/iptvdz/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:-1, EL FADJR TV DZ
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_FADJR_TV_DZ/iptvdz/EL_FADJR_TV_DZ_720p/chunks.m3u8
+#EXTINF:-1, ALANIS
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_Fhama_TV/iptvdz/EL_Fhama_TV_720p/chunks.m3u8
+
