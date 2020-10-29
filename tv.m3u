@@ -3,13 +3,6 @@
 https://cutt.ly/entv
 
 #EXTINF:-1, TEST
-https://hta.cdn.easybroadcast.fr/HTATV_CDN/PROGRAMME_NATIONAL/iptvdz/PROGRAMME_NATIONAL_720p/chunks.m3u8
-
-#EXTINF:-1, TEST
-https://cdn.hta.dz/live/CANAL_ALGERIE/iptvdz/CANAL_ALGERIE_720/chunks.m3u8
-
-https://cdn.hta.dz/live/CANAL_ALGERIE/iptvdz/CANAL_ALGERIE_2720p/chunks.m3u8?nimblesessionid=2497671&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMCAxMjo1NjozNSBBTSZoYXNoX3ZhbHVlPWtFQW00WlNoMkYwR3VVbXZRMWZ4MHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+udp://@232.0.1.39:8200
 
 
-#EXTINF:-1, TEST
-https://cutt.ly/ca1
