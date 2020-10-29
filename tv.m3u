@@ -1,2106 +1,595 @@
 #EXTM3U
-
-#EXTINF:-1,USA Network East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/5
-#EXTINF:-1,TV Land
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/360
-#EXTINF:-1,Comedy Central East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/17
-#EXTINF:-1,Lifetime East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/127
-#EXTINF:-1,Lifetime Movie Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/391
-#EXTINF:-1,Food Network East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10
-#EXTINF:-1,DIY Network USA
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/27
-#EXTINF:-1,Tastemade
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3903
-#EXTINF:-1,Cooking Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/368
-#EXTINF:-1,E!
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/234
-#EXTINF:-1,HGTV East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/336
-#EXTINF:-1,Game Show Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/712
-#EXTINF:-1,Discovery Home & Health
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/286
-#EXTINF:-1,A&E East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/146
-#EXTINF:-1,Makeful
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/805
-#EXTINF:-1,History
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/15
-#EXTINF:-1,H2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/289
-#EXTINF:-1,Syfy
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/361
-#EXTINF:-1,FYI Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/609
-#EXTINF:-1,Viceland
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6187
-#EXTINF:-1,FX East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/147
-#EXTINF:-1,Sundance TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/5980
-#EXTINF:-1,Oxygen
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/16
-#EXTINF:-1,WE TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/14
-#EXTINF:-1,Bravo East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/318
-#EXTINF:-1,Pop TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/11110
-#EXTINF:-1,AMC East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/163
-#EXTINF:-1,TCM US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/169
-#EXTINF:-1,IFC
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6096
-#EXTINF:-1,TLC
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/47
-#EXTINF:-1,BBC America
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/21
-#EXTINF:-1,FXX East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/233
-#EXTINF:-1,FXX West
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/723
-#EXTINF:-1,TNT
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/137
-#EXTINF:-1,TBS East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/547
-#EXTINF:-1,ESPN US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/129
-#EXTINF:-1,ESPNU
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/138
-#EXTINF:-1,ESPNews US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/239
-#EXTINF:-1,ESPN 2 US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/240
-#EXTINF:-1,TSN 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/375
-#EXTINF:-1,TSN 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/376
-#EXTINF:-1,TSN 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/377
-#EXTINF:-1,TSN 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/378
-#EXTINF:-1,TSN 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/379
-#EXTINF:-1,Fox Sports 1 US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/28
-#EXTINF:-1,Fox Sports 2 US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/168
-#EXTINF:-1,MLB Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/22
-#EXTINF:-1,SKY Sports News
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/31
-#EXTINF:-1,NFL Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/149
-#EXTINF:-1,MAV tv
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/366
-#EXTINF:-1,NBA TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/236
-#EXTINF:-1,NHL Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/23
-#EXTINF:-1,CBS Sports Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/242
-#EXTINF:-1,NBC Sport Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/335
-#EXTINF:-1,WWE Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/395
-#EXTINF:-1,UFC TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10668
-#EXTINF:-1,Fight Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/367
-#EXTINF:-1,Cartoon 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/193
-#EXTINF:-1,Cartoon 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9897
-#EXTINF:-1,Cartoon 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8076
-#EXTINF:-1,Cartoon 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9735
-#EXTINF:-1,Cartoon 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/404
-#EXTINF:-1,Pocket watch
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-pocket-watch/CDN/master.m3u8
-#EXTINF:-1,Nickelodeon East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/218
-#EXTINF:-1,Nick Jr East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/315
-#EXTINF:-1,Disney Channel East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6
-#EXTINF:-1,Disney Junior
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/311
-#EXTINF:-1,Disney XD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/313
-#EXTINF:-1,Boomerang US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/322
-#EXTINF:-1,Cartoon Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/337
-#EXTINF:-1,Universal Kids
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/11306
-#EXTINF:-1,Discovery Family
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/314
-#EXTINF:-1,ABC Spark
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/799
-#EXTINF:-1,FREEFORM
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/312
-#EXTINF:-1,Knowledge Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/388
-#EXTINF:-1,Discovery Channel USA
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/1
-#EXTINF:-1,Animal Planet
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/309
-#EXTINF:-1,Nat Geo Wild
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/306
-#EXTINF:-1,National Geographic Channel East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/209
-#EXTINF:-1,Yesterday
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/34
-#EXTINF:-1,Smithsonian Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/30
-#EXTINF:-1,Discovery ID East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3905
-#EXTINF:-1,Discovery ID West
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/807
-#EXTINF:-1,Science Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/261
-#EXTINF:-1,Destination America
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/308
-#EXTINF:-1,American Heroes Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/317
-#EXTINF:-1,Travel Channel US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9684
-#EXTINF:-1,Travel Channel UK
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/294
-#EXTINF:-1,OWN
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6099
-#EXTINF:-1,CBS Reality
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/246
-#EXTINF:-1,CNN US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/2
-#EXTINF:-1,ABC News
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9730
-#EXTINF:-1,HLN
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/394
-#EXTINF:-1,Bloomberg TV
-http://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1,CBSNews
-http://iptu.org/live.m3u8?channel=52
-#EXTINF:-1,Fox News Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7
-#EXTINF:-1,Fox Business
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/359
-#EXTINF:-1,BNN Bloomberg
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/820
-#EXTINF:-1,CNBC US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/299
-#EXTINF:-1,MSNBC
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/300
-#EXTINF:-1,RT US
-http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1,CTV News
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10099
-#EXTINF:-1,CBC News
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/405
-#EXTINF:-1,CP24
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/451
-#EXTINF:-1,The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,WeatherNation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
-#EXTINF:-1,CBSNews New York
-https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1,CBSNews Los Angeles
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1,CBSNews Boston
-https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master_1.m3u8
-#EXTINF:-1,CBSNews Bay Area
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
-#EXTINF:-1,CBSNews Philadelphia
-https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
-#EXTINF:-1,CBSNews Denver
-https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4128/CBS.DENVER.OTT
-#EXTINF:-1,WGN News Chicago
-http://iptu.org/live.m3u8?channel=301
-#EXTINF:-1,SKY News
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/108
-#EXTINF:-1,France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,♣♦♣♦♣♦♣--للاشتراك والتواصل معنا--♣♦♣♦♣♦♣
+http://jokertv.link:25461/AXXAM/deadmaniptv/53126
+#EXTINF:-1,beIN SPORTS News HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46774
+#EXTINF:-1,AR: beIN Sports 1 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46775
+#EXTINF:-1,AR: beIN Sports 2 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46776
+#EXTINF:-1,AR: beIN Sports  3 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46777
+#EXTINF:-1,AR: beIN Sports  4 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46778
+#EXTINF:-1,AR: beIN Sports  5 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46779
+#EXTINF:-1,AR: beIN Sports  6 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46780
+#EXTINF:-1,AR: beIN Sports  7 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46781
+#EXTINF:-1,AR: beIN Sports  8 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46782
+#EXTINF:-1,AR: beIN Sports  9 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46783
+#EXTINF:-1,AR: beIN Sports  10 4K HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46784
+#EXTINF:-1,AR: beIN SPORTS HD1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46785
+#EXTINF:-1,AR: beIN SPORTS HD2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46786
+#EXTINF:-1,AR: beIN SPORTS HD3
+http://jokertv.link:25461/AXXAM/deadmaniptv/46787
+#EXTINF:-1,AR: beIN SPORTS HD4
+http://jokertv.link:25461/AXXAM/deadmaniptv/46788
+#EXTINF:-1,AR: beIN SPORTS HD5
+http://jokertv.link:25461/AXXAM/deadmaniptv/46789
+#EXTINF:-1,AR: beIN SPORTS HD6
+http://jokertv.link:25461/AXXAM/deadmaniptv/46790
+#EXTINF:-1,AR: beIN SPORTS HD7
+http://jokertv.link:25461/AXXAM/deadmaniptv/46791
+#EXTINF:-1,AR: beIN SPORTS HD8
+http://jokertv.link:25461/AXXAM/deadmaniptv/46792
+#EXTINF:-1,AR: beIN SPORTS HD9
+http://jokertv.link:25461/AXXAM/deadmaniptv/46793
+#EXTINF:-1,AR: beIN SPORTS HD10
+http://jokertv.link:25461/AXXAM/deadmaniptv/46794
+#EXTINF:-1,AR: beIN SPORTS SD1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46795
+#EXTINF:-1,AR: beIN SPORTS SD2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46796
+#EXTINF:-1,AR: beIN SPORTS SD3
+http://jokertv.link:25461/AXXAM/deadmaniptv/46797
+#EXTINF:-1,AR: beIN SPORTS SD4
+http://jokertv.link:25461/AXXAM/deadmaniptv/46798
+#EXTINF:-1,AR: beIN SPORTS SD5
+http://jokertv.link:25461/AXXAM/deadmaniptv/46799
+#EXTINF:-1,AR: beIN SPORTS SD6
+http://jokertv.link:25461/AXXAM/deadmaniptv/46800
+#EXTINF:-1,AR: beIN SPORTS SD8
+http://jokertv.link:25461/AXXAM/deadmaniptv/46801
+#EXTINF:-1,AR: beIN SPORTS SD9
+http://jokertv.link:25461/AXXAM/deadmaniptv/46802
+#EXTINF:-1,AR: beIN SPORTS SD10
+http://jokertv.link:25461/AXXAM/deadmaniptv/46803
+#EXTINF:-1,AR: beIN SPORTS LOW1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46804
+#EXTINF:-1,AR: beIN SPORTS LOW2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46805
+#EXTINF:-1,AR: beIN SPORTS LOW3
+http://jokertv.link:25461/AXXAM/deadmaniptv/46806
+#EXTINF:-1,AR: beIN SPORTS LOW4
+http://jokertv.link:25461/AXXAM/deadmaniptv/46807
+#EXTINF:-1,AR: beIN SPORTS LOW5
+http://jokertv.link:25461/AXXAM/deadmaniptv/46808
+#EXTINF:-1,AR: beIN SPORTS LOW6
+http://jokertv.link:25461/AXXAM/deadmaniptv/46809
+#EXTINF:-1,AR: beIN SPORTS LOW7
+http://jokertv.link:25461/AXXAM/deadmaniptv/46810
+#EXTINF:-1,AR: beIN SPORTS LOW8
+http://jokertv.link:25461/AXXAM/deadmaniptv/46811
+#EXTINF:-1,AR: beIN SPORTS LOW9
+http://jokertv.link:25461/AXXAM/deadmaniptv/46812
+#EXTINF:-1,AR: beIN SPORTS LOW10
+http://jokertv.link:25461/AXXAM/deadmaniptv/46813
+#EXTINF:-1,beIN SPORTS 1 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46814
+#EXTINF:-1,beIN SPORTS 2 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46815
+#EXTINF:-1,beIN SPORTS 3 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46816
+#EXTINF:-1,beIN SPORTS 4 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46817
+#EXTINF:-1,beIN SPORTS 5 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46818
+#EXTINF:-1,beIN SPORTS 6 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46819
+#EXTINF:-1,beIN SPORTS 7 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46820
+#EXTINF:-1,beIN SPORTS 8 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46821
+#EXTINF:-1,beIN SPORTS 9 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46822
+#EXTINF:-1,beIN SPORTS 10 Hevc
+http://jokertv.link:25461/AXXAM/deadmaniptv/46823
+#EXTINF:-1,AR:  beIN Outdoor
+http://jokertv.link:25461/AXXAM/deadmaniptv/46824
+#EXTINF:-1,AR:  beIN AMC
+http://jokertv.link:25461/AXXAM/deadmaniptv/46825
+#EXTINF:-1,AR: beIN  Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/46826
+#EXTINF:-1,AR: beIN  Gourmet
+http://jokertv.link:25461/AXXAM/deadmaniptv/46827
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46828
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46829
+#EXTINF:-1,AR: beIN Movies 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46830
+#EXTINF:-1,AR: beIN Series 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46831
+#EXTINF:-1,AR: beIN Series 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46832
+#EXTINF:-1,AR: beIN Jeem HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46833
+#EXTINF:-1,AR: beIN Fox Movies
+http://jokertv.link:25461/AXXAM/deadmaniptv/46834
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46835
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46836
+#EXTINF:-1,OSN: Yahala Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46837
+#EXTINF:-1,OSN: Yahala Al Oula
+http://jokertv.link:25461/AXXAM/deadmaniptv/46838
+#EXTINF:-1,OSN HD :OSN YaHala HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46839
+#EXTINF:-1,OSN HD :OSN YaHala Oula HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46840
+#EXTINF:-1,OSN HD : OSN YaHala Cinema HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46841
+#EXTINF:-1,OSN HD : OSN ALYOUM HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46842
+#EXTINF:-1,OSN HD : OSN CINEMA 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46843
+#EXTINF:-1,OSN HD: OSN Cinema 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46844
+#EXTINF:-1,OSN HD : OSN MUSIC_NOW_HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46845
+#EXTINF:-1,OSN HD : OSN Movies HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46846
+#EXTINF:-1,OSN HD : OSN Movies First 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46847
+#EXTINF:-1,OSN HD : OSN Movies Action HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46848
+#EXTINF:-1,OSN HD : OSN Movies Family HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46849
+#EXTINF:-1,OSN HD : OSN Movies Comedy HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46850
+#EXTINF:-1,OSN HD : OSN Movies BINGE HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46851
+#EXTINF:-1,OSN HD : OSN Animal Planet HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46852
+#EXTINF:-1,OSN HD : OSN Dreamwork HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46853
+#EXTINF:-1,OSN HD : OSN Enigma HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46854
+#EXTINF:-1,OSN HD : OSN Nat GEO Wild HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46855
+#EXTINF:-1,OSN HD : OSN Movies Kids HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46856
+#EXTINF:-1,OSN HD : OSN Nickelodeon HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46857
+#EXTINF:-1,OSN HD : OSN WWE Network
+http://jokertv.link:25461/AXXAM/deadmaniptv/46858
+#EXTINF:-1,OSN HD : Nickelodeon Junior HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46859
+#EXTINF:-1,OSN HD : OSN Crime & Investigation Network HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46860
+#EXTINF:-1,OSN HD : OSN Movies First 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46861
+#EXTINF:-1,OSN ALFA:ORBIT-CINEMA-1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46862
+#EXTINF:-1,OSN ALFA:ORBIT-CINEMA-2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46863
+#EXTINF:-1,OSN HD :OSN Musalsalat 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46864
+#EXTINF:-1,OSN HD :OSN Musalsalat 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46865
+#EXTINF:-1,OSN HD :  OSN My Cinema HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46866
+#EXTINF:-1,OSN: Binge
+http://jokertv.link:25461/AXXAM/deadmaniptv/46867
+#EXTINF:-1,OSN: Premiere Movies
+http://jokertv.link:25461/AXXAM/deadmaniptv/46868
+#EXTINF:-1,OSN: Box Office 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46869
+#EXTINF:-1,OSN: Cinema 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46870
+#EXTINF:-1,OSN: Cinema 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46871
+#EXTINF:-1,OSN: Discovery
+http://jokertv.link:25461/AXXAM/deadmaniptv/46872
+#EXTINF:-1,OSN: Enigma
+http://jokertv.link:25461/AXXAM/deadmaniptv/46873
+#EXTINF:-1,OSN: History HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46874
+#EXTINF:-1,OSN: Movies
+http://jokertv.link:25461/AXXAM/deadmaniptv/46875
+#EXTINF:-1,OSN: Movies Comedy
+http://jokertv.link:25461/AXXAM/deadmaniptv/46876
+#EXTINF:-1,OSN: Movies First
+http://jokertv.link:25461/AXXAM/deadmaniptv/46877
+#EXTINF:-1,OSN: Series First HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46878
+#EXTINF:-1,OSN: Star Movies
+http://jokertv.link:25461/AXXAM/deadmaniptv/46879
+#EXTINF:-1,Abu Dhabi Sports 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46880
+#EXTINF:-1,Abu Dhabi Sports 4
+http://jokertv.link:25461/AXXAM/deadmaniptv/46881
+#EXTINF:-1,AL KASS 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46882
+#EXTINF:-1,AL KASS 3
+http://jokertv.link:25461/AXXAM/deadmaniptv/46883
+#EXTINF:-1,AL KASS 4
+http://jokertv.link:25461/AXXAM/deadmaniptv/46884
+#EXTINF:-1,KSA SPORTS 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46885
+#EXTINF:-1,KSA SPORTS 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46886
+#EXTINF:-1,KSA SPORTS 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46887
+#EXTINF:-1,KSA SPORTS 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46888
+#EXTINF:-1,DUBAI SPORTS 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46889
+#EXTINF:-1,DUBAI SPORTS 3
+http://jokertv.link:25461/AXXAM/deadmaniptv/46890
+#EXTINF:-1,Eleven Sports 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46891
+#EXTINF:-1,Eleven Sports 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46892
+#EXTINF:-1,Eleven Sports 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46893
+#EXTINF:-1,Eleven Sports 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46894
+#EXTINF:-1,RO:Digi Sport 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46895
+#EXTINF:-1,RO:Digi Sport 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46896
+#EXTINF:-1,RO:Digi Sport 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46897
+#EXTINF:-1,RO:Digi Sport 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46898
+#EXTINF:-1,Arena Sport 2 SR HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46899
+#EXTINF:-1,Arena Sport 3 SR HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46900
+#EXTINF:-1,Arena Sport 4 SR HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46901
+#EXTINF:-1,Tring Sport 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46902
+#EXTINF:-1,Tring Sport 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46903
+#EXTINF:-1,Tring Sport 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46904
+#EXTINF:-1,Tring Sport 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46905
+#EXTINF:-1,SuperSport 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46906
+#EXTINF:-1,SuperSport 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46907
+#EXTINF:-1,SuperSport 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46908
+#EXTINF:-1,SuperSport 5 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46909
+#EXTINF:-1,Ex-Yu: Eurosport 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46910
+#EXTINF:-1,Ex-Yu: Eurosport 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46911
+#EXTINF:-1,Ex-Yu: Sport Klub 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46912
+#EXTINF:-1,Ex-Yu: Sport Klub 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46913
+#EXTINF:-1,Ex-Yu: Sport Klub 3
+http://jokertv.link:25461/AXXAM/deadmaniptv/46914
+#EXTINF:-1,Ex-Yu: Sport Klub 4
+http://jokertv.link:25461/AXXAM/deadmaniptv/46915
+#EXTINF:-1,Ex-Yu: Sport Klub 5
+http://jokertv.link:25461/AXXAM/deadmaniptv/46916
+#EXTINF:-1,Ex-Yu: Sport Klub 6
+http://jokertv.link:25461/AXXAM/deadmaniptv/46917
+#EXTINF:-1,NL: FOX Sports 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46918
+#EXTINF:-1,NL: FOX Sports 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46919
+#EXTINF:-1,NL: FOX Sports 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46920
+#EXTINF:-1,NL: FOX Sports 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46921
+#EXTINF:-1,NL: ZiggoSport Select HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46922
+#EXTINF:-1,NL: ZiggoSport Golf HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46923
+#EXTINF:-1,NL: ZiggoSport Racing HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46924
 #EXTINF:-1,Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,Euronews
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9979
-#EXTINF:-1,ABC News Australia
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10055
-#EXTINF:-1,Channel News Asia
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9732
-#EXTINF:-1,BBC News
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/109
-#EXTINF:-1,CNN International
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/416
-#EXTINF:-1,TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,BBC World News
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/298
-#EXTINF:-1,Press TV
-https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1,Deutsche Welle
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1,CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,Arirang TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,NHK World
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1,NewsmaxTV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1,KTLA 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/780
-#EXTINF:-1,WGN America
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/220
-#EXTINF:-1,Tru TV East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/219
-#EXTINF:-1,CHCH Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/347
-#EXTINF:-1,CBS Drama
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/244
-#EXTINF:-1,Drama
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/287
-#EXTINF:-1,DejaView
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/330
-#EXTINF:-1,Life Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/237
-#EXTINF:-1,Crime & Investigation Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/124
-#EXTINF:-1,ION Television East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/321
-#EXTINF:-1,Paramount Channel East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/702
-#EXTINF:-1,Paramount Channel West
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/292
-#EXTINF:-1,Reelz Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/208
-#EXTINF:-1,Logo TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/420
-#EXTINF:-1,PBS America
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9692
-#EXTINF:-1,COZI TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10632
-#EXTINF:-1,MotorTrend
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10609
-#EXTINF:-1,Dmax
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/297
-#EXTINF:-1,RT Documentary
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1,CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1,MTV 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10644
-#EXTINF:-1,MTV Unplugged
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10646
-#EXTINF:-1,MTV Live
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/144
-#EXTINF:-1,MTV Classic
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10645
-#EXTINF:-1,BET Jams
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/338
-#EXTINF:-1,Concert Channel US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/346
-#EXTINF:-1,BET
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6098
-#EXTINF:-1,VH1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/633
-#EXTINF:-1,Fuse
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/194
-#EXTINF:-1,CMT
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/711
-#EXTINF:-1,Revolt Music
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10640
-#EXTINF:-1,Music Videos 1
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,Music Videos 2
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1,Music Videos 3
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Music Videos 4
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1,Music Videos 5
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,Music Videos 6
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1,Music Videos 7
-https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
-#EXTINF:-1,Music Videos 8
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Music Videos 9
-http://dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8
-#EXTINF:-1,Music Videos 10
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
-#EXTINF:-1,HBO East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/301
-#EXTINF:-1,HBO 2 East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12
-#EXTINF:-1,HBO 2 West
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/4150
-#EXTINF:-1,HBO Signature East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/128
-#EXTINF:-1,HBO Plus
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/85
-#EXTINF:-1,HBO Family East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/293
-#EXTINF:-1,HBO Family West
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/4045
-#EXTINF:-1,HBO Comedy East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/148
-#EXTINF:-1,HBO Zone
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/130
-#EXTINF:-1,HBO Max
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/212
-#EXTINF:-1,HBO Xtreme East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/90
-#EXTINF:-1,Cinemax East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/125
-#EXTINF:-1,MoreMax
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/126
-#EXTINF:-1,ActionMax East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/232
-#EXTINF:-1,5 StarMax
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/319
-#EXTINF:-1,MovieMax
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6095
-#EXTINF:-1,ThrillerMax East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/262
-#EXTINF:-1,Showtime East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3
-#EXTINF:-1,Showtime 2 East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/133
-#EXTINF:-1,Showtime Showcase East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/162
-#EXTINF:-1,Showtime Extreme East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/134
-#EXTINF:-1,Showtime BET
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/135
-#EXTINF:-1,Showtime Next
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/165
-#EXTINF:-1,Showtime Women
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/164
-#EXTINF:-1,The Movie Channel East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9
-#EXTINF:-1,The Movie Channel Xtra East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/136
-#EXTINF:-1,Fox Premium Series East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/94
-#EXTINF:-1,Fox Premium Family East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/78
-#EXTINF:-1,Fox Premium Comedy East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9933
-#EXTINF:-1,Fox Premium Action East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/415
-#EXTINF:-1,Fox Premium Movies East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/370
-#EXTINF:-1,Fox Premium Classic East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/638
-#EXTINF:-1,Starz Encore
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/11
-#EXTINF:-1,Starz Encore Westerns
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/363
-#EXTINF:-1,Starz Encore Action
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/320
-#EXTINF:-1,Starz Encore Suspense
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/302
-#EXTINF:-1,Starz East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8
-#EXTINF:-1,Starz Edge East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/693
-#EXTINF:-1,Starz Cinema East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/141
-#EXTINF:-1,Starz Comedy East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/142
-#EXTINF:-1,Starz In Black East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/143
-#EXTINF:-1,Starz Kids & Family East
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/166
-#EXTINF:-1,SKY Modern Greats
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/112
-#EXTINF:-1,SKY Disney
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/36
-#EXTINF:-1,SKY Family
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/37
-#EXTINF:-1,SKY Action & Adventure
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/38
-#EXTINF:-1,SKY Comedy
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/39
-#EXTINF:-1,SKY Crime & Thriller
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/40
-#EXTINF:-1,SKY Movies Drama
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/113
-#EXTINF:-1,SKY Scifi & Horror
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/41
-#EXTINF:-1,SKY Select
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/42
-#EXTINF:-1,Sky Movies Showcase
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/114
-#EXTINF:-1,True Movies 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/123
-#EXTINF:-1,Movies 24
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/115
-#EXTINF:-1,Film 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/110
-#EXTINF:-1,SPACE US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/527
-#EXTINF:-1,CineCanal US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/449
-#EXTINF:-1,TNT US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/601
-#EXTINF:-1,Hallmark Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/392
-#EXTINF:-1,Hallmark Movies & Mysteries
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/145
-#EXTINF:-1,Hallmark Drama
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/11114
-#EXTINF:-1,Warner Channel US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/468
-#EXTINF:-1,EPIX Hits
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10633
-#EXTINF:-1,Fox Movie Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9827
-#EXTINF:-1,FX Movie Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9694
-#EXTINF:-1,MGM
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6357
-#EXTINF:-1,Sony Movie Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/477
-#EXTINF:-1,AXN Series US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/469
-#EXTINF:-1,TNT Series US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6297
-#EXTINF:-1,Game+
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/91
-#EXTINF:-1,Ginx Esports TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10053
-#EXTINF:-1,Bein Sports US
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6097
-#EXTINF:-1,Sportsman Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9688
-#EXTINF:-1,Outdoor Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9687
-#EXTINF:-1,Eleven Sports
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9689
-#EXTINF:-1,RedBull TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10653
-#EXTINF:-1,Olympic Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6298
-#EXTINF:-1,Tennis Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/310
-#EXTINF:-1,Golf Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/235
-#EXTINF:-1,TVG Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/777
-#EXTINF:-1,At The Races
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/117
-#EXTINF:-1,Racing TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/258
-#EXTINF:-1,Big Ten Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10647
-#EXTINF:-1,SKY Sports Mix
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/118
-#EXTINF:-1,MSG Plus
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/174
-#EXTINF:-1,MSG
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/238
-#EXTINF:-1,BoxNation
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/622
-#EXTINF:-1,Sky Sports Main Event
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/250
-#EXTINF:-1,Sky Sports Premier League
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/251
-#EXTINF:-1,Sky Sports Football
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/252
-#EXTINF:-1,Sky Sports Golf
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/253
-#EXTINF:-1,Sky Sports Cricket
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/254
-#EXTINF:-1,SKY Sports F1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/249
-#EXTINF:-1,BT Sport 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/259
-#EXTINF:-1,BT Sport 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/260
-#EXTINF:-1,Eurosport 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/264
-#EXTINF:-1,Eurosport 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/265
-#EXTINF:-1,Fox Sports Florida
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/382
-#EXTINF:-1,Yes Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/307
-#EXTINF:-1,AT&T Sportsnet
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/116
-#EXTINF:-1,Fox Sports Prime Ticket
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/200
-#EXTINF:-1,NBC Sports Bay Area
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10657
-#EXTINF:-1,NBC Sports Boston
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10655
-#EXTINF:-1,NBC Sports California
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10656
-#EXTINF:-1,NBC Sports Chicago
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10658
-#EXTINF:-1,NBC Sports Northwest
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10661
-#EXTINF:-1,NBC Sports Philadelphia
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10659
-#EXTINF:-1,NBC Sports Washington
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10660
-#EXTINF:-1,Longhorn Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10649
-#EXTINF:-1,FOX College Sports Central
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10648
-#EXTINF:-1,ACC Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/670
-#EXTINF:-1,Stadium
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/384
-#EXTINF:-1,Sportsnet 360
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/493
-#EXTINF:-1,Sportsnet One
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9144
-#EXTINF:-1,Sportsnet Ontario
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/13412
-#EXTINF:-1,Sportsnet Pacific
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/13413
-#EXTINF:-1,PAC 12 Bay Area
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3896
-#EXTINF:-1,PAC 12 Oregon
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3892
-#EXTINF:-1,PAC 12 Los Angeles
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3897
-#EXTINF:-1,PAC 12 Arizona
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3895
-#EXTINF:-1,PAC 12 Networks
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3894
-#EXTINF:-1,PAC 12 Washington
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3893
-#EXTINF:-1,PAC 12 Mountain
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/3898
-#EXTINF:-1,Ultimate Events & Sports 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/231
-#EXTINF:-1,Ultimate Events & Sports 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/288
-#EXTINF:-1,Ultimate Events & Sports 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6280
-#EXTINF:-1,Ultimate Events & Sports 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6287
-#EXTINF:-1,Ultimate Events & Sports 5
-http://lol
-#EXTINF:-1,Ultimate Events & Sports 6
-http://lol
-#EXTINF:-1,Adult xxx
-http://iptvnation.com/porn/video1080p.mp4
-#EXTINF:-1,Adult 1
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1,Adult 2
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1,Adult 3
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1,Adult 4
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1,Adult 5
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1,Adult 6
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/557
-#EXTINF:-1,Adult 7
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/558
-#EXTINF:-1,Adult 8
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/559
-#EXTINF:-1,Adult 9
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/560
-#EXTINF:-1,Adult 10
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/561
-#EXTINF:-1,Adult 11
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/562
-#EXTINF:-1,Adult 12
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/563
-#EXTINF:-1,Playboy TV en Español
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/50
-#EXTINF:-1,Sextreme
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/564
-#EXTINF:-1,Venus
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/48
-#EXTINF:-1,Private
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/509
-#EXTINF:-1,Mofos
-http://iptvhello.com/mofos.m3u8
-#EXTINF:-1,Brazzers
-http://iptvhello.com/brazzers.m3u8
-#EXTINF:-1,Pinko TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/49
-#EXTINF:-1,Reality Kings
-http://iptvhello.com/rkings.m3u8
-#EXTINF:-1,Digital Playground
-http://iptvhello.com/digital.m3u8
-#EXTINF:-1,Hustler TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/645
-#EXTINF:-1,Penthouse Quickies
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8372
-#EXTINF:-1,Penthouse
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/577
-#EXTINF:-1,Dusk
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/858
-#EXTINF:-1,MLB Network HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9222
-#EXTINF:-1,MLB 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8688
-#EXTINF:-1,MLB 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8689
-#EXTINF:-1,MLB 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8690
-#EXTINF:-1,MLB 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8691
-#EXTINF:-1,MLB 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8699
-#EXTINF:-1,MLB 6
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8692
-#EXTINF:-1,MLB 7
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8694
-#EXTINF:-1,MLB 8
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8695
-#EXTINF:-1,MLB 9
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8696
-#EXTINF:-1,MLB 10
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8697
-#EXTINF:-1,MLB 11
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8698
-#EXTINF:-1,MLB 12
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8700
-#EXTINF:-1,MLB 13
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8693
-#EXTINF:-1,MLB 14
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9139
-#EXTINF:-1,MLB 15
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9128
-#EXTINF:-1,MLB 16
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9130
-#EXTINF:-1,MLB 17
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9131
-#EXTINF:-1,MLB 18
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9132
-#EXTINF:-1,MLB 19
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9133
-#EXTINF:-1,MLB 20
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9134
-#EXTINF:-1,MLB 21
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9135
-#EXTINF:-1,MLB 22
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9129
-#EXTINF:-1,MLB 23
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9136
-#EXTINF:-1,MLB 24
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9138
-#EXTINF:-1,MLB 25
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9937
-#EXTINF:-1,MLB 26
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9935
-#EXTINF:-1,MLB 27
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/417
-#EXTINF:-1,MLB 28
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/452
-#EXTINF:-1,MLB 29
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/514
-#EXTINF:-1,NFL Redzone
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10607
-#EXTINF:-1,NFL 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9156
-#EXTINF:-1,NFL 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9162
-#EXTINF:-1,NFL 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9145
-#EXTINF:-1,NFL 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9148
-#EXTINF:-1,NFL 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9151
-#EXTINF:-1,NFL 6
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9154
-#EXTINF:-1,NFL 7
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9158
-#EXTINF:-1,NFL 8
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9161
-#EXTINF:-1,NFL 9
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9164
-#EXTINF:-1,NFL 10
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9147
-#EXTINF:-1,NFL 11
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9150
-#EXTINF:-1,NFL 12
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9153
-#EXTINF:-1,NFL 13
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9157
-#EXTINF:-1,NFL 14
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9160
-#EXTINF:-1,NFL 15
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9163
-#EXTINF:-1,NFL 16
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9149
-#EXTINF:-1,NFL 17
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9152
-#EXTINF:-1,NFL 18
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9155
-#EXTINF:-1,NFL 19
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/857
-#EXTINF:-1,NFL 20
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/747
-#EXTINF:-1,NFL 21
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/490
-#EXTINF:-1,NFL 22
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/811
-#EXTINF:-1,NFL 23
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/544
-#EXTINF:-1,NFL 24
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/282
-#EXTINF:-1,NFL 25
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/372
-#EXTINF:-1,NFL 26
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/456
-#EXTINF:-1,NFL 27
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/516
-#EXTINF:-1,NFL 28
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/855
-#EXTINF:-1,NFL 29
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/11104
-#EXTINF:-1,NFL 30
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/545
-#EXTINF:-1,NFL 31
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/730
-#EXTINF:-1,NFL 32
-http://x.x
-#EXTINF:-1,NFL 33
-http://x.x
-#EXTINF:-1,NFL 34
-http://x.x
-#EXTINF:-1,NBA 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7793
-#EXTINF:-1,NBA 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7791
-#EXTINF:-1,NBA 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7790
-#EXTINF:-1,NBA 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7789
-#EXTINF:-1,NBA 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7788
-#EXTINF:-1,NBA 6
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7787
-#EXTINF:-1,NBA 7
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7794
-#EXTINF:-1,NBA 8
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7792
-#EXTINF:-1,NBA 9
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8723
-#EXTINF:-1,NBA 10
-http://x.x
-#EXTINF:-1,NBA 11
-http://x.x
-#EXTINF:-1,NBA 12
-http://x.x
-#EXTINF:-1,NBA 13
-http://x.x
-#EXTINF:-1,NBA 14
-http://x.x
-#EXTINF:-1,NBA 15
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9125
-#EXTINF:-1,NBA 16
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10773
-#EXTINF:-1,NBA 17
-http://x.x
-#EXTINF:-1,NBA 18
-http://x.x
-#EXTINF:-1,NBA 19
-http://x.x
-#EXTINF:-1,NBA 20
-http://x.x
-#EXTINF:-1,NBA 21
-http://x.x
-#EXTINF:-1,NBA 22
-http://x.x
-#EXTINF:-1,NBA 23
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10804
-#EXTINF:-1,NBA 24
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10806
-#EXTINF:-1,NBA 25
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10808
-#EXTINF:-1,NBA 26
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10810
-#EXTINF:-1,NBA 27
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10813
-#EXTINF:-1,NBA 28
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10814
-#EXTINF:-1,NBA 29
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10815
-#EXTINF:-1,NBA 30
-http://x.x
-#EXTINF:-1,NHL 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7811
-#EXTINF:-1,NHL 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7809
-#EXTINF:-1,NHL 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7817
-#EXTINF:-1,NHL 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7819
-#EXTINF:-1,NHL 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7815
-#EXTINF:-1,NHL 6
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7813
-#EXTINF:-1,NHL 7
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7812
-#EXTINF:-1,NHL 8
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7810
-#EXTINF:-1,NHL 9
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7808
-#EXTINF:-1,NHL 10
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7816
-#EXTINF:-1,NHL 11
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9120
-#EXTINF:-1,ITV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/170
-#EXTINF:-1,ITV 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/106
-#EXTINF:-1,ITV 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/268
-#EXTINF:-1,ITV 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/269
-#EXTINF:-1,TG 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/270
-#EXTINF:-1,4 Seven
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/291
-#EXTINF:-1,Channel 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/271
-#EXTINF:-1,Channel 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/272
-#EXTINF:-1,SKY Living
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/273
-#EXTINF:-1,Watch
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/274
-#EXTINF:-1,Gold
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/275
-#EXTINF:-1,Dave
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/276
-#EXTINF:-1,SKY One
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/277
-#EXTINF:-1,SKY Atlantic
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/278
-#EXTINF:-1,E4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/279
-#EXTINF:-1,More 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/280
-#EXTINF:-1,Challenge
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/281
-#EXTINF:-1,Alibi
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/296
-#EXTINF:-1,Pick
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/171
-#EXTINF:-1,5 Star
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/283
-#EXTINF:-1,RTE ONE
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/172
-#EXTINF:-1,RTE 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/173
-#EXTINF:-1,BBC ONE
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/176
-#EXTINF:-1,BBC TWO
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/247
-#EXTINF:-1,BBC FOUR
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/285
-#EXTINF:-1,ITV Be
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/295
-#EXTINF:-1,5 USA
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/284
-#EXTINF:-1,Az Mundo
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/229
-#EXTINF:-1,Las Estrellas
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/160
-#EXTINF:-1,Estrella TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/352
-#EXTINF:-1,Univision
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/46
-#EXTINF:-1,UniMAS
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/43
-#EXTINF:-1,Mega TV Miami
-http://185.169.253.89:8080/Main/MegaMiami/playlist.m3u8
-#EXTINF:-1,Galavision
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/436
-#EXTINF:-1,NBC Universo
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/305
-#EXTINF:-1,AZ Corazon
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/397
-#EXTINF:-1,RCN Novelas
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/206
-#EXTINF:-1,Telemundo Internacional
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/373
-#EXTINF:-1,Telemundo
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/180
-#EXTINF:-1,TVE
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/374
-#EXTINF:-1,CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,RCN
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/521
-#EXTINF:-1,Caracol Television
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/230
-#EXTINF:-1,Discovery Turbo LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6574
-#EXTINF:-1,Discovery Channel Latino
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/195
-#EXTINF:-1,Discovery Channel LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/263
-#EXTINF:-1,Discovery Civilization LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10665
-#EXTINF:-1,Discovery Science LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9683
-#EXTINF:-1,Nat Geo Mundo
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10637
-#EXTINF:-1,H2 LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/51
-#EXTINF:-1,History Channel LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/98
-#EXTINF:-1,National Geographic LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/97
-#EXTINF:-1,Nat Geo Wild LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/18
-#EXTINF:-1,Animal Planet Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/52
-#EXTINF:-1,ESPN Deportes
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/5986
-#EXTINF:-1,ESPN Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/182
-#EXTINF:-1,ESPN 2 Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/53
-#EXTINF:-1,ESPN 3 Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/54
-#EXTINF:-1,Fox Sports Deportes
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/5987
-#EXTINF:-1,Fox Sports Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/185
-#EXTINF:-1,Fox Sports 2 Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/96
-#EXTINF:-1,Fox Sports 3 Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/55
-#EXTINF:-1,F1 Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/217
-#EXTINF:-1,Adrenalina Sports Network
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/159
-#EXTINF:-1,Claro Sports
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/425
-#EXTINF:-1,Bein Sports en Español
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10545
-#EXTINF:-1,Win Sports
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/409
-#EXTINF:-1,IZZI Afizzionados
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10613
-#EXTINF:-1,Goltv
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9690
-#EXTINF:-1,TUDN
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/364
-#EXTINF:-1,DirecTV Sports
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/831
-#EXTINF:-1,La Liga TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/762
-#EXTINF:-1,TeleDeporte
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/482
-#EXTINF:-1,TVC Deportes
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10654
-#EXTINF:-1,Golf Channel Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/204
-#EXTINF:-1,PX Sports
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12389
-#EXTINF:-1,Film & Arts Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/213
-#EXTINF:-1,FX Latino
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/61
-#EXTINF:-1,Universal Channel America Latina
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/93
-#EXTINF:-1,Fox Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/183
-#EXTINF:-1,Syfy Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/62
-#EXTINF:-1,Canal Sony
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/188
-#EXTINF:-1,Discovery ID Latino
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/63
-#EXTINF:-1,Warner Channel Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/189
-#EXTINF:-1,AXN LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9680
-#EXTINF:-1,A&E Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/25
-#EXTINF:-1,A3S Atreseries
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6578
-#EXTINF:-1,TNT Series Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/66
-#EXTINF:-1,Elgourmet
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/154
-#EXTINF:-1,Food Network LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9686
-#EXTINF:-1,Discovery Home & Health Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/26
-#EXTINF:-1,HGTV LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7814
-#EXTINF:-1,TLC Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/64
-#EXTINF:-1,TBS America Latina
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/67
-#EXTINF:-1,FOX Life
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/68
-#EXTINF:-1,Distrito Comedia
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/205
-#EXTINF:-1,Hola TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6576
-#EXTINF:-1,E! Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/60
-#EXTINF:-1,Lifetime Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/70
-#EXTINF:-1,Glitz Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/198
-#EXTINF:-1,Mas Chic
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/426
-#EXTINF:-1,WOBI
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/422
-#EXTINF:-1,CNN LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/669
-#EXTINF:-1,RT en Español
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1,El Financiero Bloomberg
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/11721
-#EXTINF:-1,France 24 Español
-http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8
-#EXTINF:-1,Euronews en Español
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/767
-#EXTINF:-1,TVE 24 horas
-http://bit.ly/2Maxjhg
-#EXTINF:-1,DW Latinoamerica
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1,NTN24
-https://rcnhd.cdn.net.co/live04/ntn24.m3u8
-#EXTINF:-1,Noticias Caracol
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/401
-#EXTINF:-1,Foro TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/155
-#EXTINF:-1,ADN40
-http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1,Imagen Noticias
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9691
-#EXTINF:-1,Noticias Teletrece
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9741
-#EXTINF:-1,Todo Noticias
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/582
-#EXTINF:-1,Disney Channel Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/24
-#EXTINF:-1,Disney XD Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/111
-#EXTINF:-1,Disney Junior Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/191
-#EXTINF:-1,Nickelodeon Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/181
-#EXTINF:-1,Discovery Kids America Latina
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/56
-#EXTINF:-1,Tooncast
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10629
-#EXTINF:-1,Boomerang Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/380
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/57
-#EXTINF:-1,Once Niños
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/429
-#EXTINF:-1,TIIN
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10611
-#EXTINF:-1,Baby TV Latino
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/59
-#EXTINF:-1,Baby TV LatinoAmerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10089
-#EXTINF:-1,Discovery Familia
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10608
-#EXTINF:-1,Nat Geo KIDS
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10610
-#EXTINF:-1,Dibujos Aninados 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/192
-#EXTINF:-1,Dibujos Aninados 2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/11334
-#EXTINF:-1,Dibujos Aninados 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9742
-#EXTINF:-1,Dibujos Aninados 4
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9886
-#EXTINF:-1,Dibujos Aninados 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/351
-#EXTINF:-1,Dibujos Aninados 6
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/413
-#EXTINF:-1,MTV Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/184
-#EXTINF:-1,MTV Hits Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/207
-#EXTINF:-1,VH1 Classic
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/105
-#EXTINF:-1,VH1 Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/101
-#EXTINF:-1,Claro Musica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/197
-#EXTINF:-1,Concert Channel
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/400
-#EXTINF:-1,HTV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/71
-#EXTINF:-1,Exa TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10652
-#EXTINF:-1,Bandamax
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/847
-#EXTINF:-1,Video Rola
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/428
-#EXTINF:-1,La Mega
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1,Azteca Cinema
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9693
-#EXTINF:-1,Cinema Dinamita
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/203
-#EXTINF:-1,MultiPremier
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/119
-#EXTINF:-1,Claro Cinema
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/161
-#EXTINF:-1,Studio Universal
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/73
-#EXTINF:-1,CineLatino
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/99
-#EXTINF:-1,I-Sat
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/215
-#EXTINF:-1,Europa Europa
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/211
-#EXTINF:-1,Paramount Network Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/4
-#EXTINF:-1,TNT America Latina
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/20
-#EXTINF:-1,MultiCinema
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12388
-#EXTINF:-1,CineCanal
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/190
-#EXTINF:-1,Cinemax
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9750
-#EXTINF:-1,SPACE
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/187
-#EXTINF:-1,FX Movies
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/74
-#EXTINF:-1,AMC
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/102
-#EXTINF:-1,DHE
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/784
-#EXTINF:-1,TCM America Latina
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/100
-#EXTINF:-1,Golden
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/19
-#EXTINF:-1,Golden Plus
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/303
-#EXTINF:-1,Golden Premier
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/304
-#EXTINF:-1,Cine Sony
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/481
-#EXTINF:-1,Movistar Drama
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8220
-#EXTINF:-1,Movistar Accion
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/759
-#EXTINF:-1,Movistar Estrenos
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7798
-#EXTINF:-1,Fox Premium Cinema
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/778
-#EXTINF:-1,Fox Premium Series
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/75
-#EXTINF:-1,Fox Premium Family
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/76
-#EXTINF:-1,Fox Premium Comedy
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/77
-#EXTINF:-1,Fox Premium Action
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/79
-#EXTINF:-1,Fox Premium Movies
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/81
-#EXTINF:-1,Fox Premium Classics
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/82
-#EXTINF:-1,HBO Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/92
-#EXTINF:-1,HBO 2 Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/83
-#EXTINF:-1,HBO Plus Latino
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/84
-#EXTINF:-1,HBO Family Latinoamerica
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/86
-#EXTINF:-1,HBO Xtreme
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/89
-#EXTINF:-1,Galicia TV
-http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-#EXTINF:-1,Canal 3/24
-http://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,13TV
-https://live-edge-la-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
-#EXTINF:-1,La 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1,La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1,rtve.es 24h
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,Eitb
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8
-#EXTINF:-1,La Siete
-http://iptu.org/live.m3u8?channel=296
-#EXTINF:-1,Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR
-#EXTINF:-1,TV3 Catalonia
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1,Aragon TV
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1,TVG2
-http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,Lancelot TV
-rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:-1,InterEconomia TV
-https://live-edge-lon-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
-#EXTINF:-1,RTV Ceuta
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1,Unicanal
-http://45.55.127.106/live/unicanal_low.m3u8
-#EXTINF:-1,Canal 5 Honduras
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-#EXTINF:-1,Canal 9 Multivision Argentina
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1,Señal Provincial
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1,Canal 2 Nicaragua
-http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,TV Sur Canal 14
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-#EXTINF:-1,Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist.m3u8
-#EXTINF:-1,C7 Jalisco
-https://5e307acc9a171.streamlock.net:1936/jaliscotv/jaliscotv/chunklist_w1953769122.m3u8
-#EXTINF:-1,PAT
-http://192.99.38.174:1935/patbolivia/patsantacruz/media.m3u8
-#EXTINF:-1,Red Advenir
-rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
-#EXTINF:-1,Canal 45 TV
-https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
-#EXTINF:-1,Niu TV
-http://niutv.04.cl.cdnz.cl/niutv/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
-#EXTINF:-1,TVX El Salvador
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8
-#EXTINF:-1,WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/master.m3u8
-#EXTINF:-1,Sercano
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-#EXTINF:-1,TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8
-#EXTINF:-1,HCH TV
-https://5d597bfcee285.streamlock.net/hch/hch/playlist.m3u8
-#EXTINF:-1,Globo TV Honduras
-https://panel.dattalive.com/8122/8122/playlist.m3u8
-#EXTINF:-1,CNC Noticias
-https://595b85410a151.streamlock.net/8178/8178/index.m3u8
-#EXTINF:-1,Vepaco TV
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
-#EXTINF:-1,TVO Canal 23
-http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
-#EXTINF:-1,Promar TV
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1,ITV Patagonia
-https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1,VTV
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1,El Pinguino TV
-rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p
-#EXTINF:-1,Telpin TV Canal 2
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1,TLX Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,Canal 4 Argentina
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1,TV Maná Argentina
-rtmp://streamspub.manasat.com/tvar/tvmanaar1
-#EXTINF:-1,TV Cosmos
-https://59d39900ebfb8.streamlock.net/stream15/stream15/playlist.m3u8
-#EXTINF:-1,Vision TV
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1,Telecafe
-http://api.new.livestream.com/accounts/1015476/events/7158511/live.m3u8
-#EXTINF:-1,El Trece Colombia
-https://liveingesta360.cdnmedia.tv//canaltrecelive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Teleantioquia
-http://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8
-#EXTINF:-1,Telepacífico
-https://livecdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Sol TV Perú
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1,TV Peru Noticias
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,10 Rio Negro
-https://59c5c86e10038.streamlock.net/8204/8204/playlist.m3u8
-#EXTINF:-1,4 Posadas
-https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
-#EXTINF:-1,5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1,9 de Salta
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1,CN3 Pinamar
-http://209.182.219.229:8080/hls/canal3pinamar.m3u8
-#EXTINF:-1,RTN del Neuquén
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1,TeleAntillas
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/506
-#EXTINF:-1,CERTV
-http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
-#EXTINF:-1,Telemicro
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/120
-#EXTINF:-1,Antena 7
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/412
-#EXTINF:-1,Color Visión
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/507
-#EXTINF:-1,Telesistema
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/598
-#EXTINF:-1,TeleCentro
-http://iptvy.com/ch/12.m3u8
-#EXTINF:-1,Digital 15
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/175
-#EXTINF:-1,CineVision
-https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TeleMedios
-https://ss3.domint.net:3122/c25_str/canal25/playlist.m3u8
-#EXTINF:-1,Carivision
-https://ss6.domint.net:3012/tes_str/teleelsalvador/playlist.m3u8
-#EXTINF:-1,CDN Cadena de Noticias
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/4969
-#EXTINF:-1,CDN Sports Max
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/178
-#EXTINF:-1,TeleradioAmerica
-https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8
-#EXTINF:-1,RNN
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-#EXTINF:-1,Teleuniverso
-https://cdn4.hostlagarto.com:8081/teleuniverso/index.m3u8
-#EXTINF:-1,Onda TV
-https://edge1o.live.opencaster.com/caster/GBoGriengfex.m3u8
-#EXTINF:-1,Acento TV
-https://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1,Hilando Fino
-http://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
-#EXTINF:-1,Telever
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-#EXTINF:-1,Bonao TV
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
-#EXTINF:-1,Amé 47
-https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
-#EXTINF:-1,Canal del Sol
-http://canaldelsol01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1,Digital Vision
-https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w432787620.m3u8
-#EXTINF:-1,Fuego TV
-http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Luna TV
-https://ss4.domint.net:3018/luna_str/lunatv/playlist.m3u8
-#EXTINF:-1,Microvision
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:-1,Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1,Ready TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:-1,Romana TV
-http://live.romanatv42.com/hls/live.m3u8
-#EXTINF:-1,Telenord
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
-#EXTINF:-1,TV Plata
-https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
-#EXTINF:-1,Telearuba
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
-#EXTINF:-1,Tele Boston - Haiti
-http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
-#EXTINF:-1,Nos Pais
-http://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/playlist.m3u8
-#EXTINF:-1,Canal 5 El Lider
-https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
-#EXTINF:-1,Telered
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-#EXTINF:-1,Azteca 7
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/430
-#EXTINF:-1,Teleformula
-http://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1,RCG Televisión
-http://wowzacontrol.com:1936/stream34/stream34/chunklist.m3u8
-#EXTINF:-1,Milenio Televisión
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,Capital 21.2 CDMX
-http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
-#EXTINF:-1,TeleMax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,Azteca 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/637
-#EXTINF:-1,Canal Once
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1,Azteca+
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-#EXTINF:-1,AZ Click
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/732
-#EXTINF:-1,TVN
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/440
-#EXTINF:-1,Telemetro
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/444
-#EXTINF:-1,Teleuno
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1,Canal 9 Chile
-https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1,TV Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,City TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/150
-#EXTINF:-1,Ve Plus TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/703
-#EXTINF:-1,Telesur
-http://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1,TV Chile
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/437
-#EXTINF:-1,TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1,Señal Colombia
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/738
-#EXTINF:-1,Canal Capital
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/496
-#EXTINF:-1,Willax TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/474
-#EXTINF:-1,Tv Peru
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/701
-#EXTINF:-1,Frecuencia Latina
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/462
-#EXTINF:-1,ATV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7803
-#EXTINF:-1,A24
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7796
-#EXTINF:-1,C5N
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7805
-#EXTINF:-1,Canal 26 Argentina
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/756
-#EXTINF:-1,Canal Luz
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9143
-#EXTINF:-1,Ciudad Magazine
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/4970
-#EXTINF:-1,Cronica TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/853
-#EXTINF:-1,El Trece HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/576
-#EXTINF:-1,LN +
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/590
-#EXTINF:-1,Net TV
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/484
-#EXTINF:-1,Telefe HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/460
-#EXTINF:-1,Tv Publica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/511
-#EXTINF:-1,Antena 21
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7801
-#EXTINF:-1,Telefuturo
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/673
-#EXTINF:-1,Nex
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/442
-#EXTINF:-1,Televisa Canal 5
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/201
-#EXTINF:-1,+23
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/439
-#EXTINF:-1,HBO East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6185
-#EXTINF:-1,HBO West Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/792
-#EXTINF:-1,HBO 2 East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10097
-#EXTINF:-1,HBO 2 West Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/829
-#EXTINF:-1,HBO Signature East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9872
-#EXTINF:-1,HBO Signature West Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/447
-#EXTINF:-1,HBO Family East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10096
-#EXTINF:-1,HBO Family West Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9146
-#EXTINF:-1,HBO Comedy East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10076
-#EXTINF:-1,HBO Plus Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/7802
-#EXTINF:-1,HBO Zone Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9878
-#EXTINF:-1,HBO Xtreme HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/448
-#EXTINF:-1,HBO Mundi HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/87
-#EXTINF:-1,Cinemax East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6356
-#EXTINF:-1,Showtime East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6294
-#EXTINF:-1,Showtime 2 East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10084
-#EXTINF:-1,Fox Premium Series HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/8373
-#EXTINF:-1,Fox Premium Family HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/441
-#EXTINF:-1,Fox Premium Comedy HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/470
-#EXTINF:-1,Fox Premium Action HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/529
-#EXTINF:-1,Fox Premium Movies HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9159
-#EXTINF:-1,Starz Encore Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6359
-#EXTINF:-1,Starz East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6295
-#EXTINF:-1,Starz Edge East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12672
-#EXTINF:-1,Starz Cinema East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10050
-#EXTINF:-1,Starz Comedy East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/753
-#EXTINF:-1,Starz Kids & Family East Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9896
-#EXTINF:-1,Paramount Network Latinoamerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10051
-#EXTINF:-1,SPACE HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9932
-#EXTINF:-1,CineCanal HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10101
-#EXTINF:-1,TNT AmericaLatina HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9888
-#EXTINF:-1,Univision HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/267
-#EXTINF:-1,Discovery Channel LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9736
-#EXTINF:-1,Discovery Theater HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/13
-#EXTINF:-1,Discovery World HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/290
-#EXTINF:-1,History Channel LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10080
-#EXTINF:-1,National Geographic Latinoamerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9734
-#EXTINF:-1,ESPN + HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6577
-#EXTINF:-1,ESPN LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9975
-#EXTINF:-1,ESPN 2 LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9744
-#EXTINF:-1,ESPN 3 LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12411
-#EXTINF:-1,Fox Sports LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10082
-#EXTINF:-1,FOX Sports 2 LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9739
-#EXTINF:-1,FOX Sports 3 LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/402
-#EXTINF:-1,Claro Sports HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12432
-#EXTINF:-1,Nick LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9899
-#EXTINF:-1,Discovery Kids América Latina HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9889
-#EXTINF:-1,Nick 2 LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9737
-#EXTINF:-1,Cartoon Network LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12434
-#EXTINF:-1,Warner LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12433
-#EXTINF:-1,Fox LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12410
-#EXTINF:-1,Canal Sony HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/492
-#EXTINF:-1,Discovery ID Latino HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/861
-#EXTINF:-1,AXN LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/186
-#EXTINF:-1,TNT Series LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9866
-#EXTINF:-1,Discovery Home & Health LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9743
-#EXTINF:-1,Comedy Central Latinoamerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/156
-#EXTINF:-1,Tru TV Latinoamerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/69
-#EXTINF:-1,Hola TV HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/12387
-#EXTINF:-1,Pasiones HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9893
-#EXTINF:-1,MTV LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/859
-#EXTINF:-1,VH1 LatinoAmerica HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/9865
-#EXTINF:-1,TV Ružinov
-http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:-1,WOS TV
-https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:-1,TV 2 Fyn
-http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
-#EXTINF:-1,Focus 49 Olelo
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
-#EXTINF:-1,Lagos Television
-http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
-#EXTINF:-1,Tele Safor
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1,W24
-http://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1,CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ABP News.
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1,MH1
-http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-#EXTINF:-1,Disha TV
-http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
-#EXTINF:-1,Iqra TV
-http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
-#EXTINF:-1,Eye 95 TV
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:-1,Bloomberg India
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1,CCTV 1
-http://cctv1-lh.akamaihd.net/i/cctv1_1@619500/master.m3u8
-#EXTINF:-1,CCTV 2
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1,CCTV 3
-http://cctvoverseas-lh.akamaihd.net/i/cctv3_1@304743/master.m3u8
-#EXTINF:-1,CCTV 5
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1,CCTV 6
-http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-#EXTINF:-1,Sinovision
-http://cdnmedia1.sinovision.net/247A45/live/livestream.m3u8
-#EXTINF:-1,NHK Chinese Vision
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1,CBS TV
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:-1,MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1,Univer TV
-https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1,RBK TV
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1,Mir 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,112 Ukraina
-http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:-1,Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1,TRO Soyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,Alforat News
-https://5e085b8c1882e.streamlock.net/live//_definst_/alforat.smil/playlist.m3u8
-#EXTINF:-1,TRT Arapça
-https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,Al Jazeera Arabic
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,BBC Arabic Televison
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:-1,Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1,Shamshad TV
-http://109.123.70.27:1935/shamshadtelevision/shamshadtelevision/playlist.m3u8
+http://jokertv.link:25461/AXXAM/deadmaniptv/46925
+#EXTINF:-1,Al Jazeera English
+http://jokertv.link:25461/AXXAM/deadmaniptv/46926
+#EXTINF:-1,Arab's Sky News
+http://jokertv.link:25461/AXXAM/deadmaniptv/46927
+#EXTINF:-1,RT Arabic (Russia Today)
+http://jokertv.link:25461/AXXAM/deadmaniptv/46928
+#EXTINF:-1,BBC Arabic
+http://jokertv.link:25461/AXXAM/deadmaniptv/46929
+#EXTINF:-1,Al araby HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46930
+#EXTINF:-1,Al Fajer 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46931
+#EXTINF:-1,AJYAL TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46932
+#EXTINF:-1,WATAR
+http://jokertv.link:25461/AXXAM/deadmaniptv/46933
+#EXTINF:-1,Palestine Mubasher
+http://jokertv.link:25461/AXXAM/deadmaniptv/46934
+#EXTINF:-1,[AR] MBC 1 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46935
+#EXTINF:-1,[AR] MBC 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46936
+#EXTINF:-1,[AR] MBC 3 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46937
+#EXTINF:-1,[AR] MBC 4 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46938
+#EXTINF:-1,[AR] MBC Max HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46939
+#EXTINF:-1,[AR] MBC Action HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46940
+#EXTINF:-1,[AR] MBC Masr 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46941
+#EXTINF:-1,[AR] MBC Masr 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46942
+#EXTINF:-1,[AR] MBC Bollywood
+http://jokertv.link:25461/AXXAM/deadmaniptv/46943
+#EXTINF:-1,[AR] MBC Variety HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46944
+#EXTINF:-1,[AR] MBC Zee Aflam
+http://jokertv.link:25461/AXXAM/deadmaniptv/46945
+#EXTINF:-1,[AR] MBC Zee Alwan
+http://jokertv.link:25461/AXXAM/deadmaniptv/46946
+#EXTINF:-1,[AR] ART Hekayat 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46947
+#EXTINF:-1,[AR] ART Hekayat 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46948
+#EXTINF:-1,[AR] ART Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46949
+#EXTINF:-1,ALG: PROGRAME NATIONAL
+http://jokertv.link:25461/AXXAM/deadmaniptv/46950
+#EXTINF:-1,ALG: Canal Algerie
+http://jokertv.link:25461/AXXAM/deadmaniptv/46951
+#EXTINF:-1,ALG: Algeria 3
+http://jokertv.link:25461/AXXAM/deadmaniptv/46952
+#EXTINF:-1,ALG: TV 4
+http://jokertv.link:25461/AXXAM/deadmaniptv/46953
+#EXTINF:-1,ALG: Echorouk TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46954
+#EXTINF:-1,ALG: Echourouk News
+http://jokertv.link:25461/AXXAM/deadmaniptv/46955
+#EXTINF:-1,ALG: Ennahar TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46956
+#EXTINF:-1,ALG: Numidia TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46957
+#EXTINF:-1,ALG: Al Anis TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46958
+#EXTINF:-1,ALG: El Biled News
+http://jokertv.link:25461/AXXAM/deadmaniptv/46959
+#EXTINF:-1,ALG: Samira TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46960
+#EXTINF:-1,ALG: Berbere TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46961
+#EXTINF:-1,ALG: EL Djazairia
+http://jokertv.link:25461/AXXAM/deadmaniptv/46962
+#EXTINF:-1,ALG: EL FADJR TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46963
+#EXTINF:-1,ALG: EL HAYAT TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46964
+#EXTINF:-1,AR: Nat Geo AD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46965
+#EXTINF:-1,ALG: El Haddaf
+http://jokertv.link:25461/AXXAM/deadmaniptv/46966
+#EXTINF:-1,ALG: Bahia TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46967
+#EXTINF:-1,TUN: Nessma TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46968
+#EXTINF:-1,ALG: Beur TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46969
+#EXTINF:-1,ON SPORTS 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/46970
+#EXTINF:-1,ZAMALIK TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46971
+#EXTINF:-1,Al Ahly TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/46972
+#EXTINF:-1,ONTime Sport HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46973
+#EXTINF:-1,ONTime Sport 2 HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/46974
+#EXTINF:-1,Egypt:DMC Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/46975
+#EXTINF:-1,Egypt:Al Ostora
+http://jokertv.link:25461/AXXAM/deadmaniptv/46976
+#EXTINF:-1,Egypt:Al Masriya
+http://jokertv.link:25461/AXXAM/deadmaniptv/46977
+#EXTINF:-1,Egypt:Al Kahera
+http://jokertv.link:25461/AXXAM/deadmaniptv/46978
+#EXTINF:-1,Egypt:Al Hayat 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46979
+#EXTINF:-1,Egypt:Al Hayat
+http://jokertv.link:25461/AXXAM/deadmaniptv/46980
+#EXTINF:-1,Egypt:Al Shasha Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46981
+#EXTINF:-1,Egypt:Al Askandria
+http://jokertv.link:25461/AXXAM/deadmaniptv/46982
+#EXTINF:-1,Egypt:7besha Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46983
+#EXTINF:-1,Egypt:Al Bait Baitak Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46984
+#EXTINF:-1,Egypt:Al Masrawia
+http://jokertv.link:25461/AXXAM/deadmaniptv/46985
+#EXTINF:-1,Egypt:Cima
+http://jokertv.link:25461/AXXAM/deadmaniptv/46986
+#EXTINF:-1,Egypt:MODERN FILM
+http://jokertv.link:25461/AXXAM/deadmaniptv/46987
+#EXTINF:-1,Egypt:PNC Drama 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/46988
+#EXTINF:-1,Egypt:PNC Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/46989
+#EXTINF:-1,Egypt:M Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46990
+#EXTINF:-1,Egypt:Cairo Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46991
+#EXTINF:-1,Egypt:Al Nahar
+http://jokertv.link:25461/AXXAM/deadmaniptv/46992
+#EXTINF:-1,Egypt:Al Hayat Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/46993
+#EXTINF:-1,Egypt:Cbc  Extra News
+http://jokertv.link:25461/AXXAM/deadmaniptv/46994
+#EXTINF:-1,Egypt:Cbc Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/46995
+#EXTINF:-1,Egypt:Nile Cinema
+http://jokertv.link:25461/AXXAM/deadmaniptv/46996
+#EXTINF:-1,Egypt:Nile Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/46997
+#EXTINF:-1,Egypt:Nile Sport
+http://jokertv.link:25461/AXXAM/deadmaniptv/46998
+#EXTINF:-1,Egypt:Nile Life
+http://jokertv.link:25461/AXXAM/deadmaniptv/46999
+#EXTINF:-1,Egypt:Mehwar
+http://jokertv.link:25461/AXXAM/deadmaniptv/47000
+#EXTINF:-1,Egypt:Dream
+http://jokertv.link:25461/AXXAM/deadmaniptv/47001
+#EXTINF:-1,Egypt:Sada El Balad Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/47002
+#EXTINF:-1,Egypt:Sada El Balad
+http://jokertv.link:25461/AXXAM/deadmaniptv/47003
+#EXTINF:-1,Egypt:Al Kahera Wal Nas 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/47004
+#EXTINF:-1,CBC Drama
+http://jokertv.link:25461/AXXAM/deadmaniptv/47005
+#EXTINF:-1,cbc Sofra
+http://jokertv.link:25461/AXXAM/deadmaniptv/47006
+#EXTINF:-1,Rotana Classic HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47007
+#EXTINF:-1,Rotana Khalijiah HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47008
+#EXTINF:-1,Rotana Kides HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47009
+#EXTINF:-1,Rotana Music HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47010
+#EXTINF:-1,Rotana Music
+http://jokertv.link:25461/AXXAM/deadmaniptv/47011
+#EXTINF:-1,Rotana ClIb HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47012
+#EXTINF:-1,Rotana Drama HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47013
+#EXTINF:-1,Rotana Cinema HD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47014
+#EXTINF:-1,TUNISIA NATIONAL 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/47015
+#EXTINF:-1,NESSMA
+http://jokertv.link:25461/AXXAM/deadmaniptv/47016
+#EXTINF:-1,HANIBAL
+http://jokertv.link:25461/AXXAM/deadmaniptv/47017
+#EXTINF:-1,Carthage+
+http://jokertv.link:25461/AXXAM/deadmaniptv/47018
+#EXTINF:-1,M TUNISIA
+http://jokertv.link:25461/AXXAM/deadmaniptv/47019
+#EXTINF:-1,TELVZA TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/47020
+#EXTINF:-1,TOUNESNA
+http://jokertv.link:25461/AXXAM/deadmaniptv/47021
+#EXTINF:-1,AL JANOUBIA TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/47022
+#EXTINF:-1,TUNISIE immobile
+http://jokertv.link:25461/AXXAM/deadmaniptv/47023
+#EXTINF:-1,Jawahara FM WebTV+
+http://jokertv.link:25461/AXXAM/deadmaniptv/47024
+#EXTINF:-1,Tunisie Immobilier TV+
+http://jokertv.link:25461/AXXAM/deadmaniptv/47025
+#EXTINF:-1,MA: 2M
+http://jokertv.link:25461/AXXAM/deadmaniptv/47026
+#EXTINF:-1,MA: M24
+http://jokertv.link:25461/AXXAM/deadmaniptv/47027
+#EXTINF:-1,MA: ARRABIA HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/47028
+#EXTINF:-1,MA: ALMAGHRIBIYYA HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/47029
+#EXTINF:-1,MA: TV 8 TAMAZIGHT HEVC
+http://jokertv.link:25461/AXXAM/deadmaniptv/47030
+#EXTINF:-1,MA: Arriyadia FHD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47031
+#EXTINF:-1,MA: Assadissa-FHD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47032
+#EXTINF:-1,MA: Aflam 7
+http://jokertv.link:25461/AXXAM/deadmaniptv/47033
+#EXTINF:-1,MA: Arriyadia TNT
+http://jokertv.link:25461/AXXAM/deadmaniptv/47034
+#EXTINF:-1,MA: Assadissa-SD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47035
+#EXTINF:-1,MA: Almaghribia-SD
+http://jokertv.link:25461/AXXAM/deadmaniptv/47036
+#EXTINF:-1,MA: Almaghribia
+http://jokertv.link:25461/AXXAM/deadmaniptv/47037
+#EXTINF:-1,AE | National Geographic Abu Dhabi
+http://jokertv.link:25461/AXXAM/deadmaniptv/47038
+#EXTINF:-1,AE | Abu Dabi Aloula
+http://jokertv.link:25461/AXXAM/deadmaniptv/47039
+#EXTINF:-1,AE | Dubai One
+http://jokertv.link:25461/AXXAM/deadmaniptv/47040
+#EXTINF:-1,AE | Dubai Racing 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/47041
+#EXTINF:-1,AE | Dubai Racing 3
+http://jokertv.link:25461/AXXAM/deadmaniptv/47042
+#EXTINF:-1,AE | Sharqiya
+http://jokertv.link:25461/AXXAM/deadmaniptv/47043
+#EXTINF:-1,AE | Alsharjah TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/47044
+#EXTINF:-1,AE | Hawas TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/47045
+#EXTINF:-1,Al Iraqiya News
+http://jokertv.link:25461/AXXAM/deadmaniptv/47046
 #EXTINF:-1,Al Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,Kanal 10 Sverige
-http://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8
-#EXTINF:-1,Elbekanal
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:-1,TeleBärn
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-#EXTINF:-1,BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1,D!ci TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1,La Chaîne Normande
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1,TVPI
-rtmp://streamcast.oc3n.net:1935/TVPI/myStream700.sdp
-#EXTINF:-1,RTL Letzebuerg
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1,Super TV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Alsace 20
-http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
-#EXTINF:-1,ICI Television
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1,CPAC
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1,TV MCJ
-https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/playlist.m3u8
-#EXTINF:-1,Baden TV
-rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
-#EXTINF:-1,NDR Fernsehen
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:-1,Das Erste
-https://mcdn.daserste.de/daserste/int/master_608.m3u8
-#EXTINF:-1,TVA Ostbayern
-https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
-#EXTINF:-1,TV Oberfranken
-https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
-#EXTINF:-1,HR Fernsehen
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_1800_av-b.m3u8
-#EXTINF:-1,TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1,Speranta TV
-http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
-#EXTINF:-1,Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/media.m3u8
-#EXTINF:-1,U TV
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF:-1,Inedit TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,ON AIR News Bulgaria
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1,BS TV
-rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc
-#EXTINF:-1,Rai 1
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10663
-#EXTINF:-1,Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1,canale 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1,canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1,History lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1,Tele Sondrio News
-https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1,Crete TV (ΚρήτηTV)
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1,Zougla TV
-https://vermmd.mmdlive.lldns.net/vermmd/eaf457c2f751497ea510298cb1685b8f/manifest.m3u8
-#EXTINF:-1,Kontra Channel
-http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
-#EXTINF:-1,Sigma TV
-http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1,Can TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1,TRT Avaz
-https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT Diyanet
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1,TRT 1
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT Haber
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,Gunaz TV
-http://gtv.live.cdn.bitgravity.com/gtv/live/feed03
-#EXTINF:-1,Hidabroot
-http://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
-#EXTINF:-1,Channel 2
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-#EXTINF:-1,Almaty TV
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1,Shalom TV
-http://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
-#EXTINF:-1,TVI Reality
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF:-1,KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1,Al Hiwar TV
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
-#EXTINF:-1,Mekameleen TV
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/media.m3u8
-#EXTINF:-1,Gong TV
-http://51.254.215.79/appflux/gong/playlist.m3u8
-#EXTINF:-1,TV Maná 1
-http://195.22.11.11:1935/tvmana/tvmana1/chunklist.m3u8
-#EXTINF:-1,SBN TV
-https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
-#EXTINF:-1,WDR HD
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1,TV Poços
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1,TV FAAP
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1,TV Brasil Animada
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,Transamerica TV Brazil
-http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
-#EXTINF:-1,TV Sol
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-#EXTINF:-1,Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,TV CATVE
-http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
-#EXTINF:-1,TVE AO
-rtmp://selpro1348.procergs.com.br/tve/stve
-#EXTINF:-1,ABC Rapid City
-http://iptu.org/live.m3u8?channel=216
-#EXTINF:-1,FOX Providence
-http://iptu.org/live.m3u8?channel=20
-#EXTINF:-1,NBC Anchorage
-http://iptu.org/live.m3u8?channel=273
-#EXTINF:-1,CBS Fairbanks
-http://iptu.org/live.m3u8?channel=272
-#EXTINF:-1,NBC Seattle
-http://iptu.org/live.m3u8?channel=279
-#EXTINF:-1,ABC Harrisonburg
-http://iptu.org/live.m3u8?channel=258
-#EXTINF:-1,ABC Kirksville
-http://iptu.org/live.m3u8?channel=181
-#EXTINF:-1,ABC South bend
-http://iptu.org/live.m3u8?channel=151
-#EXTINF:-1,ABC Albany
-http://iptu.org/live-albanyny.m3u8
-#EXTINF:-1,ABC Boise
-http://iptu.org/live.m3u8?channel=265
-#EXTINF:-1,NBC San Luis Obispo
-http://iptu.org/live.m3u8?channel=278
-#EXTINF:-1,NBC Madison
-http://cutt.ly/1tIzK8o
-#EXTINF:-1,FOX Norfolk
-http://iptu.org/live-vvirginia.m3u8
-#EXTINF:-1,CBS Mobile
-http://iptu.org/live.m3u8?channel=268
-#EXTINF:-1,ABC New Haven
-http://iptu.org/live.m3u8?channel=4
-#EXTINF:-1,NBC Hartford
-http://iptu.org/live.m3u8?channel=281
-#EXTINF:-1,NBC Topeka
-http://iptu.org/live.m3u8?channel=148
-#EXTINF:-1,FOX Springfield
-http://iptu.org/live.m3u8?channel=28
-#EXTINF:-1,ABC Altoona
-http://iptu.org/live.m3u8?channel=212
-#EXTINF:-1,FOX Hardeeville
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1,FOX Fort Smith
-http://iptu.org/live.m3u8?channel=13
-#EXTINF:-1,CBS Lansing
-http://iptu.org/live.m3u8?channel=163
-#EXTINF:-1,ABC Flint
-http://iptu.org/live.m3u8?channel=166
-#EXTINF:-1,ABC Lincoln
-http://iptu.org/live.m3u8?channel=189
-#EXTINF:-1,NBC Grand Junction
-http://iptu.org/live.m3u8?channel=287
-#EXTINF:-1,ABC Duluth
-http://iptu.org/live.m3u8?channel=172
-#EXTINF:-1,ABC Sweetwater
-http://iptu.org/live.m3u8?channel=248
-#EXTINF:-1,ABC Johnson City
-http://iptu.org/live.m3u8?channel=245
-#EXTINF:-1,ABC Syracuse
-http://iptu.org/live.m3u8?channel=201
-#EXTINF:-1,ABC Augusta
-http://iptu.org/live.m3u8?channel=36
-#EXTINF:-1,ABC New Bern
-http://iptu.org/live.m3u8?channel=199
-#EXTINF:-1,ABC Columbus
-http://iptu.org/live.m3u8?channel=203
-#EXTINF:-1,Wapa2
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/355
-#EXTINF:-1,Telemundo Puerto Rico
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/354
-#EXTINF:-1,Wapa
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/357
-#EXTINF:-1,Univision Puerto Rico
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/356
-#EXTINF:-1,Mega TV Puerto Rico
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/438
-#EXTINF:-1,CBS Monroe
-http://iptu.org/live.m3u8?channel=158
-#EXTINF:-1,ABC Toledo
-http://iptu.org/live.m3u8?channel=204
-#EXTINF:-1,ABC Youngstown
-http://iptu.org/live.m3u8?channel=205
-#EXTINF:-1,FOX Youngstown
-http://iptu.org/live.m3u8?channel=25
-#EXTINF:-1,FOX Charleston
-http://iptu.org/live.m3u8?channel=70
-#EXTINF:-1,ABC Panama City
-http://iptu.org/live.m3u8?channel=3
-#EXTINF:-1,CBS Lubbock
-http://iptu.org/live.m3u8?channel=255
-#EXTINF:-1,ABC Los Angeles
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/844
-#EXTINF:-1,CBS Los Angeles
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/864
-#EXTINF:-1,FOX Los Angeles
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/862
-#EXTINF:-1,Fox Los Angeles HD
-http://iptu.org/live.m3u8?channel=31
-#EXTINF:-1,Telemundo Los Angeles
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/446
-#EXTINF:-1,ABC Detroit
-http://iptu.org/live.m3u8?channel=165
-#EXTINF:-1,FOX Detroit
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10636
-#EXTINF:-1,Fox Detroit HD
-http://iptu.org/live.m3u8?channel=35
-#EXTINF:-1,ABC Baton Rouge
-http://iptu.org/live.m3u8?channel=156
-#EXTINF:-1,ABC Washington
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/681
-#EXTINF:-1,NBC Washington
-http://iptu.org/live.m3u8?channel=285
-#EXTINF:-1,FOX Washington
-http://iptu.org/live.m3u8?channel=14
-#EXTINF:-1,FOX Bangor
-http://iptu.org/live.m3u8?channel=162
-#EXTINF:-1,ABC New York HD
-http://iptu.org/live.m3u8?channel=186
-#EXTINF:-1,ABC New York
-http://iptu.org/live.m3u8?channel=262
-#EXTINF:-1,CBS New York
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/45
-#EXTINF:-1,NBC New York
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/216
-#EXTINF:-1,FOX New York
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/365
-#EXTINF:-1,Fox New York HD
-http://iptu.org/live.m3u8?channel=33
-#EXTINF:-1,Telemundo New York
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10643
-#EXTINF:-1,CBS New Jersey
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10606
-#EXTINF:-1,NBC Laredo
-http://iptu.org/live.m3u8?channel=254
-#EXTINF:-1,ABC Philadelphia
-http://iptu.org/live.m3u8?channel=214
-#EXTINF:-1,ABC Denver
-http://iptu.org/live.m3u8?channel=138
-#EXTINF:-1,CBS Denver
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10612
-#EXTINF:-1,NBC Denver
-http://iptu.org/live.m3u8?channel=288
-#EXTINF:-1,FOX Denver
-http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
-#EXTINF:-1,CBS San Francisco
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10634
-#EXTINF:-1,FOX San Francisco
-http://iptu.org/live.m3u8?channel=5
-#EXTINF:-1,Telemundo San Francisco
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10642
-#EXTINF:-1,ABC Austin
-http://iptu.org/live.m3u8?channel=170
-#EXTINF:-1,FOX Austin
-http://iptu.org/live.m3u8?channel=24
-#EXTINF:-1,FOX Orlando
-http://iptu.org/live.m3u8?channel=15
-#EXTINF:-1,CBS Atlanta
-https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
-#EXTINF:-1,FOX Atlanta
-http://iptu.org/live.m3u8?channel=32
-#EXTINF:-1,NBC Phoenix
-http://iptu.org/live.m3u8?channel=274
-#EXTINF:-1,FOX Phoenix
-http://iptu.org/live-phoenix.m3u8
-#EXTINF:-1,Fox Phoenix HD
-http://iptu.org/live.m3u8?channel=6
-#EXTINF:-1,NBC Green Bay
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1,CBS Houston
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10664
-#EXTINF:-1,FOX Houston
-http://iptu.org/live.m3u8?channel=21
-#EXTINF:-1,FOX Odessa
-http://iptu.org/live.m3u8?channel=23
-#EXTINF:-1,ABC Dallas
-http://iptu.org/live.m3u8?channel=251
-#EXTINF:-1,FOX Dallas
-http://iptu.org/live.m3u8?channel=19
-#EXTINF:-1,FOX San Antonio
-http://iptu.org/live.m3u8?channel=68
-#EXTINF:-1,ABC Chicago
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10630
-#EXTINF:-1,CBS Chicago
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10631
-#EXTINF:-1,NBC Chicago
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10638
-#EXTINF:-1,FOX Chicago
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10635
-#EXTINF:-1,Fox Chicago HD
-http://iptu.org/live.m3u8?channel=17
-#EXTINF:-1,Telemundo Chicago
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10641
-#EXTINF:-1,ABC Cleveland
-http://iptu.org/live.m3u8?channel=202
-#EXTINF:-1,FOX Salt Lake City
-http://iptu.org/live.m3u8?channel=37
-#EXTINF:-1,ABC Nashville
-http://iptu.org/live.m3u8?channel=247
-#EXTINF:-1,CBS Dothan
-http://iptu.org/live.m3u8?channel=271
-#EXTINF:-1,ABC St. Paul
-http://iptu.org/live.m3u8?channel=171
-#EXTINF:-1,FOX Minneapolis
-http://iptu.org/live.m3u8?channel=27
-#EXTINF:-1,FOX Sacramento
-http://iptu.org/live.m3u8?channel=41
-#EXTINF:-1,FOX Tampa
-http://iptu.org/live.m3u8?channel=16
-#EXTINF:-1,ABC Baltimore
-http://iptu.org/live.m3u8?channel=267
-#EXTINF:-1,ABC Rhode Island
-http://iptu.org/live.m3u8?channel=169
-#EXTINF:-1,CBS Alburquerque
-http://iptu.org/live.m3u8?channel=11
-#EXTINF:-1,ABC Miami
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/334
-#EXTINF:-1,CBS Miami
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10667
-#EXTINF:-1,NBC Miami
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/103
-#EXTINF:-1,FOX Miami
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/104
-#EXTINF:-1,Univision Miami
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6913
-#EXTINF:-1,Telemundo Miami
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6914
-#EXTINF:-1,Telemundo Miami HD
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/358
-#EXTINF:-1,America Teve Miami
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/6912
-#EXTINF:-1,NBC Jacksonville
-http://iptu.org/live.m3u8?channel=0
-#EXTINF:-1,FOX Longview
-http://iptu.org/live.m3u8?channel=22
-#EXTINF:-1,FOX Hawaii
-http://iptu.org/live.m3u8?channel=34
-#EXTINF:-1,FOX Tucson
-http://iptu.org/live.m3u8?channel=137
-#EXTINF:-1,FOX Waco
-http://iptu.org/live.m3u8?channel=8
-#EXTINF:-1,ABC Reno
-http://iptu.org/live.m3u8?channel=184
-#EXTINF:-1,ABC Harrisburg
-http://iptu.org/live.m3u8?channel=213
-#EXTINF:-1,CW Tampa
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/10650
-#EXTINF:-1,ABC Las Vegas
-http://iptu.org/live.m3u8?channel=191
-#EXTINF:-1,FOX Jacksonville
-http://iptu.org/live.m3u8?channel=135
-#EXTINF:-1,NBC Pueblo
-http://iptu.org/live.m3u8?channel=289
-#EXTINF:-1,FOX Colorado Springs
-http://iptu.org/live.m3u8?channel=7
-#EXTINF:-1,ABC Cedar Rapids
-http://iptu.org/live.m3u8?channel=149
-#EXTINF:-1,NBC Salinas
-http://iptu.org/live.m3u8?channel=47
-#EXTINF:-1,CBS Huntsville
-http://iptu.org/live.m3u8?channel=269
-#EXTINF:-1,ABC Sioux Falls
-http://iptu.org/live.m3u8?channel=217
-#EXTINF:-1,ABC Meridian
-http://iptu.org/live.m3u8?channel=174
-#EXTINF:-1,ABC Knoxville
-http://iptu.org/live.m3u8?channel=246
-#EXTINF:-1,ABC Green Bay
-http://iptu.org/live.m3u8?channel=263
-#EXTINF:-1,ABC Richmond
-http://iptu.org/live.m3u8?channel=259
-#EXTINF:-1,Test 3
-http://p5.iptvprivateserver.tv:80/684543645317/684543645317/4967
-#EXTINF:-1,Test
-http://iptu.org/live.m3u8?channel=224
+http://jokertv.link:25461/AXXAM/deadmaniptv/47047
+#EXTINF:-1,Babylon TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/47048
+#EXTINF:-1,ABN SAT
+http://jokertv.link:25461/AXXAM/deadmaniptv/47049
+#EXTINF:-1,Imam Hussein TV 2 Arabic
+http://jokertv.link:25461/AXXAM/deadmaniptv/47050
+#EXTINF:-1,Imam Hussein TV 3 English
+http://jokertv.link:25461/AXXAM/deadmaniptv/47051
+#EXTINF:-1,Imam Hussein TV 4 Urdu
+http://jokertv.link:25461/AXXAM/deadmaniptv/47052
+#EXTINF:-1,KurdMax
+http://jokertv.link:25461/AXXAM/deadmaniptv/47053
+#EXTINF:-1,Zagros
+http://jokertv.link:25461/AXXAM/deadmaniptv/47054
+#EXTINF:-1,KTV 1
+http://jokertv.link:25461/AXXAM/deadmaniptv/47055
+#EXTINF:-1,KTV 2
+http://jokertv.link:25461/AXXAM/deadmaniptv/47056
+#EXTINF:-1,KTV Kids
+http://jokertv.link:25461/AXXAM/deadmaniptv/47057
+#EXTINF:-1,KTV Al Majlis
+http://jokertv.link:25461/AXXAM/deadmaniptv/47058
+#EXTINF:-1,KTV Al Qurain
+http://jokertv.link:25461/AXXAM/deadmaniptv/47059
+#EXTINF:-1,KTV Ethraa
+http://jokertv.link:25461/AXXAM/deadmaniptv/47060
+#EXTINF:-1,KTV Arabe
+http://jokertv.link:25461/AXXAM/deadmaniptv/47061
+#EXTINF:-1,KTV Sport
+http://jokertv.link:25461/AXXAM/deadmaniptv/47062
+#EXTINF:-1,KTV Sport Plus
+http://jokertv.link:25461/AXXAM/deadmaniptv/47063
+#EXTINF:-1,Ch4Teen
+http://jokertv.link:25461/AXXAM/deadmaniptv/47064
+#EXTINF:-1,Al Mayadeen
+http://jokertv.link:25461/AXXAM/deadmaniptv/47065
+#EXTINF:-1,Future TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/47066
+#EXTINF:-1,LBC
+http://jokertv.link:25461/AXXAM/deadmaniptv/47067
+#EXTINF:-1,MTV Lebanon
+http://jokertv.link:25461/AXXAM/deadmaniptv/47068
+#EXTINF:-1,Nabaa TV
+http://jokertv.link:25461/AXXAM/deadmaniptv/47069
