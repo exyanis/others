@@ -22,5 +22,6 @@ https://hta.cdn.easybroadcast.fr/HTATV_CDN/SamiraTV/iptvdz/SamiraTV_720p/chunks.
 #EXTINF:-1, BEUR TV
 https://hta.cdn.easybroadcast.fr/HTATV_CDN/Beur_TV/iptvdz/Beur_TV_720p/chunks.m3u8
 #EXTINF:-1,EL DJAZAIRIA ONE
-https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_DJAZAIRIA_TV/iptvdz/EL_DJAZAIRIA_TV_720p/chunks.m3u8
-
+https://ht#EXTINF:-1,ELa.cdn.easybroadcast.fr/HTATV_CDN/EL_DJAZAIRIA_TV/iptvdz/EL_DJAZAIRIA_TV_720p/chunks.m3u8
+#EXTINF:-1,EL HEDDAF TV
+https://hta.cdn.easybroadcast.fr/HTATV_CDN/EL_HEDDAF_TV/iptvdz/EL_HEDDAF_TV_720p/chunks.m3u8
