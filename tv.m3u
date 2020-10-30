@@ -109,3 +109,5 @@ https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1, SAUDI SUNNAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1, SAUDI 1
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
