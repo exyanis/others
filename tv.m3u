@@ -155,17 +155,5 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1, YAS SPORTS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:-1,BHT 1
-http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/889
-#EXTINF:-1,FTV
-http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/864
-#EXTINF:-1,RTRS
-http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/771
-#EXTINF:-1,RTV USK
-http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/762
-#EXTINF:-1,RTV CAZIN
-http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/765
-#EXTINF:-1,NOVA BIH
-http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/840
-#EXTINF:-1,ATV
-http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/892
+#EXTINF:-1, TF1
+http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_4000000.m3u8
