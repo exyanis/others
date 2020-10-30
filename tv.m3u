@@ -106,4 +106,6 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1, ALKHLIJ
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1, SAUDI QURAN
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1, SAUDI SUNNAH
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
