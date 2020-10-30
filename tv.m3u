@@ -139,4 +139,33 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1, CITRUSS
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-
+#EXTINF:-1, DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1, DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1, DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1, DUBAI TV
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1, EMARAT TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1, AD NATGEO 
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
+#EXTINF:-1, SAMA DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, YAS SPORTS
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1,BHT 1
+http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/889
+#EXTINF:-1,FTV
+http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/864
+#EXTINF:-1,RTRS
+http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/771
+#EXTINF:-1,RTV USK
+http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/762
+#EXTINF:-1,RTV CAZIN
+http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/765
+#EXTINF:-1,NOVA BIH
+http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/840
+#EXTINF:-1,ATV
+http://193.70.34.163:25461/SFRa5oBeKo/l34i9fX1MI/892
