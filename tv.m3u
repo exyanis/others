@@ -118,7 +118,7 @@ http://178.132.3.162:88/hannibal/video.m3u8
 #EXTINF:-1, TUNISIE IMMOBILIER
 http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
 #EXTINF:-1, ALHADATH
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1, DUBAI ZAMAN
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1, MAJID
