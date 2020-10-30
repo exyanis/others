@@ -83,3 +83,23 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chu
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
 #EXTINF:-1, KUWAIT TV SPORTS PLUS
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
+#EXTINF:-1, FUTURE tv
+http://178.132.3.162:88/Future_TV/video.m3u8?token=test
+#EXTINF:-1, MTV LEBANON
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
+#EXTINF:-1, LBC
+http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test
+#EXTINF:-1, OTV
+http://178.132.3.162:88/OTV/video.m3u8?token=test
+#EXTINF:-1, M24
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1, TELE MAROC
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1, OMAN TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1, OMAN TV CULTURE
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1, OMAN TV MUBASHIR
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1, OMAN TV SPORTS
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
