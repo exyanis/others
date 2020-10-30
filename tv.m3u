@@ -111,3 +111,15 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1, SAUDI 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1, SUDAN TV
+https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HANNIBAL
+http://178.132.3.162:88/hannibal/video.m3u8
+#EXTINF:-1, TUNISIE IMMOBILIER
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
+#EXTINF:-1, ALHADATH
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
+#EXTINF:-1, DUBAI ZAMAN
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1, MAJID
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
