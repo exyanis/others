@@ -117,14 +117,10 @@ https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 http://178.132.3.162:88/hannibal/video.m3u8
 #EXTINF:-1, TUNISIE IMMOBILIER
 http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
-#EXTINF:-1, ALHADATH
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1, DUBAI ZAMAN
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1, MAJID
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1, ALARABIYA
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1, ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1, ABU DHABI SPORTS 2
@@ -139,3 +135,8 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1, ALHADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1, DUBAI ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1, CITRUSS
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+
