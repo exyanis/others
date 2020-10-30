@@ -47,5 +47,9 @@ http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:-1, BAHRAIN INTERNATIONAL
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
-#EXTINF:-1, ALNAHAR
+#EXTINF:-1, AL NAHAR
 http://178.132.3.162:88/Al_Nahar_Tv/video.m3u8?token=test
+#EXTINF:-1, AL NAHAR DRAMA
+http://178.132.3.162:88/Al_Nahar_Drama/video.m3u8?token=test
+
+
