@@ -51,5 +51,35 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 http://178.132.3.162:88/Al_Nahar_Tv/video.m3u8?token=test
 #EXTINF:-1, AL NAHAR DRAMA
 http://178.132.3.162:88/Al_Nahar_Drama/video.m3u8?token=test
-
-
+#EXTINF:-1, NILE CULTURE
+http://178.132.3.162:88/Nile_Culture/video.m3u8?token=test
+#EXTINF:-1, NILE DRAMA
+http://178.132.3.162:88/Nile_Drama/video.m3u8?token=test
+#EXTINF:-1, NILE LIFE
+http://178.132.3.162:88/Nile_Life/video.m3u8?token=test
+#EXTINF:-1, NILE SPORT
+http://178.132.3.162:88/Nile_Sport/video.m3u8
+#EXTINF:-1, ALMAMLAKA TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1, AMMAN TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1, ALRAI
+https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
+#EXTINF:-1, KUWAIT TV HD 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
+#EXTINF:-1, KUWAIT TV HD 2
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
+#EXTINF:-1, ALMAJLIS
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
+#EXTINF:-1, ALQURAIN
+https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
+#EXTINF:-1, KUWAIT TV ALARABE
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
+#EXTINF:-1, KUWAIT TV ETHRAA
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
+#EXTINF:-1, KUWAIT TV KIDS
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+#EXTINF:-1, KUWAIT TV SPORTS
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
+#EXTINF:-1, KUWAIT TV SPORTS PLUS
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
