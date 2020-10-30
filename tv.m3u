@@ -157,5 +157,5 @@ http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunkl
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1, TF1
 http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_4000000.m3u8
-#EXTINF:-1, FRANCE 2
-https://livefrancetv.akamaized.net/simulcast/France_2/hls/ZXhwPTE2MDQxMTM1OTV+YWNsPSUyZnNpbXVsY2FzdCUyZkZyYW5jZV8yJTJmaGxzKn5obWFjPTlmZDk2ZTIwZGIwZTdlNTk1NWIwN2U4NmIxZDhmOWM0NWYyOGMwZjYxMGM4MDgzMjFlMzdhNDhmYWVlMTJmZjI=/France_2-video=1400000.m3u8
+#EXTINF:-1, BFMTV
+https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_1/2dea6b1e0651466d97542a5e0b8b5e18/chunklist_ssaiV.m3u8
